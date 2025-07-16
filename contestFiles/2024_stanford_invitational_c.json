@@ -8,18 +8,18 @@
       "id": null,
       "questionInfo": {
         "question": "The end diastolic volume is 120mL/beat, the cardiac output rate is 5L/min and the heart rate of a patient is 70 bpm. Calculate the end systolic volume and the stroke volume.",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [0],
         "potentialAnswers": [
           "48.57mL/beat, 71.43mL/beat",
           "119.93mL/beat, 0.07mL/beat",
           "12.23mL/beat, 107.77mL/beat",
           "83.32mL/beat, 36.68mL/beat"
         ],
-        "explanation": null
+        "explanation": "Stroke volume = CO/HR = ~71.43 mL; ESV = EDV – SV = 48.57 mL."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -34,18 +34,18 @@
       "id": null,
       "questionInfo": {
         "question": "A patient has a systolic pressure of 138 mmHg and a diastolic pressure of 87 mmHg. What is their mean arterial pressure?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex":[1],
         "potentialAnswers": [
           "96",
           "99",
           "104",
           "117"
         ],
-        "explanation": null
+        "explanation": "MAP ≈ diastolic + 1/3(systolic – diastolic) = 87 + 17 = 104."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -60,18 +60,18 @@
       "id": null,
       "questionInfo": {
         "question": "The heart has three main layers—list them from innermost to outermost.",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [2],
         "potentialAnswers": [
           "(inner) Endocardium – Epicardium – Myocardium (outer)",
           "(inner) Pericardium – Myocardium – Endocardium (outer)",
           "(inner) Endocardium – Myocardium – Epicardium (outer)",
           "(inner) Epicardium – Myocardium – Endocardium (outer)"
         ],
-        "explanation": null
+        "explanation": "Endocardium → Myocardium → Epicardium is the correct innermost-to-outermost order."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null

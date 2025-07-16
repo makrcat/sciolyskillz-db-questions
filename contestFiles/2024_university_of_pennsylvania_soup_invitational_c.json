@@ -302,11 +302,11 @@
           "The SA node is the sole pacemaker in the heart.",
           "The AV node speeds up conduction."
         ],
-        "explanation": null
+        "explanation": "Sodium currents do play a role in the firing of the SA node, making option 1 true. The SA node is not the sole pacemaker as other areas like the AV node and Purkinje fibers can also initiate impulses under certain conditions. The AV node actually slows down conduction to allow for proper filling of the ventricles."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -330,11 +330,11 @@
           "Stretching of vessels may open stretch-activated calcium channels, resulting in smooth muscle contraction (when such vessels have smooth muscle lining).",
           "Capillaries make up the largest portion of total peripheral resistance due to their small diameters."
         ],
-        "explanation": null
+        "explanation": "Option 0 is incorrect because veins do not have a smooth muscle lining like arteries and arterioles; they have a thinner wall and less smooth muscle compared to arteries."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -349,18 +349,20 @@
       "id": null,
       "questionInfo": {
         "question": "Which of the following is INCORRECT regarding cardiac contraction?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          2
+        ],
         "potentialAnswers": [
           "The ventricles have thicker walls than the atria.",
           "The left ventricle must contract more forcefully than the right, as it pushes blood to the whole body.",
           "The first heart sound is the closing of the aortic valve, and the second is the closing of the pulmonary.",
-          "The semilunar valves open when the pressure in the ventricles increases. Page 4 / 14 2024 SOUP Anatomy and Physiology Exam Team # _____ Page Score _____ Labeling Image Source: Andrewmeyerson.  ECG diagram showing normal sinus rhythm . 2 May 2016.  Wikimedia Commons , https://commons.wikimedia.org/wiki/File:Normal_Sinus_Rhythm_Unlabeled.jpg. Accessed 17 Jan. 2024. Label the P-wave, T-wave, the QRS Complex, ST segment, and PR segment. [1 pt each] Fill in the Blank Fill in the blank or circle the correct answer. [1pt per answer]"
+          "The semilunar valves open when the pressure in the ventricles increases."
         ],
-        "explanation": null
+        "explanation": "The second heart sound is actually the closing of the aortic valve, while the first heart sound is the closing of the atrioventricular (AV) valves."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -384,11 +386,11 @@
           "Bowman\u2019s Capsule \u2192Loop of Henle \u2192Distal Convoluted Tubule \u2192Proximal Convoluted Tubule \u2192Collecting Duct",
           "Bowman\u2019s Capsule \u2192Loop of Henle \u2192Proximal Convoluted Tubule \u2192Distal Convoluted Tubule \u2192Collecting Duct"
         ],
-        "explanation": null
+        "explanation": "The correct order of the excretory system's components is: Bowman\u2019s Capsule, Proximal Convoluted Tubule, Loop of Henle, Distal Convoluted Tubule, and Collecting Duct. This sequence reflects the path of filtrate through the nephron in the kidneys, where waste is processed and urine is formed."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Excretory",
         "event": "anatomy",
         "tags": [
           null
@@ -412,11 +414,11 @@
           "Collecting Duct",
           "Loop of Henle"
         ],
-        "explanation": null
+        "explanation": "Thiazide diuretics act on the distal convoluted tubule of the nephron, where they inhibit sodium reabsorption, leading to increased urine production and lower blood pressure."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Excretory",
         "event": "anatomy",
         "tags": [
           null
@@ -442,11 +444,11 @@
           "Atrial Natriuretic Peptide",
           "All of the above are hormones in the RAAS system"
         ],
-        "explanation": null
+        "explanation": "Atrial Natriuretic Peptide (ANP) is not a hormone in the RAAS (Renin-Angiotensin-Aldosterone System); it is involved in the regulation of blood pressure and fluid balance but acts oppositely to the RAAS."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Excretory",
         "event": "anatomy",
         "tags": [
           null
@@ -470,11 +472,11 @@
           "Proximal tubule",
           "Loop of Henle"
         ],
-        "explanation": null
+        "explanation": "The majority of reabsorption occurs in the proximal tubule of the nephron, where essential substances like water, glucose, and ions are reabsorbed back into the bloodstream."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Excretory",
         "event": "anatomy",
         "tags": [
           null
@@ -498,11 +500,11 @@
           "Nearby the proximal tubule",
           "On the upper ridge of the distal tubule"
         ],
-        "explanation": null
+        "explanation": "The medullary interstitium has the highest osmolarity deeper in the kidney, particularly by the base of the loop of Henle, due to the countercurrent multiplication mechanism that concentrates solutes in this area."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Excretory",
         "event": "anatomy",
         "tags": [
           null
@@ -527,11 +529,11 @@
           "They respond to changes in acidity in the glomerular filtrate.",
           "They are located in the hypothalamus and contain osmoreceptors."
         ],
-        "explanation": null
+        "explanation": "Granular cells, located in the juxtaglomerular apparatus of the kidney, sense salt concentration and secrete renin, which initiates the renin-angiotensin-aldosterone system (RAAS) to regulate blood pressure and fluid balance."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Excretory",
         "event": "anatomy",
         "tags": [
           null
@@ -555,11 +557,11 @@
           "They are located at the juxtaglomerular apparatus and help sense blood pressure.",
           "They are permeable to salts and thus good targets for diuretics."
         ],
-        "explanation": null
+        "explanation": "Type A intercalated cells are involved in acid-base balance by secreting H+ ions, which helps reduce metabolic acidosis in the collecting duct."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Excretory",
         "event": "anatomy",
         "tags": [
           null
@@ -583,11 +585,11 @@
           "Diuretics decrease blood pressure through water reuptake at the collecting duct.",
           "Diuretics decrease salt reabsorption, thus increasing urine volume. Page 8 / 14 2024 SOUP Anatomy and Physiology Exam Team # _____ Page Score _____"
         ],
-        "explanation": null
+        "explanation": "Diuretics work by decreasing salt reabsorption in the kidneys, which leads to increased urine volume and helps lower blood pressure."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Excretory",
         "event": "anatomy",
         "tags": [
           null
@@ -611,11 +613,11 @@
           "GFR is increased by constriction of the afferent arteriole entering the glomerulus.",
           "Damage to the basement layer can cause accidental protein filtration."
         ],
-        "explanation": null
+        "explanation": "Constriction of the afferent arteriole decreases blood flow into the glomerulus, leading to a decrease in glomerular filtration rate (GFR), not an increase."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Excretory",
         "event": "anatomy",
         "tags": [
           null
@@ -630,18 +632,20 @@
       "id": null,
       "questionInfo": {
         "question": "Which of the following is true regarding vasopressin?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          0
+        ],
         "potentialAnswers": [
           "Vasopressin increases the expression of aquaporins in the collecting duct.",
           "Vasopressin is helpful in decreasing blood pressure.",
           "Vasopressin is released from the anterior pituitary in response to medullary signaling.",
           "Vasopressin is released from the adrenal cortex in response to renin."
         ],
-        "explanation": null
+        "explanation": "Vasopressin, also known as antidiuretic hormone (ADH), increases the expression of aquaporins in the collecting ducts of the kidneys, enhancing water reabsorption."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Excretory",
         "event": "anatomy",
         "tags": [
           null
@@ -656,18 +660,20 @@
       "id": null,
       "questionInfo": {
         "question": "Which of the following would NOT increase GFR?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          2
+        ],
         "potentialAnswers": [
           "Increased capillary surface area.",
           "Renal blood flow.",
           "Constriction of the afferent arteriole.",
           "Increased blood pressure in the glomerulus."
         ],
-        "explanation": null
+        "explanation": "Constriction of the afferent arteriole decreases blood flow into the glomerulus, which reduces glomerular filtration rate (GFR)."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Excretory",
         "event": "anatomy",
         "tags": [
           null
@@ -682,18 +688,20 @@
       "id": null,
       "questionInfo": {
         "question": "Which of the following is true regarding nephritic syndrome?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          1
+        ],
         "potentialAnswers": [
           "It is due to limited filtration of proteins in the glomerulus.",
           "It results in blood appearing in the urine.",
           "It commonly causes hypotension.",
           "Patients with nephritic syndrome urinate more frequently than normal."
         ],
-        "explanation": null
+        "explanation": "Nephritic syndrome is characterized by inflammation of the glomeruli, leading to hematuria (blood in urine), and it typically does not cause hypotension or increased urination frequency."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Excretory",
         "event": "anatomy",
         "tags": [
           null
@@ -708,18 +716,20 @@
       "id": null,
       "questionInfo": {
         "question": "To be considered for dialysis, a kidney disease patient should have an estimated glomerular filtration rate of?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          3
+        ],
         "potentialAnswers": [
           "< 30 mL/min",
           "< 25 mL/min",
           "< 20 mL/min",
           "< 15 mL/min Fill in the Blank Fill in the blank or circle the correct answer. [1pt per answer]"
         ],
-        "explanation": null
+        "explanation": "A patient typically needs an estimated glomerular filtration rate (eGFR) of less than 15 mL/min to be considered for dialysis, as this indicates severe kidney failure and the need for renal replacement therapy."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Excretory",
         "event": "anatomy",
         "tags": [
           null
@@ -734,18 +744,22 @@
       "id": null,
       "questionInfo": {
         "question": "Which of the following is (are) immune tissue associated with the digestive system?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          0,
+          1,
+          2
+        ],
         "potentialAnswers": [
           "GALT",
           "TALT",
           "SALT",
           "HALT"
         ],
-        "explanation": null
+        "explanation": "GALT (Gut-Associated Lymphoid Tissue), TALT (Tonsil-Associated Lymphoid Tissue), and SALT (Skin-Associated Lymphoid Tissue) are all types of immune tissues associated with the digestive system and its related structures."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Lymphatic",
         "event": "anatomy",
         "tags": [
           null
@@ -760,18 +774,20 @@
       "id": null,
       "questionInfo": {
         "question": "Where do T-lymphocytes mature?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          2
+        ],
         "potentialAnswers": [
           "Bone Marrow",
           "Thyroid",
           "Thymus",
           "Parathyroid"
         ],
-        "explanation": null
+        "explanation": "T-lymphocytes, or T-cells, mature in the thymus, which is a primary lymphoid organ essential for the development of the immune system."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Lymphatic",
         "event": "anatomy",
         "tags": [
           null
@@ -786,18 +802,20 @@
       "id": null,
       "questionInfo": {
         "question": "The spleen is located behind which of the following groups of ribs?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          0
+        ],
         "potentialAnswers": [
           "Ribs 5, 6, 7",
           "Ribs 6, 7, 8",
           "Ribs 8, 9, 10",
           "Ribs 9, 10, 11 Page 11 / 14 2024 SOUP Anatomy and Physiology Exam Team # _____ Page Score _____"
         ],
-        "explanation": null
+        "explanation": "The spleen is located behind ribs 9, 10, and 11, but it is primarily associated with ribs 6, 7, and 8, as it is situated in the left upper quadrant of the abdomen, extending from the 9th to the 11th rib."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Lymphatic",
         "event": "anatomy",
         "tags": [
           null
@@ -812,18 +830,20 @@
       "id": null,
       "questionInfo": {
         "question": "Chylomicrons carrying dietary fats and lipids travel initially through the lymphatic system to eventually enter the circulatory system. Where is the entry point to the circulatory system located?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          0
+        ],
         "potentialAnswers": [
           "Left subclavian vein",
           "Left internal jugular vein",
           "Right internal jugular vein",
           "Right axillary vein"
         ],
-        "explanation": null
+        "explanation": "Chylomicrons enter the circulatory system at the left subclavian vein, where the lymphatic system drains into the bloodstream."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Lymphatic",
         "event": "anatomy",
         "tags": [
           null
@@ -838,18 +858,20 @@
       "id": null,
       "questionInfo": {
         "question": "A patient with breast cancer who underwent a mastectomy (a surgical procedure where breast tissue containing the tumor is removed) came back for a follow-up visit to your clinic two months after the procedure. She presents with swelling in her arm (on the same side where the tumor was removed from) and you note that you removed a few lymph nodes during the mastectomy. This patient most likely has which of the following:",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          2
+        ],
         "potentialAnswers": [
           "Lymphadenopathy",
           "Hodgkin\u2019s Lymphoma",
           "Lymphedema",
           "Thoracic Outlet Syndrome"
         ],
-        "explanation": null
+        "explanation": "The patient most likely has lymphedema, which is swelling due to the accumulation of lymph fluid, often occurring after lymph node removal during cancer surgery."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Lymphatic",
         "event": "anatomy",
         "tags": [
           null
@@ -864,18 +886,20 @@
       "id": null,
       "questionInfo": {
         "question": "High endothelial venules can be found in which lymph organ?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          3
+        ],
         "potentialAnswers": [
           "Thymus",
           "Bone marrow",
           "Liver",
           "Lymph node"
         ],
-        "explanation": null
+        "explanation": "High endothelial venules (HEVs) are specialized blood vessels found in lymph nodes that facilitate the entry of lymphocytes from the bloodstream into the lymphatic tissue."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Lymphatic",
         "event": "anatomy",
         "tags": [
           null
@@ -890,18 +914,20 @@
       "id": null,
       "questionInfo": {
         "question": "All of the following are functions of the spleen except:",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          1
+        ],
         "potentialAnswers": [
           "Produces white blood cells",
           "Maintains blood glucose levels",
           "Stores blood",
           "Filters blood"
         ],
-        "explanation": null
+        "explanation": "The spleen does not maintain blood glucose levels; it is primarily involved in filtering blood, storing blood, and producing white blood cells."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Lymphatic",
         "event": "anatomy",
         "tags": [
           null
@@ -916,18 +942,20 @@
       "id": null,
       "questionInfo": {
         "question": "Where are the tonsils located?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          0
+        ],
         "potentialAnswers": [
           "Back of the mouth",
           "Base of the neck",
           "Front of the mouth",
           "Armpit"
         ],
-        "explanation": null
+        "explanation": "The tonsils are located at the back of the mouth and are part of the lymphatic system, which plays a role in immune function."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Lymphatic",
         "event": "anatomy",
         "tags": [
           null
@@ -942,18 +970,20 @@
       "id": null,
       "questionInfo": {
         "question": "What is a common cause of tonsillitis?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          2
+        ],
         "potentialAnswers": [
           "Oral cancer",
           "Laryngitis",
           "Strep throat",
           "Acid reflux disease"
         ],
-        "explanation": null
+        "explanation": "Tonsillitis is commonly caused by infections, particularly bacterial infections like strep throat, which affects the tonsils."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Lymphatic",
         "event": "anatomy",
         "tags": [
           null
@@ -968,18 +998,20 @@
       "id": null,
       "questionInfo": {
         "question": "What fraction of total splenic tissue does white pulp make up?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          0
+        ],
         "potentialAnswers": [
           "\u00bc",
           "\u00bd",
           "\u00be",
-          "\u215d Page 12 / 14 2024 SOUP Anatomy and Physiology Exam Team # _____ Page Score _____"
+          "\u215d"
         ],
-        "explanation": null
+        "explanation": "White pulp makes up approximately \u00bc of the total splenic tissue, with the remaining \u00be being red pulp."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Lymphatic",
         "event": "anatomy",
         "tags": [
           null
@@ -994,18 +1026,20 @@
       "id": null,
       "questionInfo": {
         "question": "The spleen is an important site of phagocytosis of what bacterial virulence factor (individuals without a spleen are more prone to infection if this bacterial characteristic is present)?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          2
+        ],
         "potentialAnswers": [
           "Pilli",
           "Flagella",
           "Capsules",
           "Fimbriae"
         ],
-        "explanation": null
+        "explanation": "The spleen plays a crucial role in filtering blood and removing encapsulated bacteria. Individuals without a spleen are more susceptible to infections from encapsulated organisms due to the lack of phagocytic activity against these virulent factors."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Lymphatic",
         "event": "anatomy",
         "tags": [
           null
@@ -1020,14 +1054,16 @@
       "id": null,
       "questionInfo": {
         "question": "The main constituent of yellow bone marrow is",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          3
+        ],
         "potentialAnswers": [
           "Immune cells",
           "Red blood cells",
           "Stem cells",
           "Adipose cells"
         ],
-        "explanation": null
+        "explanation": "Yellow bone marrow primarily consists of adipose (fat) cells, which serve as a storage site for energy and help in the production of certain hormones."
       },
       "searchInfo": {
         "reference": null,
@@ -1046,14 +1082,16 @@
       "id": null,
       "questionInfo": {
         "question": "Red bone marrow only exists in this cell type in adults:",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          0
+        ],
         "potentialAnswers": [
           "Axial flat bones",
           "Sesamoid bones",
           "Long bones",
           "Short bones"
         ],
-        "explanation": null
+        "explanation": "Lymphatic"
       },
       "searchInfo": {
         "reference": null,
@@ -1072,18 +1110,20 @@
       "id": null,
       "questionInfo": {
         "question": "What kinds of cells line lymph capillaries?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          2
+        ],
         "potentialAnswers": [
           "Stratified squamous cells",
           "Pseudo-stratified squamous cells",
           "Simple squamous cells",
-          "Cuboidal cells Fill in the Blank Fill in the blank or circle the correct answer. [1pt per answer]"
+          "Cuboidal cells"
         ],
-        "explanation": null
+        "explanation": "Lymph capillaries are lined with simple squamous cells, which allow for easy exchange of fluids and solutes between the lymph and surrounding tissues."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Lymphatic",
         "event": "anatomy",
         "tags": [
           null

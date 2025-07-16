@@ -8,18 +8,20 @@
       "id": null,
       "questionInfo": {
         "question": "During the isovolumic phase of ventricular systole:",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          1
+        ],
         "potentialAnswers": [
           "The atria contract.",
           "The atrioventricular valves and semilunar valves are closed.",
-          "The ventricles are ﬁlling with blood.",
+          "The ventricles are filling with blood.",
           "Blood is ejected into the great vessels."
         ],
-        "explanation": null
+        "explanation": "During the isovolumic phase of ventricular systole, both the atrioventricular valves and semilunar valves are closed, leading to a period where the ventricles contract without changing their volume, as no blood is entering or leaving."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -34,18 +36,21 @@
       "id": null,
       "questionInfo": {
         "question": "Select all of the following that are measures of contractility.",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          0,
+          1
+        ],
         "potentialAnswers": [
           "dP dt",
-          "Mean velocity of ﬁber shortening.",
+          "Mean velocity of fiber shortening.",
           "End-diastolic pressure.",
           "Oxygen-extraction ratio"
         ],
-        "explanation": null
+        "explanation": "Measures of contractility include dP dt (the rate of pressure change in the heart) and mean velocity of fiber shortening (how quickly heart muscle fibers shorten during contraction). End-diastolic pressure and oxygen-extraction ratio are not direct measures of contractility."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -60,18 +65,20 @@
       "id": null,
       "questionInfo": {
         "question": "Which of the following results from sympathetic stimulation of vascular smooth muscle?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          3
+        ],
         "potentialAnswers": [
-          "Increased ﬁltration of ﬂuid from capillaries to interstitial space.",
+          "Increased filtration of fluid from capillaries to interstitial space.",
           "Total peripheral resistance (TPR) decreases.",
-          "Blood ﬂow to the brain decreases.",
+          "Blood flow to the brain decreases.",
           "Venous return of blood to the heart increases."
         ],
-        "explanation": null
+        "explanation": "Sympathetic stimulation of vascular smooth muscle causes vasoconstriction, which increases venous return to the heart and raises total peripheral resistance (TPR)."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -112,18 +119,20 @@
       "id": null,
       "questionInfo": {
         "question": "An arterial pressure waveform for the aorta creates a dicrotic notch. Given this information, the dicrotic notch most likely occurs when:",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          0
+        ],
         "potentialAnswers": [
           "The aortic valve closes in the early diastole.",
           "The left ventricle ejects blood into the aorta.",
-          "Most of the blood volume in the aorta ﬂows into the brachiocephalic, carotid, and left subclavian arteries.",
-          "Oxygenated blood in the left atrium ﬂows into the left ventricle."
+          "Most of the blood volume in the aorta flows into the brachiocephalic, carotid, and left subclavian arteries.",
+          "Oxygenated blood in the left atrium flows into the left ventricle."
         ],
-        "explanation": null
+        "explanation": "The dicrotic notch occurs when the aortic valve closes, marking the end of systole and the beginning of diastole, causing a brief increase in aortic pressure before it begins to fall."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -190,18 +199,20 @@
       "id": null,
       "questionInfo": {
         "question": "A heart murmur during systole would suggest which of the following?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          0
+        ],
         "potentialAnswers": [
           "Ausculation.",
           "Observation.",
           "Palpation.",
-          "Percussion. Pdzrn3 is an endothelial cell(EC)-speciﬁc ubiquitin ligase that destabilizes tight junctions."
+          "Percussion. Pdzrn3 is an endothelial cell(EC)-specific ubiquitin ligase that destabilizes tight junctions."
         ],
-        "explanation": null
+        "explanation": "A heart murmur during systole indicates abnormal blood flow in the heart, which is assessed through auscultation."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -220,8 +231,8 @@
         "potentialAnswers": [
           "In iEC-Pdzrn3 mice, oncotic pressure at the venous end of the capillary is much greater than hydrostatic pressure at the arterial end.",
           "In iEC-Pdzrn3 mice, hydrostatic pressure at the arterial end of the capillary is much greater than the oncotic pressure at the venous end.",
-          "In the hearts of iEC-Pdzrn3 mice, the net ﬂow of interstitial ﬂuid is directed out of the coronary capillaries.",
-          "In iEC-Pdzrn3 mice, nitric oxide coupling to endothelial NO receptors would decrease ﬂuid ﬂow into the interstitial space. The mutant strain of mice was shown to have greater end-diastolic pressure than the control strain of mice, a characteristic of diastolic dysfunction."
+          "In the hearts of iEC-Pdzrn3 mice, the net flow of interstitial fluid is directed out of the coronary capillaries.",
+          "In iEC-Pdzrn3 mice, nitric oxide coupling to endothelial NO receptors would decrease fluid flow into the interstitial space. The mutant strain of mice was shown to have greater end-diastolic pressure than the control strain of mice, a characteristic of diastolic dysfunction."
         ],
         "explanation": null
       },
@@ -242,18 +253,21 @@
       "id": null,
       "questionInfo": {
         "question": "(2 points) Select all quantities that would be increased.",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          0,
+          1
+        ],
         "potentialAnswers": [
           "Contractility",
           "End-diastolic volume",
           "Stroke volume",
           "Sarcomere length"
         ],
-        "explanation": null
+        "explanation": "End-diastolic volume and stroke volume would be increased due to factors such as increased venous return or improved contractility, while contractility itself may not be directly increased in this context. Sarcomere length can also increase with greater preload, leading to enhanced stroke volume."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -268,14 +282,17 @@
       "id": null,
       "questionInfo": {
         "question": "(2 points) Select all of the following proteins whose expressions would be increased in the mutant mice.",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          0,
+          1
+        ],
         "potentialAnswers": [
           "Angiotensin",
           "Atrial natriuretic peptide",
           "Endothelin-1",
           "Renin"
         ],
-        "explanation": null
+        "explanation": "Cardiovascular"
       },
       "searchInfo": {
         "reference": null,
@@ -294,14 +311,16 @@
       "id": null,
       "questionInfo": {
         "question": "Select all of the protein channels that open during phase 2 of the action potential.",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          0
+        ],
         "potentialAnswers": [
           "Late-type Ca 2+   channels",
           "Ryanodine channels",
           "Na-K ATPase channels",
           "N-methyl-D-aspartate channels Page 3 GGSO Invitational Anatomy and Physiology C"
         ],
-        "explanation": null
+        "explanation": "During phase 2 of the action potential, late-type Calcium channels open, allowing calcium ions to enter the cell, which is crucial for the plateau phase in cardiac action potentials. Ryanodine channels are involved in calcium release from the sarcoplasmic reticulum but are not directly opened during phase 2. Na-K ATPase channels are not involved in the action potential phases, and N-methyl-D-aspartate channels are related to neurotransmission, not action potentials."
       },
       "searchInfo": {
         "reference": null,
@@ -327,7 +346,7 @@
           "Whole-cell patch-clamp",
           "12-lead electrode ECG"
         ],
-        "explanation": null
+        "explanation": "The techniques listed are primarily used in electrophysiology to study cellular activity, particularly in neurons or muscle cells, rather than in the cardiovascular system directly."
       },
       "searchInfo": {
         "reference": null,
@@ -346,14 +365,16 @@
       "id": null,
       "questionInfo": {
         "question": "Select all of the following that induces platelet aggregation.",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          2
+        ],
         "potentialAnswers": [
           "High molecular weight heparin",
           "Prostaglandin  I 2",
           "Thromboxane  A 2",
           "Warfarin"
         ],
-        "explanation": null
+        "explanation": "Cardiovascular"
       },
       "searchInfo": {
         "reference": null,
@@ -371,19 +392,21 @@
     {
       "id": null,
       "questionInfo": {
-        "question": "A 40-year-old man su↵ered a myocardial infarction. He has a strong family history of heart attacks. On the exam, his blood pressure and pulse are normal. He has xanthomas on his hands and xanthelasmas on his eyelids. His LDL is 290 mg/dL, HDL is 29 mg/dL, and triglycerides are 140 mg/dL. Which of the following does he most likely have a deﬁciency of?",
-        "correctAnswerIndex": null,
+        "question": "A 40-year-old man suffered a myocardial infarction. He has a strong family history of heart attacks. On the exam, his blood pressure and pulse are normal. He has xanthomas on his hands and xanthelasmas on his eyelids. His LDL is 290 mg/dL, HDL is 29 mg/dL, and triglycerides are 140 mg/dL. Which of the following does he most likely have a deficiency of?",
+        "correctAnswerIndex": [
+          3
+        ],
         "potentialAnswers": [
           "Apo B48",
           "Apo C",
           "Lipoprotein lipase activity",
           "LDL receptor"
         ],
-        "explanation": null
+        "explanation": "The patient likely has familial hypercholesterolemia, characterized by a deficiency in LDL receptors, leading to elevated LDL levels and associated xanthomas and xanthelasmas."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -398,18 +421,20 @@
       "id": null,
       "questionInfo": {
         "question": "A person goes from a standing to a supine position. Which of the following changes is most likely?",
-        "correctAnswerIndex": null,
-        "potentialAnswers": [
-          "\"  carotid sinus baroreceptor activity,  \"  atrial stretch receptor activity,  \"  vagal e↵erent activity to the heart.",
-          "\"  carotid sinus baroreceptor activity,  \"  atrial stretch receptor activity,  #  vagal e↵erent activity to the heart.",
-          "#  carotid sinus baroreceptor activity,  #  atrial stretch receptor activity,  #  vagal e↵erent activity to the heart.",
-          "#  carotid sinus baroreceptor activity,  #  atrial stretch receptor activity,  \"  vagal e↵erent activity to the heart."
+        "correctAnswerIndex": [
+          0
         ],
-        "explanation": null
+        "potentialAnswers": [
+          "\"  carotid sinus baroreceptor activity,  \"  atrial stretch receptor activity,  \"  vagal efferent activity to the heart.",
+          "\"  carotid sinus baroreceptor activity,  \"  atrial stretch receptor activity,  #  vagal efferent activity to the heart.",
+          "#  carotid sinus baroreceptor activity,  #  atrial stretch receptor activity,  #  vagal efferent activity to the heart.",
+          "#  carotid sinus baroreceptor activity,  #  atrial stretch receptor activity,  \"  vagal efferent activity to the heart."
+        ],
+        "explanation": "When a person moves from a standing to a supine position, there is a decrease in carotid sinus baroreceptor activity due to reduced blood pressure in the head and neck. This leads to decreased atrial stretch receptor activity as venous return increases, and vagal efferent activity to the heart typically increases to help manage heart rate and maintain blood pressure."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -424,14 +449,16 @@
       "id": null,
       "questionInfo": {
         "question": "Which of the following is the strongest risk factor for cardiovascular disease?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          0
+        ],
         "potentialAnswers": [
           "Smoking",
           "Heavy alcohol use",
           "High LDL cholesterol",
           "Family history Page 5 GGSO Invitational Anatomy and Physiology C"
         ],
-        "explanation": null
+        "explanation": "Cardiovascular"
       },
       "searchInfo": {
         "reference": null,
@@ -450,18 +477,20 @@
       "id": null,
       "questionInfo": {
         "question": "An elderly man presents with shortness of breath. He has morbid obesity and obstructive sleep apnea. An EKG is obtained and shown in Image C6. Which of the following will improve his symptoms?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          2
+        ],
         "potentialAnswers": [
           "Controlling the atrial rate",
           "Initiating anticoagulation",
           "Controlling the ventricular rate",
           "Maintaining his blood pressure"
         ],
-        "explanation": null
+        "explanation": "Controlling the ventricular rate can help alleviate symptoms of shortness of breath in patients with atrial fibrillation, especially in the context of obesity and obstructive sleep apnea, by improving cardiac output and reducing heart workload."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -480,14 +509,14 @@
         "potentialAnswers": [
           "Mobitz Type II 2nd degree heart block",
           "Ventricular tachycardia",
-          "Ventricular ﬁbrillation",
+          "Ventricular fibrillation",
           "Supraventricular tachycardia with aberrant conduction"
         ],
-        "explanation": null
+        "explanation": "The question pertains to a rhythm noted in a patient post-heart attack, which could involve various arrhythmias. Without the image, it's impossible to determine the specific rhythm, hence 'NA' is appropriate."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -502,18 +531,20 @@
       "id": null,
       "questionInfo": {
         "question": "(a)  The process by which tertiary lymphoid organs (TLOs) are formed is called: (b)  Which of the following molecules would induce TLO formation?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          1
+        ],
         "potentialAnswers": [
           "IgE",
           "IL-17",
           "Heparan sulfate",
           "UDP-glucuronic acid"
         ],
-        "explanation": null
+        "explanation": "IL-17 is known to promote the formation of tertiary lymphoid organs (TLOs) by inducing the expression of chemokines and adhesion molecules that facilitate the recruitment of immune cells."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Lymphatic",
         "event": "anatomy",
         "tags": [
           null
@@ -531,9 +562,9 @@
         "correctAnswerIndex": null,
         "potentialAnswers": [
           "Choroid plexus",
-          "Peyer’s patches",
+          "Peyer's patches",
           "Stromal cells in the spleen",
-          "Waldeyer’s ring"
+          "Waldeyer's ring"
         ],
         "explanation": null
       },
@@ -554,18 +585,20 @@
       "id": null,
       "questionInfo": {
         "question": "What type of capillaries is mainly found in the white pulp?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          2
+        ],
         "potentialAnswers": [
           "Anastomotic",
           "Continuous",
           "Fenestrated",
           "Sinusoidal"
         ],
-        "explanation": null
+        "explanation": "Fenestrated capillaries are primarily found in the white pulp of the spleen, allowing for the exchange of immune cells and substances."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Lymphatic",
         "event": "anatomy",
         "tags": [
           null
@@ -580,18 +613,20 @@
       "id": null,
       "questionInfo": {
         "question": "(2 points) How do Heinz bodies form in erythrocytes?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          1
+        ],
         "potentialAnswers": [
-          "Silicates that accumulate in the lung di↵use through the alveolar membrane, into the bloodstream, and into the erythrocytes, in which the silicates build up.",
+          "Silicates that accumulate in the lung diffuse through the alveolar membrane, into the bloodstream, and into the erythrocytes, in which the silicates build up.",
           "Reactive oxygen species oxidize sulfhydryl groups in Hemoglobin, making the protein insoluble. The insoluble proteins precipitate out as Heinz bodies.",
-          "Endothelial cells export Fe 3+   ions as a secondary metabolite, which di↵uses through the erythro- cyte membrane and aggregates as iron nodules.",
+          "Endothelial cells export Fe 3+   ions as a secondary metabolite, which diffuses through the erythro- cyte membrane and aggregates as iron nodules.",
           "Clusters of erythrocyte nuclear remnants aggregate in the cytoplasm."
         ],
-        "explanation": null
+        "explanation": "Heinz bodies form when reactive oxygen species oxidize sulfhydryl groups in hemoglobin, leading to the precipitation of insoluble proteins within erythrocytes."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -637,7 +672,7 @@
           "Hypercellular marrow with blasts",
           "Dysplasia involving all cell lineages",
           "Dry tap of bone marrow",
-          "Di↵use lymphadenopathy"
+          "Diffuse lymphadenopathy"
         ],
         "explanation": null
       },
@@ -843,7 +878,7 @@
         "correctAnswerIndex": null,
         "potentialAnswers": [
           "Na +",
-          "HCO − 3",
+          "HCO 3-",
           "Phosphate",
           "Ca 2+"
         ],
@@ -870,7 +905,7 @@
         "potentialAnswers": [
           "Glomerular osmotic pressure of 35 mmHg",
           "Glomerular hydrostatic pressure of 70 mmHg",
-          "Sympathetic stimulation of the a↵erent arteriole",
+          "Sympathetic stimulation of the afferent arteriole",
           "Secretion of aldosterone"
         ],
         "explanation": null
@@ -891,7 +926,7 @@
     {
       "id": null,
       "questionInfo": {
-        "question": "Which of the following is a side e↵ect of furosemide?",
+        "question": "Which of the following is a side effect of furosemide?",
         "correctAnswerIndex": null,
         "potentialAnswers": [
           "Hyperkalemia",
@@ -923,7 +958,7 @@
           "They are contractile cells",
           "They are phagocytic",
           "They are a source of growth factors",
-          "They a↵ect renal blood ﬂow"
+          "They affect renal blood flow"
         ],
         "explanation": null
       },
@@ -943,7 +978,7 @@
     {
       "id": null,
       "questionInfo": {
-        "question": "A 68-year-old man presents with urinary urgency and incontinence. He describes good urinary ﬂow. His urinalysis and prostate examination are normal. Which medication might relieve his symptoms?",
+        "question": "A 68-year-old man presents with urinary urgency and incontinence. He describes good urinary flow. His urinalysis and prostate examination are normal. Which medication might relieve his symptoms?",
         "correctAnswerIndex": null,
         "potentialAnswers": [
           "Calcium channel blocker",
@@ -969,7 +1004,7 @@
     {
       "id": null,
       "questionInfo": {
-        "question": "Decreasing diuretic e↵ectiveness:",
+        "question": "Decreasing diuretic effectiveness:",
         "correctAnswerIndex": null,
         "potentialAnswers": [
           "bumetanide  >  acetazolamide  >  hydrochlorothiazide",
@@ -995,7 +1030,7 @@
     {
       "id": null,
       "questionInfo": {
-        "question": "Which of the following can be associated with the urinalysis ﬁnding in Image E1? Select all that apply.",
+        "question": "Which of the following can be associated with the urinalysis finding in Image E1? Select all that apply.",
         "correctAnswerIndex": null,
         "potentialAnswers": [
           "NSAID use",
@@ -1047,7 +1082,7 @@
     {
       "id": null,
       "questionInfo": {
-        "question": "What is one possible cause of the urinalysis ﬁnding shown in Image E2?",
+        "question": "What is one possible cause of the urinalysis finding shown in Image E2?",
         "correctAnswerIndex": null,
         "potentialAnswers": [
           "Obesity",
@@ -1073,7 +1108,7 @@
     {
       "id": null,
       "questionInfo": {
-        "question": "In anorexia, gluconeogenesis starts in a speciﬁc segment of the kidney. Which of the following best describes the percentage of NaCl reabsorbed in this nephron segment?",
+        "question": "In anorexia, gluconeogenesis starts in a specific segment of the kidney. Which of the following best describes the percentage of NaCl reabsorbed in this nephron segment?",
         "correctAnswerIndex": null,
         "potentialAnswers": [
           "3-5%",
@@ -1125,7 +1160,7 @@
     {
       "id": null,
       "questionInfo": {
-        "question": "In a person with very high levels of aldosterone and otherwise normal kidney function, approximately what percentage of the ﬁltered load of sodium would be reabsorbed?  (Omitted from grading)",
+        "question": "In a person with very high levels of aldosterone and otherwise normal kidney function, approximately what percentage of the filtered load of sodium would be reabsorbed?  (Omitted from grading)",
         "correctAnswerIndex": null,
         "potentialAnswers": [
           "Over 65%",
@@ -1157,7 +1192,7 @@
           "Interlobar artery",
           "Arcuate artery",
           "Segmental artery",
-          "E↵erent arteriole"
+          "Efferent arteriole"
         ],
         "explanation": null
       },
@@ -1180,11 +1215,11 @@
         "question": "The amount of a substance excreted is equal to the amount plus the amount minus the amount .",
         "correctAnswerIndex": null,
         "potentialAnswers": [
-          "ﬁltered; reabsorbed; secreted",
-          "reabsorbed; ﬁltered; secreted",
-          "secreted; reabsorbed; ﬁltered",
-          "ﬁltered; secreted; reabsorbed",
-          "reabsorbed; secreted; ﬁltered"
+          "filtered; reabsorbed; secreted",
+          "reabsorbed; filtered; secreted",
+          "secreted; reabsorbed; filtered",
+          "filtered; secreted; reabsorbed",
+          "reabsorbed; secreted; filtered"
         ],
         "explanation": null
       },
@@ -1208,9 +1243,9 @@
         "correctAnswerIndex": null,
         "potentialAnswers": [
           "ischioanal fossa",
-          "superﬁcial fascia cleft in the gluteal region",
+          "superficial fascia cleft in the gluteal region",
           "peritoneal cavity",
-          "superﬁcial fascia cleft of the anterior abdominal wall"
+          "superficial fascia cleft of the anterior abdominal wall"
         ],
         "explanation": null
       },
@@ -1230,7 +1265,7 @@
     {
       "id": null,
       "questionInfo": {
-        "question": "What channels are primarily a↵ected in an individual with the disease characterized by low renin, low aldosterone hypertension?",
+        "question": "What channels are primarily affected in an individual with the disease characterized by low renin, low aldosterone hypertension?",
         "correctAnswerIndex": null,
         "potentialAnswers": [
           "Na + -K +   ATPase",
@@ -1282,7 +1317,7 @@
     {
       "id": null,
       "questionInfo": {
-        "question": "A patient has the following lab ﬁndings: Sodium 128 mEq/L, Blood urea nitrogen 35 mg/dL, Creatinine 1.5 mg/dL, Urine osmolality 380 mOsm/kg, Urine sodium 18 mEq/L. What is the most likely cause of this patient’s hyponatremia?",
+        "question": "A patient has the following lab findings: Sodium 128 mEq/L, Blood urea nitrogen 35 mg/dL, Creatinine 1.5 mg/dL, Urine osmolality 380 mOsm/kg, Urine sodium 18 mEq/L. What is the most likely cause of this patient's hyponatremia?",
         "correctAnswerIndex": null,
         "potentialAnswers": [
           "Congestive heart failure",
@@ -1312,7 +1347,7 @@
         "correctAnswerIndex": null,
         "potentialAnswers": [
           "Arginine vasoreceptor 2 in the PCT",
-          "K + –H +   exchange in the distal tubule",
+          "K⁺–H⁺ exchange in the distal tubule",
           "Proximal tubule carbonic anhydrase",
           "Urea reabsorption in the medullary collecting duct"
         ],
@@ -1334,7 +1369,7 @@
     {
       "id": null,
       "questionInfo": {
-        "question": "What kidney condition is associated with the ﬁnding in Image E9?",
+        "question": "What kidney condition is associated with the finding in Image E9?",
         "correctAnswerIndex": null,
         "potentialAnswers": [
           "End stage renal disease",
@@ -1419,8 +1454,8 @@
           "It is composed of parts of the ascending limb of the loop of Henle and the vasa recta.",
           "It is composed of glomerular capillaries and the macula densa.",
           "It is the site of renin secretion.",
-          "It is created by the junction between the proximal tubule and the a↵erent arteriole.",
-          "It is composed of cells that secrete atrial natriuretic peptide and cells that secrete norepinephrine. Page 13 GGSO Invitational Anatomy and Physiology C Use the following information for the question below: Urine ﬂow rate = 1 ml/min Urine inulin concentration = 100 mg/ml Plasma inulin concentration = 2 mg/ml Urine urea concentration = 50 mg/ml Plasma urea concentration = 2.5 mg/ml"
+          "It is created by the junction between the proximal tubule and the afferent arteriole.",
+          "It is composed of cells that secrete atrial natriuretic peptide and cells that secrete norepinephrine. Page 13 GGSO Invitational Anatomy and Physiology C Use the following information for the question below: Urine flow rate = 1 ml/min Urine inulin concentration = 100 mg/ml Plasma inulin concentration = 2 mg/ml Urine urea concentration = 50 mg/ml Plasma urea concentration = 2.5 mg/ml"
         ],
         "explanation": null
       },
@@ -1440,7 +1475,7 @@
     {
       "id": null,
       "questionInfo": {
-        "question": "(2 points) What is the glomerular ﬁltration rate (GFR)?",
+        "question": "(2 points) What is the glomerular filtration rate (GFR)?",
         "correctAnswerIndex": null,
         "potentialAnswers": [
           "0 ml/min",
@@ -1497,7 +1532,7 @@
         "correctAnswerIndex": null,
         "potentialAnswers": [
           "Nontreponemal and treponemal serologies",
-          "Nucleic acid ampliﬁcation",
+          "Nucleic acid amplification",
           "Viral culture of active genital lesion",
           "HLA-B27"
         ],
