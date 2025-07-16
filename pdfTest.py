@@ -12,10 +12,10 @@ def flatten(s):
 
 # thank you gpt
 def cleanQ(text):
-    # Remove leading "(1 point) " or similar with space after
-    text = re.sub(r'^\(\d+ point\)\s+', '', text)
-    # Remove trailing "(1 point)" or similar anywhere after (without space required)
-    text = re.sub(r'\(\d+ point\)', '', text)
+   # Remove any parentheses with content at the start + following space
+    text = re.sub(r'^\(.*?\)\s+', '', text)
+    # Remove any other parentheses with content anywhere else
+    text = re.sub(r'\(.*?\)', '', text)
     return text.strip()
 
 def download_drive_pdf(file_id):
