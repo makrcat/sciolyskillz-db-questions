@@ -1,0 +1,2245 @@
+{
+  "competition": "Seven Lakes Invitational",
+  "division": "C",
+  "year": 2024,
+  "event": "anatomy",
+  "questions": [
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "In the odd event that a Rhesus monkey damages your left ventricle, which of the following would be most important to measure to check the blood flow to the body and lungs?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Cardiac output",
+          "Stroke Volume",
+          "Ejection fraction",
+          "End-diastolic volume",
+          "Venous Return"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 1
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) How do the anatomy and function of the Aorta differ from those of the Superior Vena Cava? (select all that apply)",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "The Aorta has a greater amount of smooth muscle than other arteries and the Superior Vena Cava",
+          "In the Aorta, the vasa vasorum are denser in the adventia compaed to the Vena Cava",
+          "The Superior Vena Cava services the thorax, while the Aorta does not",
+          "The Aorta has a much greater concentration of elastin than other artier and the Superior Vena Cava",
+          "The Aorta has a more rigid structure than the Superior Vena Cava"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 2
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is the term for when blood cells move in and out of blood vessels to get to tissue damage or infection sites?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Hemostasis",
+          "Diapedesis",
+          "Vasodilation",
+          "Fibrinolysis",
+          "Thrombopoiesis"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 3
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "A blood vessel has its radius in- creased by a factor of 2. Based on Poiseuille’s Law, by what factor does the blood flow in this vessel increase?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "1",
+          "2",
+          "4",
+          "8",
+          "16"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 4
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) Which of the following are true re- garding arteries and veins? (Select all that apply)",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "The walls of veins are more muscu- lar than those of arteries in order to propel blood back to the heart",
+          "In general, veins are more dis- tensible than arteries",
+          "In general, veins have more sympa- thetic innervation than arteries, but arteries have more parasympathetic innervation than veins",
+          "Veins typically have thinner walls than arteries",
+          "Fenestrations are more com- mon in arteries than in veins"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 5
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is not a re- sponse to hemorrhage?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Increased sympathetic discharge",
+          "Increased Renin secretion",
+          "Constriction of veins",
+          "Decreased TPR",
+          "Decreased ANP secretion"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 6
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which brain region is responsible for the integration of the afferent information about blood presure?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Nucleus Tractus Solitarius",
+          "Nucleus Caudate",
+          "Suprachiasmatic Nucleus",
+          "Lateral Geniculate Nucleus",
+          "Medial Geniculate Nucleus"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 7
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What would happen if the venous compliance is increased?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Increased Cardiac Output",
+          "Decreased Right Atrial Pres- sure",
+          "Decreased Angiotensin II prodcu- tion",
+          "Decreased TPR",
+          "None of the above 2 Anatomy and Physiology C CLASS SET SLHS 2024"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 8
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is not a func- tion of the endothelial cells?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Secrete EDRF",
+          "Mediate angiogenesis",
+          "Secrete TFPI",
+          "Secrete enzymes that inhibits cyclooxygenase"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 9
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "When using a sphygmomanometer, the Korotkoff’s sounds can be first heard when:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Cuff pressure has increased to a value just below the diastolic pres- sure",
+          "Cuff pressure has increased to a value just below the systolic pressure",
+          "Cuff pressure has increased to a value just below the mean atrial pressure",
+          "Cuff pressure has decreased to a value just below the mean atrial pressure",
+          "Pressure equal to gravitational pressure of the heart"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 10
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following statements is most accurate regarding valvular conditions of the heart",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "During aortic stenosis, the “nozzle effect,” or resistance to flow, often occurs during sys- tole",
+          "The increased resistance to blood flow in aortic regurgitation often oc- curs during systole",
+          "Aortic regurgitation results in con- centric hypertrophy of the left ven- tricular myocardium",
+          "Aortic stenosis results in eccentric hypertrophy of the left ventricular myocardium.",
+          "While aortic valve conditions are of- ten devastating, they actually pre- vent the risk of Myocardial infarc- tions by increasing the supply of coronary circulation"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 11
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What channels are directly respon- sible for Ca- Ca release from the sarcoplasm of myocytes?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "T-type channels",
+          "L-type channels",
+          "Ryanodine receptor channels",
+          "F-type channels (Funny channels)",
+          "ENaC"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 12
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following accurately describes Josephson’s sign in an ECG?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "A notch in the S wave near its nadir",
+          "An elongation of the QRS complex",
+          "An elongation of the P-S segment",
+          "Narrowing of the QRS complex",
+          "A common symptom of bradycardia"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 13
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following classes of an- tiarrhythmic drugs block K+ efflux and pro- long the QT interval",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "I",
+          "II",
+          "III",
+          "IV",
+          "V"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 14
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) Which of the following statements are true regarding myocyte action potentials? Select all that apply.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "The effective refractory period al- lows action potentials to spread if they are strong enough",
+          "The supranormal refractory period is in effect during depolarization",
+          "The absolute refractory period al- lows a cell to depolarize but not spread the potential to cells around it",
+          "The supranormal refractory period takes place during repo- larization",
+          "The effective refractory period is caused by the delayed open- ing of fast sodium channels"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 15
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) Which of the following statements is most accurate regarding Atrial Fibrillation (Select all that apply)",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Late-stage Afib can result in a distal embolism due to the stagnation of blood. 3 Anatomy and Physiology C CLASS SET SLHS 2024",
+          "While both persistent and paroxys- mal AFib last longer than 7 days, only in persistent AFib is it ex- tremely difficult to return the pa- tient to a stable sinus rhythm",
+          "Class 3 antiarrhythmics are typi- cally preferred over classes I and II when dealing with AFib cases",
+          "The difference between Atrial Flutter and AFib is that the currents in Atrial flutter are re- entrant",
+          "The EKG of an AFib patient will display a sawtooth-shape"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 16
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) Which of the following, when taken or released in high dosages, are vaso- constrictors? Select all that apply.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Serotonin",
+          "Dopamine",
+          "Epinephrine",
+          "Glutamate",
+          "alcohol"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 17
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is a differ- ence between Heparin and Aspirin in the con- text of the cardiovascular system?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Heparin is an anti-inflammatory signal used to treat pericarditis, whereas aspirin is an anticoagulant used to slow the body’s clotting sys- tem and prevent blood clots.",
+          "Heparin inhibits the function of prostaglandins, leading to vasodi- lation and decreased blood pres- sure, whereas aspirin is an anti- inflammatory drug used to treat pericarditis.",
+          "Heparin is an anticoagulant used to slow the body’s clot- ting system and prevent blood clots, whereas aspirin is an antiplatelet used to prevent platelet aggregation.",
+          "Heparin is an antiplatelet used to prevent platelet aggregation, whereas aspirin inhibits the func- tion of prostaglandins, leading to vasodilation and decreased blood pressure.",
+          "Heparin is an anti-inflammatory signal used to treat pericarditis, whereas aspirin inhibits the func- tion of prostaglandins, leading to vasodilation and decreased blood pressure."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 18
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is the most immunogenic form of Rhesus factor, and which type of immunoglobulin typically tar- gets it?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "C, IgG",
+          "C, IgM",
+          "D, IgM",
+          "E, IgA",
+          "E, IgD"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 19
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following would you most likely expect to see in a fetus undergo- ing Hemolytic Disease of the Newborn as an ABO blood type incompatibility?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Strongly positive indirect Coomb’s test",
+          "Hepatosplenomegaly and Ker- nicterus",
+          "NO reaction in the first pregnancy",
+          "Large number of spherocytes",
+          "Mother with blood type AB-"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 20
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "You are given a report of a pa- tient. However, an eccentric doctor put the units in a format he prefers to deal with. The patient has a daily cardiac output of 12,960,000,000 microliters and a stroke vol- ume of 0.075 liters/beat. What is this pa- tient’s heart rate (rounded to the nearest in- teger, if necessary), and what diagnosis would you give him?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "12 bpm, severe bradycardia",
+          "120 bpm, tachycardia",
+          "68 bpm, normal resting heart rate",
+          "18 bpm, severe bradycardia",
+          "180 bpm, tachycardia"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 21
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Uh oh! Doctor Shalubeta took the measurements of a patient, but he lost his measurement data. Fortunately, he remem- bers that the patient’s pulse pressure was 30 mmHg and that the patient had a Systolic 4 Anatomy and Physiology C CLASS SET SLHS 2024 blood pressure that indicated stage 1 hyper- tension. Which of the following must be true about the patient’s Mean Arterial Pressure (MAP)?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "The patient’s MAP is between 140 and 150 mmHg",
+          "The patient’s MAP is between 160 and 170 mmHg",
+          "The patient’s MAP is between 100 and 110 mmHg",
+          "The patient’s MAP is between 110 and 120 mmHg",
+          "The patient’s MAP is between 80 and 90 mmHg"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 22
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Foam cells are . that are indicative of . due to their .",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Ischemic myocardiocytes, myocar- dial infarction, low oxygen content",
+          "Hemosiderin-laden macrophages, congestive heart failure, high fer- ritin content",
+          "Damaged cardiac nodal cells, atrial fibrillation, low sodium content",
+          "LDL-laden macrophages, atherosclerosis, high lipopro- tein content",
+          "Ruptured mesothelial cells, peri- carditis, low collagen content"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 23
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "During a cardiac stress test, a pa- tient’s blood pressure and heart rate increase significantly. Which of the following mech- anisms is primarily responsible for this re- sponse?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Increased production of erythropoi- etin",
+          "Activation of the ANP",
+          "Release of nitric oxide by en- dothelial cells",
+          "Stimulation of Purkinje fibers",
+          "Opening of the foramen ovale"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 24
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) Which of the following statements is most accurate regarding the CNS ischemic responses? Select all that apply",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Higher CSF pressure leads to a heightened ischemic response",
+          "The Cushing reaction to high CSF pressure may inadvertently damage vital brain centers due to lack of nu- trition",
+          "Feedback stoppages prevent the CNS ischemic response from oscil- lating",
+          "Higher arterial pressure can relieve some of the underly- ing factors regarding CNS is- chemia",
+          "When arterial blood pressure re- turns to normal, sympathetic tone is activated."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 25
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "In all of the following cardiac tissue except ONE - the upstrae phase of the action potential is caused by inward Na+ Currents. Which one is the odd-one-out, and what does it use instead for upstroke?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "SA Node; inward K+ currents",
+          "SA Node; inward Ca2+ cur- rents",
+          "Purkinje Fibers; inward K+ cur- rents",
+          "Purkinje Fibers; inward Ca2+ cur- rents",
+          "Ventricle; inward Ca2+ currents"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 26
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following statements most accurately depicts the function of a1 adrenergic receptors",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Vascular smooth muscle dilation via epinephrine binding",
+          "Vascular smooth muscle dilation via norepinephrine binding",
+          "Vascular smooth muscle constric- tion via epinephrine binding",
+          "Vascular smooth muscle con- striction via norepinephrine binding"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 27
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) Which of the following statements best differentiates between compensated and decompensated circulatory shock? Select all that apply",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "In compensated shock there are internal mechanisms that can bring about spontaneous recovery 5 Anatomy and Physiology C CLASS SET SLHS 2024",
+          "Under compensated shock, the effects of Atrial Natriuretic Peptide would be useful",
+          "Under decompensated circulatory shock, a prompt application of An- giotensin II could be life-saving",
+          "Under decompensated circula- tory shock, a positive feedback loop occurs whereby ischemia of the cerebral vasculature fur- ther depresses vasomotor tone, increasing vasodilation",
+          "99 percent of patients that go into decompensated shock die from it."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 28
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) Which of the following statements is most accurate regarding the vasculature of the thorax? Select all that apply.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "For the majority of the population, there are two bronchial arteries on the right side of the thorax, and one on the left side",
+          "The esophageal arteries are paired and arise from the posterior surface of the aorta to supply the upper third of the esophagus",
+          "The posterior intercostal arter- ies anastomose with the an- terior intercostal arteries to supply musculature, the verte- brae, meninges, and abdominal muscle",
+          "The aortic hiatus prevents the su- perior phrenic arteries from directly supplying the diaphragm, so they must do so via indirect means",
+          "The thoracoacromial trunk provides circulation to the shoulder region of the body."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 29
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) Which of the following statements is true regarding the tributaries of the inferior vena cava? Select all that apply",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "The inferior vena cava is retroperitoneal - just like the kidneys.",
+          "Since the inferior vena cava is slightly positioned to the left, the right renal vein is substantially longer than the left renal vein as it need to cover all of that distance.",
+          "The left suprarenal vein di- rectly flows into the left renal vein",
+          "The inferior vena cava receives tho- racic drainage after it traverses through the aortic hiatus",
+          "6 pairs of lumbar veins empty into the inferior vena cava 6 Anatomy and Physiology C CLASS SET SLHS 2024 Lymphatic Sys- tem(MCQ)"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 30
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is not a spe- cial adaptation of the lymphatic system?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "One cell layer thick walls",
+          "One way Values",
+          "Anchoring Filaments",
+          "Locations near capillaries",
+          "Filtration slits"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 31
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which cell can be found in the inner cortex of a lymph node?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "B cell",
+          "Macrophage",
+          "Plasma cell",
+          "Dendritic cell",
+          "Monocyte"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 32
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which neighboring organ does not leave an impression on the spleen?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Right Kidney",
+          "Stomach",
+          "Colon",
+          "Left Kidney",
+          "Liver"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 33
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is the common name for Bill- roth’s cords?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Cortical cords",
+          "Splenic cords",
+          "Lymphatic cords",
+          "Natriuretic cords",
+          "Tissue cords"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 34
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Lymphatic vessels arise from , which come from the in development.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Veins; mesoderm",
+          "Veins; ectoderm",
+          "Arteries; mesoderm",
+          "Arteries; ectoderm",
+          "Capillaries; ectoderm"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 35
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Many children have inflammation of their tonsils when they are sick, and many tend to have them removed. Which tonsil is commonly removed when they remove “the tonsils”",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Tubal Tonsil",
+          "Pharyngeal Tonsil",
+          "Waldeyers Ring",
+          "Palatine Tonsil",
+          "Lacrimal Tonsil"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 36
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is the purpose of negative se- lection in the thymus?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "To prevent autoimmunity",
+          "To teach T cells to kill cells with the opposite antigens",
+          "To guide T cells to their correct lo- cations in the body",
+          "To code T cells with the correct MHC complexes",
+          "To defend T cells from foreign anti- gen attack"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 37
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Lymphatic fluid from the adrenal glands is most likely drained by which trunk?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Jugular trunk",
+          "Subclavian trunk",
+          "Bronchomediastinal Trunk",
+          "Retroaortic Trunk",
+          "Intestinal Trunk"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 38
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "How would increased salt intake af- fect lymphatic fluid flow?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Decreased lymph flow along with low blood pressure",
+          "Decreased lymph flow along with higher blood pressure",
+          "Increased lymph flow with no change in blood pressure",
+          "Increased lymph flow with higher blood pressure",
+          "Increased lymph flow with low blood pressure"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 39
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Our friend Shalu Beta drinks a bit too much liquor at the bar with his friend Bill, but then a bulge on his neck starts hurt- ing. What disorder/ disease best describes his symptoms?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Lymphedema",
+          "Splenomegaly 7 Anatomy and Physiology C CLASS SET SLHS 2024",
+          "Hodgkins Lymphoma",
+          "non-Hodgkins Lymphoma",
+          "Chronic Myelogenous leukemia"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 40
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "I know you all start quivering when you hear tertiary lymphoid tissue, so what is tertiary lymphoid tissue?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Tissue superficial to the dermis, which acts as a primary lymphatic organ",
+          "A cluster of immune cells ec- topically simulating functions of a secondary lymphatic organ",
+          "An aggregation of immune cells clustered inside a major artery in response to stress",
+          "A conglomeration of cells serving to create new immune cells in places far away from other lymphatic or- gans",
+          "Simple a secondary lymphatic or- gan that has broken loose and trav- eled down the bloodstream"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 41
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is the function of microfold cells, also called M cells?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Selective endocytosis of anti- gens to be destroyed inside the epithelium",
+          "Diapedesis of particles infecting the pancreatic wall",
+          "Presenting antigens to dendritic cells in order to initiate a response",
+          "Phagocytosize bacterial and viral cells in intestinal crypts",
+          "Activate positive selection of B cells in the spleen"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 42
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What does NALT stand for?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Navicular-associated lymphoid tis- sue",
+          "Nephron-associated lymphoid tis- sue",
+          "Nasal-associated lymphoid tis- sue",
+          "Nodal-associated lymphoid tissue",
+          "Nodule-associated lymphoid tissue"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 43
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which lymphatic tissue makes up the appendix?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "SALT",
+          "GALT",
+          "MALT",
+          "NALT",
+          "TALT"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 44
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) Which cells are present in the sub- capsular sinus of a lymph node? Select all that apply.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "T-cells",
+          "B Cells",
+          "Dendritic Cells",
+          "Macrophages",
+          "Reticular Cells"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 45
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is the purpose of the hormone thymosin released by the thymus?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Isolates antigenic material from lymphocytes",
+          "Aid the development of T-cells",
+          "Allow B-cells to multiply and dif- fuse into plasma cells",
+          "Alerts the surrounding organs of pathogens",
+          "Enables increased production of blood cells"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 46
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Lymphatic capillaries differ from blood capillaries in all of the following except",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Contains loosely connected en- dothelial cells",
+          "Closed at one end of the capillary",
+          "Controls flow of tissue fluid through flaps",
+          "Flow goes toward the heart",
+          "Flow starts at the beginning of the capillary"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 47
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "In Hodgkin’s Lymphoma, abnormal cells in the lymph nodes may differentiate into cells, a hall- mark cell of Hodgkin’s Lymphoma.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Centrocyte, Reed-Sternberg",
+          "Centroblast, Non-Neoplastic",
+          "Centrocyte, Non-Neoplastic",
+          "Centroblast, Reed-Sternberg",
+          "Dendritic, Neoplastic 8 Anatomy and Physiology C CLASS SET SLHS 2024"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 48
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is the function of the Has- sall’s corpuscles?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Antibody production",
+          "T-cell maturation",
+          "Filtration of lymph",
+          "Regulation of fluid balance",
+          "Activation of B-lymphocytes"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 49
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What lymphatic vessel drains lymph from the left side of the head, neck, thorax, and the lower body, and returns it to the bloodstream?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Right lymphatic duct",
+          "Thoracic duct",
+          "Cisterna chyli",
+          "Jugular trunk",
+          "Lumbar trunk"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 50
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following processes happens in the spleen as a results of the loss of spectrin and ankyrin in RBCs?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Filtration of pathogens",
+          "Storage of platelets",
+          "Removal of old red blood cells",
+          "Maturation of lymphocytes",
+          "Production of antibodies"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 51
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "A patient has an overactive thy- mus, leading to accelerated lymphocyte mat- uration. How might this hyperactivity impact their adaptive immune response? .",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Suppressed antibody production",
+          "Delayed wound healing",
+          "Heightened antigen presentation",
+          "Impaired phagocytosis",
+          "Inhibited B cell proliferation"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 52
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) Your friend has been recently di- agnosed with Splenomegaly. This diagnosis might be indicative of what other diseases? (Select all that apply)",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Hodgkin Lymphoma",
+          "Non-Hodgkin Lymphoma",
+          "HIV",
+          "Cirrhosis",
+          "EBV"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 53
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is the purpose of lacteals?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Transport chylomicrons from small intestine",
+          "Transport glucose from small intes- tine",
+          "Filter waste to small intestine",
+          "Transport calcium from the small intestine",
+          "Filter antigenic material to the small intestine"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 54
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following vessels flow through the spleen? (Select all that apply)",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Splenic capillary",
+          "Splenic artery",
+          "Afferent lymphatic vessel",
+          "Splenic vein",
+          "Efferent lymphatic vessel"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 55
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following statements is true regarding Thymic + T cell develop- ment",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Primordial epithelial tissue gives rise to the thymic an- lage which becomes colonized by hematopoietic cells to lead to the development of thymo- cytes",
+          "Reticular epithelial cells devel- oped independently from thymo- cytes and are migrated cells from the infant spleen",
+          "The third pharyngeal pouches of the mesoderm give rise to the thymic tissue",
+          "Thymic T cell differentia- tion/production comes to a com- plete stop after puberty",
+          "The thymic cortex contains ma- ture thymocytes along with den- dritic cells whereas the medulla contains hassall’s corpuscles, im- mature thymocytes, and scattered macrophages"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 56
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) Which of the following statements is/are most accurate regarding B-cell develop- ment(Select all that apply) 9 Anatomy and Physiology C CLASS SET SLHS 2024",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Multipotent progenitor cells (MPPs) are types of self-renewing stem cells that produce both lym- phoid and myeloid cells",
+          "Stromal cells in the bone mar- row produce ligands that acti- vate receptors on MPPs to in- cite B cell development",
+          "While the earliest stem cells reside in the endosteum, as the B cells mature, they fur- ther make contact with stromal cells in trabecular spaces and move towards central sinus of marrow cavity",
+          "The spleen is one organ that carries out the final steps of dif- ferentiation for B cells",
+          "Stromal cells in the bone mar- row constitutively secrete some chemokines such as CXCL12 that help retain developing B cells in the bone marrow 10 Anatomy and Physiology C CLASS SET SLHS 2024 Excretory Sys- tem(MCQ)"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 57
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following substances’ renal clearance value is the most similar to the GFR?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Para-amino hippuric acid (PAH)",
+          "Creatinine",
+          "Inulin",
+          "Insulin",
+          "Glucose"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 58
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following statements is most accurate regarding nephrons?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Juxtamedullary nephrons comprise roughly 85 percent of all total nephrons in the kidney",
+          "Nephrons receive incoming blood from the efferent arterioles which then leave via the afferent arterioles",
+          "The length of the loop of Henle is longer in cortical nephrons than juxtamedullary nephrons",
+          "Superficial neurons are surrounded by the vasa recta, a hairpin-shaped blood vessel that stabilizes the os- motic gradient between the tubule and the interstitium",
+          "Peritubular capillaries branch off from efferent arterioles of cortical nephrons to aid in re- absorption/secretion"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 59
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The NKCC transported(Na+-K+- 2Cl-) transporter operates in which specific part of the nephron?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Proximal Convoluted Tubule",
+          "Descending Loop of Henle",
+          "Ascending Loop of Henle",
+          "Distal Convoluted Tubule",
+          "Collecting duct"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 60
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) Which of the following statements accurately characterizes nephrogenic diabetes insipidus and/or central diabetes insipidus. Select all that apply",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Nephrogenic is typically treated with thiazide diuretics",
+          "Central diabetes insipidus is not treated with an ADH dialogue",
+          "An ADH dialogue would be relatively ineffective for treat- ing nephrogenic diabetes in- sipidus",
+          "Circulating ADH levels in central diabetes insipidus are minimal",
+          "Nephrogenic diabetes commonly re- sults from a head injury"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 61
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following statements is most accurate regarding the loop of henle?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "The thin descending limb is rela- tively impermeable to water",
+          "The NKCC pump results in a lumen-negative potential difference due to K+ exit to the renal tubules",
+          "Loop diuretics such as furosemide attach to the Cl- binding site of NKCC trans- porters in the loop of henle",
+          "Thiazide diuretics commonly act upon the descending loop of henle",
+          "The ascending loop of Henle is highly permeable to water"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 62
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What type of cells is most directly responsible for both Na+ and K+ reabsorp- tion in the distal tubules",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Alpha intercalated cells",
+          "Beta intercalated cells",
+          "Principal Cells",
+          "Goblet Cells",
+          "Microvillous cells"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 63
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) Which of the following state- ments most accurately characterizes the dif- ferences/similarities between nephrotic and nephritic syndrome? Select all that apply",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Both nephritic and nephrotic syndrome result in superfluous amounts of urine production due to glomerular inflammation",
+          "While nephrotic syndrome re- sults in proteinuria, nephritic syndrome results in hematuria",
+          "Nephritic syndrome is com- monly caused by glomeru- lonephritis 11 Anatomy and Physiology C CLASS SET SLHS 2024",
+          "Nephritic rarely deals with strep- tococcal illness whereas nephrotic does",
+          "The glomerular basement mem- brane is largely maintained in nephritic syndrome"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 64
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "During metabolic acidosis, which amino acid is catabolized in the kidneys in order to secrete ammonium and absorb bicar- bonate?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Asparagine",
+          "Glutamine",
+          "Proline",
+          "Lysine",
+          "Threonine"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 65
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Gout is most commonly a symptom of which kidney stone type?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Struvite",
+          "Calcium Phosphate",
+          "Calcium Oxalate",
+          "Uric Acid",
+          "Cystine"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 66
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) Which of the following commonly make up Struvite kidney stones? Select all that apply.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Calcium Carbonate",
+          "Ammonium",
+          "Phosphate",
+          "Magnesium",
+          "Water"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 67
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) Which of the following tend to lead to a decrease in blood potassium levels? Se- lect all the apply",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Thiazide diuretics",
+          "Potassium Sparing diuretics",
+          "Loop diuretics",
+          "ACE Inhibitors",
+          "Angiotensin II Blockers"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 68
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) Which of the following are true concerning the Glomerular Basement Mem- brane? Select all that apply.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "The lamina densa is made mainly of collagenous fibers and serves as support",
+          "The lamina rara interna con- tains Heparin Sulfate, which repels negatively charged serum proteins",
+          "The lamina rara externa contains Sphingolipids, which repel posi- tively charged serum proteins",
+          "The Glomerular Basement Mem- brane contains 4 layers, each of which serves a role in support and filtration",
+          "The basement membrane con- tains apertures small enough to not let serum proteins such as Albumin into the Bowman’s Capsule"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 69
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following structures maintains the Counter-Current Multiplier System?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Distal Convoluted Tubule",
+          "Fenestrated Capillaries",
+          "Vasa Recta",
+          "Renal Papillae",
+          "Mesangial Cells"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 70
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) Which of the following cells can lead to the activation of the RAAS system? Select all that apply.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Mesangial Cells",
+          "Podocytes",
+          "Principal Cells",
+          "Alpha Intercalated Cells",
+          "Juxtaglomerular Cells"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 71
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) How does ADH increase water ab- sorption? You may choose more than one an- swer.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "By increasing the concentration of Aquaporin I in the Distal Tubule and Collecting Duct",
+          "By promoting the transport and degradation of storage vesicles in Principal Cells",
+          "By binding to Intercalated cells via V1 receptors in the Distal Tubule",
+          "Via vasoconstriction of the afferent arteriole 12 Anatomy and Physiology C CLASS SET SLHS 2024",
+          "Via upregulation of Aquaporin throughout the nephron"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 72
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) Excessive consumption of which of the following foods increase the chance of kid- ney stones? You may select multiple answers.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Coca-Cola",
+          "Creatine",
+          "A medium rare steak from Perry’s Steakhouse",
+          "Sweet potato that comes as a side with the steak",
+          "Peanuts from Vishal’s house"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 73
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Given that a patient has a urine flow rate of 2 mL/min, urine concentration of PAH of 1000 mg percent, and plasma con- centration of PAH of 2 mg percent, what is his effective Renal Plasma Flow, in mL/min?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "5000",
+          "10000",
+          "100",
+          "250",
+          "1250"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 74
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is the Renal Blood Flow of the same patient, given that he has a hemat- ocrit of 21 percent?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "127",
+          "6329",
+          "12658",
+          "316",
+          "1582"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 75
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Given the patient from Question 21’s hematocrit, what disorder does he likely have?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Hemophilia",
+          "Anemia",
+          "Leukemia",
+          "Porphyria",
+          "Polycythemia"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 76
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Is this an overestimate or underes- timate of the patient’s true Renal Blood Flow and why?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Overestimate, because some PAH are present in the Renal Vein",
+          "Underestimate, because some PAH are present in the Renal Vein",
+          "Overestimate, because some PAH is secreted into the urine",
+          "Underestimate, because some PAH is secreted into the urine",
+          "Overestimate, because some PAH are reabsorbed from the renal tubules"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 77
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is not a rea- son why PAH is used to measure Renal Blood Flow?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "PAH is not synthesized by the kid- ney",
+          "PAH does not significantly influence RPF",
+          "Most PAH entering the kidney exits into the urine",
+          "Peripheral vein and renal vein have similar concentrations of PAH",
+          "None of the above"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 78
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What would happen to Renal Blood Flow if the plasma concentration of proteins is decreased?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Increase, because of increased on- cotic pressure of Renal Capillary",
+          "Decrease, because of increased on- cotic pressure of Renal Capillary",
+          "Increase, because of decreased on- cotic pressure of Renal Capillary",
+          "No change would happen to Renal Blood Flow"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 79
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is not a possible explanation as to why someone has lower than normal plasma protein concentration?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Malnutrition",
+          "Dehydration",
+          "Nephrotic syndrome",
+          "Hepatitis"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 80
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) Which of the following statements is most accurate regarding the mechanism of Vasopressin (Select all that apply) 13 Anatomy and Physiology C CLASS SET SLHS 2024",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Vasopressin secretion is most sensi- tive to small decreases in blood vol- ume when compared to other stim- uli, such as a small increase in blood osmolarity.",
+          "Vasopressin secretion is most sensitive to small increases in blood osmolarity when com- pared to other stimuli, such as a small decreases in blood vol- ume",
+          "ADH is secreted into the blood- stream by magnocellular neurons of the supraoptic and paraventricular nuclei of the hypothalamus.",
+          "A patient on dopamine block- ers such as Haloperidol runs at an increased risk of developing diabetes insipidus",
+          "The subfornical organ and organum vasculosum, essential in the produc- tion of ADH, are surrounded by a thick Blood Brain Barrier(BBB) that allows for the organs to moni- tor vascular conditions."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 81
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following statements is most accurate regarding the measurement of urine specific gravity (select all that apply)",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "It is a key measure of osmolarity; thus, only the number of solute molecules in a given volume is im- portant to the physician",
+          "It is a key measure of osmolarity; thus, both the number and weight of solutes in a given volume of urine matter to the physician",
+          "It is a key measure of solute con- centration; thus only the number of solute molecules in a given volume is important to the physician",
+          "It is a key measure of solute concentration; thus both the number and weight of the so- lutes in a given volume of urine matter to the physician",
+          "Analysis of the urine of a pa- tient with diabetes mellitus may falsely suggest a highly concentrated urine, even if os- molarity is normal"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 82
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) Which of the following presenta- tions are indicative of PTH action in the kid- neys? Select all that apply",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Calciuria",
+          "Phosphaturia",
+          "Increased urinary cAMP",
+          "Hyponatremia",
+          "Proteinuria 14 Anatomy and Physiology C CLASS SET SLHS 2024 Free Response Questions Refer to the Image Set for all questions in this section that require an image. Welcome! It is now your first day as a cardiology resident at SusCorp Hospital. John Sillbun, the chief surgeon at the hospital, is feeling abnormally sick one day with a sharp pain in the right lower quadrant of his abdominis. However - THAT is not the concern for you! John has left you with a ton of ECGs and case studies and it is your job to diagnose and treat them. The case studies will get increasingly more difficult."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 19,
+        "number": 83
+      }
+    }
+  ]
+}

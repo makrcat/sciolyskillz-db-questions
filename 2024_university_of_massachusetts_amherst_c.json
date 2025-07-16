@@ -1,0 +1,1250 @@
+{
+  "competition": "University of Massachusetts Amherst",
+  "division": "C",
+  "year": 2024,
+  "event": "anatomy",
+  "questions": [
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "__________ is the primary transport protein for iron and _________ is the primary storage protein of iron.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "transferrin, ferritin",
+          "transferrin, bilirubin",
+          "albumin, ferritin",
+          "albumin, globulin"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 1
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Order the following events of the cardiac cycle in chronological order.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Atrial filling, atrial contraction, isovolumetric relaxation, ventricular ejection, isovolumetric contraction, ventricular filling",
+          "Atrial filling, atrial contraction, isovolumetric contraction, ventricular ejection, isovolumetric relaxation, ventricular filling",
+          "Atrial filling, isovolumetric contraction, atrial contraction, ventricular ejection, isovolumetric relaxation, ventricular filling",
+          "Atrial filling, isovolumetric relaxation, atrial contraction, ventricular ejection, isovolumetric contraction, ventricular filling"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 2
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The heart begins developing during which week of gestation?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Week 3",
+          "Week 4",
+          "Week 6",
+          "Week 8"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 3
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Dicrotic notch represents",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "End of systole",
+          "End of diastole",
+          "End of isovolumetric contraction",
+          "End of isovolumetric relaxation"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 4
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "A doctor notices a patient who presents herself with an abnormal heart rhythm consisting of irregular premature beats from the ventricles. Which of the following could explain this phenomenon?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Mitral valve regurgitation",
+          "Ventricular tachycardia",
+          "Ectopic pacemaker",
+          "Atrial fibrillation"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 5
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "_________ allow(s) the uniform contraction of the heart through rapid and efficient spread action potentials",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Intercalated discs",
+          "Tight junctions",
+          "Plasmodesmata",
+          "Desmosomes"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 6
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Pernicious anemia is caused by a deficiency of what vitamin?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Biotin",
+          "Riboflavin",
+          "Thiamine",
+          "Cobalamin"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 7
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "All of the following are true about Purkinje fibers except",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Purkinje fibers diverge from the left and right bundle of His",
+          "Purkinje fibers are larger than myocardial cells",
+          "Purkinje fibers have more myofibrils than myocardial cells",
+          "Purkinje fibers are inferior to the sinoatrial node"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 8
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following statements is false about the foramen ovale?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Is a hole between the left and right atria of the heart",
+          "Exists as fetal circulation does not require oxygen from the lungs",
+          "Allows bypass of the systemic circuit",
+          "Surrounding tissue consists of smooth tissue"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 9
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "A 66 year old woman goes to visit her doctor after experiencing chest pains and swelling of her extremities. Upon further imaging, the doctor can conclude that the woman has a mitral valve prolapse. What may have the doctor also noticed? (Select all that apply) (2)",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Softening of the mitral valve",
+          "Blood flowing backwards against the cardiac cycle",
+          "Damage to the sinoatrial node",
+          "Stenosis of the mitral valve"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 10
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Torsades de pointes (choose all that apply) (2 all or none)",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Can be congenital",
+          "Caused by a prolonged repolarization phase",
+          "Consists of short-long-short QT intervals",
+          "Occurs when atria and ventricles are synchronized"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 11
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Beta blockers cause the heart to beat ______________ and ________ blood pressure.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Slower, lower",
+          "Faster, lower",
+          "Slower, increase",
+          "Faster, increase Page 1 of 13"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 12
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "All of the following increase the risk of developing varicose veins except",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Female",
+          "Standing for long periods of time",
+          "Family history",
+          "Diet"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 13
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "[2 pts]  [TIEBREAKER]  Hyperparathyroidism is associated with which of the following EKG abnormalities?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Prolonged QT interval",
+          "Longer P wave",
+          "Shorter QT interval",
+          "No significant changes in EKG"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 14
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "[2 pts] A 64-year-old male with a history of myocardial infarctions is prescribed a drug to manage his ventricular arrhythmias. The drug works by blocking potassium channels that function in repolarization. Below is the patient’s EKG. Given the above information, what class of arrhythmic drugs does the prescribed drug fall under?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Class Ia",
+          "Class Ib",
+          "Class Ic",
+          "Class II",
+          "Class III",
+          "Class IV"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 16
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which event of the cardiac cycle requires the most oxygen?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Isovolumetric relaxation",
+          "Systolic ejection",
+          "Isovolumetric contraction",
+          "Ventricular filling"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 20
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "[2 pts] The functions of the structure labeled 6 include: (select all that apply)",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Production of immunocompetent lymphocytes",
+          "Storage of memory B cells",
+          "Directly processing and fighting foreign antigens",
+          "Development of regulatory T cells"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 52
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following pairs does  not  correctly match up?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Plasma B cell, production of antibodies",
+          "Cytotoxic T cell, destruction of target cells with foreign antigens",
+          "Regulatory T cell, prompts lymphocytes to begins production of antibodies",
+          "NK cell, destruction of antigens lacking MHC"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 54
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What properties of the thymus make it an optimal site for T lymphocyte proliferation? (select all that apply)",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Presence of epithelial cells in the stroma, rather than reticular cells",
+          "Presence of the blood-thymus-barrier",
+          "Atrophy and decline and function with age",
+          "Extraction of defective blood cells from the blood"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 55
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following immune cells does  not  perform phagocytosis?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Basophils",
+          "Monocytes",
+          "Eosinophils",
+          "Lymphocytes"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 56
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following immune cells secrete perforins and granzymes?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "NK cells and CD8+ T cells",
+          "Neutrophils and basophils",
+          "NK cells and CD4+ T cells",
+          "Neutrophils and eosinophils"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 57
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "________ are the dominant cells that proliferate germinal centers.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Eosinophils",
+          "MHC-II expressing cells",
+          "Reticular cells",
+          "Dendritic cells Page 6 of 13"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 58
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following are found within this high-fat lymph? (select all that apply)",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Chylomicrons",
+          "Triglycerides",
+          "Erythrocytes",
+          "Phospholipids"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 60
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following vitamins is absorbed by lacteals in the large intestine?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Riboflavin",
+          "Cobalamin",
+          "Retinol",
+          "Biotin"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 61
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is the correct order for flow of lymph through a lymph node?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Afferent lymphatic vessels -> subcapsular sinus -> medullary sinus -> efferent lymphatic vessels",
+          "Efferent lymphatic vessels -> subcapsular sinus -> medullary sinus -> afferent lymphatic vessels",
+          "Afferent lymphatic vessels -> medullary sinus -> outer cortex -> efferent lymphatic vessels",
+          "Afferent lymphatic vessels -> medullary sinus -> subcapsular sinus -> efferent lymphatic vessels"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 62
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following are methods that the body uses to circulate lymph? (select all that apply)",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Milking action of surrounding skeletal muscle",
+          "Pulsation of nearby arteries",
+          "Thoracic pressure changes during breathing",
+          "Lymphatic valves to prevent backwards flow"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 64
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "[TIEBREAKER]  The structure above is a ________. One function of the area labeled #2 is _________.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Lymph node, lymphocyte circulation",
+          "Tonsil, removal of pathogens in inhaled air",
+          "Thymus, maturation of immune cells",
+          "Spleen, filtering blood"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 67
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following are potential effects of removing the structure above? (select all that apply)",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Increased risk of infection",
+          "Severe throat pain",
+          "Thrombosis",
+          "Decreased reticular cell production"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 68
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "[TIEBREAKER]  In general, what does an EBV antibody test detect for?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Estrada-Bianchi Virus",
+          "Epstein-Barr Virus",
+          "Encepheloblast Virus",
+          "Erie-Bala Virus"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 73
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The mediastinum of the heart is analogous to the _______ of the kidneys.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Capsule",
+          "Cortex",
+          "Parenchyma",
+          "Peritoneum",
+          "Mesentery"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 83
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "A functional unit of the kidney consists of the:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Nephron",
+          "Calyx",
+          "Column",
+          "Lobe",
+          "Vasa recta"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 84
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Together, the renal cortex and the renal medulla make up the:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Renal column",
+          "Major calyx",
+          "Minor calyx",
+          "Renal sinus",
+          "Renal parenchyma"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 85
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The minor calyxes converge to form the major calyces, which then:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Directly empty into the ureter",
+          "Directly empty into the collecting duct",
+          "Diverge into the glomeruli",
+          "Converge again to form the proximal convoluted tubule",
+          "Converge again to form the renal pelvis"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 86
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What components make up a single renal pyramid of the kidney?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "One medullary pyramid",
+          "One medullary pyramid and the cortex above it",
+          "One medullary pyramid and the renal column surrounding it",
+          "A renal papilla and its minor calyx",
+          "A renal papilla and major calyx"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 87
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The structure shown in the figure above is the:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Glomerulus",
+          "Adrenal gland",
+          "Major calyx",
+          "Minor calyx",
+          "Entire kidney"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 88
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The structure indicated by the arrow 1 is best described as a(n):",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Arteriole",
+          "Capillary",
+          "Venule",
+          "Vein",
+          "None of the above"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 89
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The structure indicated by arrow (2) which immediately follows the entire one shown above is the:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Distal convoluted tubule",
+          "Thin segment",
+          "Descending limb",
+          "Ascending limb",
+          "Proximal convoluted tubule"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 90
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The lining indicated by arrow 3 is composed of:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Podocytes",
+          "Vili",
+          "Intercalated cells",
+          "Pericytes",
+          "Macula"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 91
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "[TIEBREAKER]  Reabsorption of this ion creates the concentration gradient which dictates the flow of water and other solutes in the kidney.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "K+",
+          "H+",
+          "Na+",
+          "Ca2+",
+          "Cl-"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 92
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which term completes the following sequence: interlobar artery, arcuate artery, ______?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Renal capillaries",
+          "Renal papilla",
+          "Arcuate vein",
+          "Interlobar vein",
+          "Cortical radiate artery"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 111
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is the significance of clearance rate of substances in the kidneys?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Clearance rate is a given constant for all substances",
+          "Clearance rate is used to calculate GFR",
+          "If clearance rate > GFR for a substance, then the substance will be secreted",
+          "If clearance rate = GFR for a substance, then the substance will be secreted",
+          "If clearance rate < GFR for a substance, then the substance will be secreted"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 112
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The layers of the kidney are best described as _______ (deepest to most superficial).",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Fibrous capsule  → perirenal fat capsule  → renal fascia",
+          "Renal fascia  → perirenal fat capsule  → fibrous capsule",
+          "Renal fascia  → fibrous capsule  → perirenal fat capsule",
+          "Perirenal fat capsule  → fibrous capsule  → renal fascia",
+          "Perirenal fat capsule  → renal fascia  → fibrous capsule"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 113
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What best describes the glomerular filtration rate?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "The filtrate formed per minute by both kidneys",
+          "The filtrate formed per minute by the right kidney",
+          "The filtrate formed per minute by the left kidney",
+          "The filtrate formed per minute of both kidneys averaged",
+          "None of the above"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 114
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Identify the excretory organ shown above.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Stomach",
+          "Small intestine",
+          "Bladder",
+          "Spleen",
+          "Lungs"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 115
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "To what structure does the renal vein drain into?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Aorta",
+          "Subclavian veins",
+          "Subclavian arteries",
+          "Segmental arteries",
+          "Inferior vena cava"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 116
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Azotemia, elevated blood nitrogen and creatinine, can be caused by which of the following conditions?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "High NFP",
+          "High K f",
+          "Low GFR",
+          "Low vascular resistance",
+          "More than one of the above"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 117
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Concentrations of ions like Na+ and Cl- are primarily sensed by what structure in the nephron?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "The efferent arteriole",
+          "The RAAS’",
+          "The macula densa",
+          "The collecting duct",
+          "Microvilli Page 11 of 13 Case Study: Bird? Plane? UFO? No… UTI :( A 29-year-old woman presents to a primary care physician where she complains of frequent, painful urination. Upon further questioning, it is also given that she does not display symptoms such as hematuria, fever, chills, or pain in her stomach. She was diagnosed with cervical cancer a year ago, and has finished a chemotherapy regimen and is fully recovered at the time of this visit."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 118
+      }
+    }
+  ]
+}

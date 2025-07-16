@@ -1,0 +1,1552 @@
+{
+  "competition": "Stanford Invitational",
+  "division": "C",
+  "year": 2024,
+  "event": "anatomy",
+  "questions": [
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The end diastolic volume is 120mL/beat, the cardiac output rate is 5L/min and the heart rate of a patient is 70 bpm. Calculate the end systolic volume and the stroke volume.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "48.57mL/beat, 71.43mL/beat",
+          "119.93mL/beat, 0.07mL/beat",
+          "12.23mL/beat, 107.77mL/beat",
+          "83.32mL/beat, 36.68mL/beat"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 1
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "A patient has a systolic pressure of 138 mmHg and a diastolic pressure of 87 mmHg. What is their mean arterial pressure?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "96",
+          "99",
+          "104",
+          "117"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 2
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The heart has three main layers—list them from innermost to outermost.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "(inner) Endocardium – Epicardium – Myocardium (outer)",
+          "(inner) Pericardium – Myocardium – Endocardium (outer)",
+          "(inner) Endocardium – Myocardium – Epicardium (outer)",
+          "(inner) Epicardium – Myocardium – Endocardium (outer)"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 4
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which layer of the heart is considered a continuation of the serous pericardium.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Epicardium",
+          "Myocardium",
+          "Endocardium",
+          "Both a and c are true."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 5
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is it called when you have too much potassium in the blood?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Hyperkalemia",
+          "Hyperglycemia",
+          "Hyperoxaluria",
+          "Hyperprolactinemia"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 7
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The largest artery and vein in the human body are:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Aorta and superior vena cava, respectively",
+          "Aorta and inferior vena cava, respectively",
+          "Common carotid artery and superior vena cava, respectively",
+          "Common carotid artery and inferior vena cava, respectively"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 8
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "In most individuals, the arch of the aorta has three branches. What are they?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "The brachiocephalic artery, left common carotid artery, left subclavian artery",
+          "The brachiocephalic artery, right common carotid artery, left subclavian artery",
+          "The brachiocephalic artery, left common carotid artery, right subclavian artery",
+          "The brachiocephalic artery, right common carotid artery, right subclavian artery"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 9
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Identify the structure labeled as x.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Sarcomere",
+          "T-tubule",
+          "Intercalated disc",
+          "Fibrous ring"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 10
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is the function of this structure?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Connect cardiomyocytes together",
+          "Transmit electrical impulses between cells.",
+          "Store and release calcium for the regulation of muscle contraction",
+          "Both a and b are correct."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 11
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of these valves does  not  have three leaflets?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Aortic valve",
+          "Mitral valve",
+          "Tricuspid valve",
+          "Pulmonary valve 2 |  Page"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 12
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The SA node fires at a normal rate of ______ bpm and the AV node fires at a normal rate of ______ bpm.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "60-100, 40-60",
+          "40-60, 60-100",
+          "Both fire at 40-60.",
+          "Both fire at 60-100."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 13
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is this irregular heart rhythm called?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "There is nothing irregular with this heart rhythm.",
+          "This is an example of atrial fibrillation.",
+          "This is an example of supraventricular tachycardia.",
+          "This cannot be determined without further information."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 14
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following describes the rhythm shown in Choice B? Please note that the wording of this question is not meant to imply the answer to the previous question.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Torsades de pointes",
+          "Monomorphic ventricular tachycardia",
+          "Premature Ventricular Contractions",
+          "Supraventricular Tachycardia"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 16
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "In an anticoagulated blood sample, the term buffy coat refers to:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Most of the leukocytes and platelets",
+          "Most of the leukocytes and erythrocytes",
+          "Most of the plasma",
+          "None of the above"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 17
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(7) Label this diagram with the following letters:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Pressure in the left ventricle",
+          "Ventricular volume",
+          "The aortic pressure",
+          "Pressure in right atrium"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 18
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "This is a chart representing a law. What is this law called?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "The Blackwell-Apgar Law",
+          "The Frank–Starling Law",
+          "The Barnard Law",
+          "The Bohr Effect 3 |  Page"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 19
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(9) Tiebreaker: This is known as the Starling Equation. Below, label what each of these symbols represents",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          ": Trans endothelial  solvent filtration volume 𝐽 𝑣 per second",
+          ":  Hydraulic conductivity  of the membrane 𝐿 𝑝",
+          ": The  surface area  for  filtration 𝑆",
+          ":  Capillary hydrostatic pressure 𝑃 𝑐",
+          ":  Interstitial hydrostatic pressure 𝑃 𝑖",
+          ":  Staverman's reflection coefficient σ",
+          ":  Plasma  protein  oncotic pressure π 𝑝",
+          ":  Subglycocalyx oncotic pressure π 𝑔",
+          ":  Net driving force [𝑃 𝑐 −𝑃 𝑖 ] −σ[π 𝑝 −π 𝑔 ]"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 22
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "List the steps of primary hemostasis in order:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Vascular spasm, platelet adhesion, coagulation",
+          "Vasoconstriction, coagulation, platelet adhesion",
+          "Platelet adhesion, vascular spasm, coagulation",
+          "Platelet adhesion, vasoconstriction, blood clotting"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 24
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is not a pathway for the coagulation cascade.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "The tissue factor",
+          "The contact pathway",
+          "The common pathway",
+          "All of these are pathways for the coagulation cascade."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 25
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which pathway is associated with a thrombin burst? Please note that the following options of this question are not meant to imply the answer to the previous question.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "The contact pathway",
+          "The common pathway",
+          "The extrinsic pathway",
+          "None of these are associated with the “thrombin burst” 5 |  Page"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 26
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The circle of Willis located in the brain is an example of which of the following:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Venous plexuses",
+          "Root systemic artery",
+          "Proximal stenosis",
+          "Anastomoses"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 27
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following proteins in plasma help maintain the osmotic balance between blood and tissue fluids?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Fibrinogen",
+          "Globulins",
+          "Albumins",
+          "Both b and c are correct."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 28
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is not a function of the lymphatic system?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Transport the cells of the immune system.",
+          "Drain body fluids and return them to the bloodstream.",
+          "Transport dietary lipids and fat-soluble vitamins.",
+          "Erythropoiesis"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 1
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is the most common cause of primary lymphedema?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Filariasis caused by infection",
+          "Genetic mutation",
+          "Blunt trauma",
+          "Cancer metastasis"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 2
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Tiebreaker: What is the most common secondary cause of lymphedema in developed countries?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Toxin induced cirrhosis",
+          "Cancer treatment",
+          "Symptoms caused by splenomegaly",
+          "Filariasis caused by infection"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 3
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Tiebreaker: What vaccines are required if you have your spleen removed? Select all that apply.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Pneumococcal vaccine",
+          "Haemophilus influenzae vaccine",
+          "Meningococcal vaccine",
+          "Hepatitis A vaccine"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 4
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is the diagnostic for Hodgkin's lymphoma?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Enlarged lymph nodes",
+          "Reed-Sternberg cells",
+          "Philadelphia chromosome",
+          "BRCA1 mutation positive"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 5
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Tiebreaker: Which are manifestations of a B12 deficiency? Select all that apply.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Anemia",
+          "Neuropathy",
+          "Excessive night sweats",
+          "High blood pressure"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 6
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What are some causes of splenomegaly? Select all that apply.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Cirrhosis",
+          "Sarcoidosis",
+          "Mononucleosis",
+          "Lymphoma"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 7
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Adults have about ____ lymph nodes throughout the body.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "200-400",
+          "500-800",
+          "900-1100",
+          "1200+ 8 |  Page"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 9
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "This histology section was taken from the ileum. Identify the area circled.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Peyer’s patches",
+          "Germinal center",
+          "Trabecula",
+          "Stratified squamous epithelium"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 10
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is its function?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Monitor various microbes and activate an immune response to protect your body.",
+          "Recycle any escaped lymph that may have leaked into the chyme.",
+          "Absorb immune-boosting nutrients necessary for the lymphatic system to operate.",
+          "None of these are correct."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 11
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Under what classification of lymphoid tissue is it under?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "GALT",
+          "MALT",
+          "NALT",
+          "Both a and b are correct."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 12
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Lymph eventually drains to _______.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "The kidneys",
+          "The spleen",
+          "arterial circulation",
+          "venous circulation"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 13
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of these organs is a mucosa-associated lymphoid tissue? Choose all the correct answers.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Bone marrow",
+          "Thymus",
+          "Tonsils",
+          "Spleen"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 14
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is NOT a function of the tonsils?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Produce antibodies",
+          "Filter hostile microorganisms",
+          "Facilitate an adaptive immune response",
+          "Site of production/maturation of leukocytes"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 15
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "In which organs does lymphopoiesis  not  occur?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Thymus",
+          "Bone marrow",
+          "Spleen",
+          "Lymphopoiesis occurs in all the above organs."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 16
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Lymphoid tissue develops after the ____ week of gestation",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Fifth",
+          "Eight",
+          "Third",
+          "Second"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 17
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Lymph capillaries have ______ oncotic pressure compared to blood plasma.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Greater",
+          "Less",
+          "No",
+          "The same"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 20
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which lymph trunk is unpaired?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Bronchomediastinal",
+          "Lumbar",
+          "Intestinal",
+          "Subclavian"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 21
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The innermost layer of a lymph vessel is made out of:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Circular, smooth muscle",
+          "Simple squamous epithelium",
+          "Fibrous tissues made out of collagen",
+          "Both b and c are correct"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 22
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is the name of the functional unit of the lymphatic system (or at least, lymph vessels)?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Lymphoblast",
+          "Lymphangion",
+          "Lymphocytic plexus",
+          "Lymph tubule"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 23
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What color is lymph?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Dark green",
+          "Light green",
+          "Pale white",
+          "Translucent 9 |  Page"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 24
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Label b, f, h, and i. For an extra 5 tiebreaker points, label the rest. If a letter is before the words, “lymph nodes,” your answer should precede it.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Cervical",
+          "Cisterna chyli",
+          "Lumbar",
+          "Pelvic",
+          "Inguinal",
+          "Spleen",
+          "Axillary",
+          "Thymus",
+          "Thoracic duct 10 |  Page P ART  2 - E XCRETORY  S YSTEM"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 26
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "In a normal nephron, at what point does the reabsorption of glucose occur?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Proximal convoluted tube",
+          "Distal convoluted tube",
+          "Loop of Henle",
+          "Glomerulus"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 2
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is  not  a function of the excretory system?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Regulation of blood volume and pressure",
+          "Regulation of erythrocyte synthesis",
+          "Regulation of Vitamin D synthesis",
+          "Regulation of glucagon synthesis"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 3
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Where is creatinine produced?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Muscles",
+          "Liver",
+          "Pancreas",
+          "Gallbladder"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 4
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The renal hilum is the __________________.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Point of entry and exit for blood vessels",
+          "Point of entry and exit for nerves",
+          "Point of exit for ureters",
+          "All of the above"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 5
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is the entire structure A called?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Glomerulus",
+          "Renal corpuscle",
+          "Renal tubular lumen",
+          "Bowman’s capsule"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 6
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What factor does  not  activate the renin–angiotensin feedback system?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Low blood pressure",
+          "Low glomerular filtration rate",
+          "Sympathetic nervous stimulation",
+          "Low blood sugar levels"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 8
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following structures interact with each other in secretion/reabsorption within the kidney?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Peritubular capillaries, renal tubular lumen",
+          "Renal tubular capillaries, peritubular lumen",
+          "Interlobar capillaries, renal tubular lumen",
+          "Renal tubular capillaries, interlobar lumen"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 9
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is the osmolarity of fluid in the deepest part of the loop of Henle?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "100",
+          "300",
+          "900",
+          "1200"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 10
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "A urinalysis is also known as a..",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Urine Amplification Assay",
+          "Routine and Microscopy",
+          "Urinary Fluoroscopy",
+          "Urinary Perfusion Study"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 11
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The kidneys receive ____% of the cardiac output.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "50",
+          "15",
+          "25",
+          "95"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 14
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which condition describes painful urination?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Oliguria",
+          "Dysuria",
+          "Hematuria",
+          "Urticaria"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 15
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which is an example of a diuretic?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Oxytocin",
+          "Caffeine",
+          "Vasopressin",
+          "Both and a b are correct."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 17
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "This is a cast from a urinalysis. What are these?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Erythrocytes",
+          "Leukocytes",
+          "Platelets",
+          "Epithelial cells"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 18
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What does this suggest?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Malignant hypertension",
+          "Acute pyelonephritis",
+          "Cytomegalovirus",
+          "Acute tubular necrosis"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 19
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is this epithelium lining from question 20 called?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Striated duct epithelium",
+          "Henle's layer",
+          "Urothelium",
+          "Panethelium"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 15,
+        "number": 21
+      }
+    }
+  ]
+}

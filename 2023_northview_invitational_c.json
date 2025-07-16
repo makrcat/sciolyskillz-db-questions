@@ -1,0 +1,928 @@
+{
+  "competition": "Northview Invitational",
+  "division": "C",
+  "year": 2023,
+  "event": "anatomy",
+  "questions": [
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which one of these is the correct pathway of electrical signal conduction in the heart",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "SA node →AV node →Bachmanns bundle →Bundle of His",
+          "AV node →SA node →Bundle of His →Left and Right Bundle Branches",
+          "SA node →AV node →Purkinje fibers →Bundle of His",
+          "SA node →AV node →Bundle of His →Left and Right Bundle Branches"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 1
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following clotting pathways does not involve calcium ions?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Intrinsic",
+          "Extrinsic",
+          "Common",
+          "They all involve calcium ions"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 2
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which heart chamber has the thickest myocardium",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Left ventricle",
+          "Right atrium",
+          "Left atrium",
+          "Right ventricle"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 3
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which heart disorder does the following EKG indicate",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Torsade de pointes",
+          "Ventricular tachycardia",
+          "Atrial fibrillation",
+          "Pulseless electrical activity"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 4
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What ion’s channels do class-III antiarrythmic drugs block?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Na+",
+          "K+",
+          "Ca 2+",
+          "None, they are beta blockers"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 5
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following ion’s channels are open during the plateau phase of the myocardial action potential? Select all that apply.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Na+",
+          "K+",
+          "Ca 2+",
+          "Mg 2+"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 6
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "When using a sphyngomammometer what does the pressure reading when you stop hearing kortokoff sounds represent?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Systolic blood pressure",
+          "Diastolic blood pressure",
+          "The air pressure acting on the cuff",
+          "The pressure at which the patient will feel discomfort in their arm"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 7
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What molecule in the RAAS pathway does atrial natriuretic peptide inhibit?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Renin",
+          "Angiotensin I",
+          "Angiotensin II",
+          "Angiotensin converting enzyme"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 9
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following proteins are responsible for maintaining the biconcave disc structure of red blood cells? Select all that apply.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Cohesin",
+          "Myoglobin",
+          "Spectrin",
+          "Ankyrin"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 10
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "In which of the following organs is erythropeotin produced?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Liver",
+          "Kidney",
+          "Brain",
+          "Thyroid gland"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 11
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following does not directly branch from the aorta?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "The brachocephalic artery",
+          "The left subclavian artery",
+          "The left common carotid artery",
+          "The radial artery SAQ All worth 2 pts each (award partial as stated in partial credit statement after each answer)"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 12
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which type of capillary supplies the following body parts respectively? The liver, the brain, the kidney, the spleen. (2 pts, 0.5 each correct)",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Liver: Sinusoidal",
+          "Brain: Continuous",
+          "Kidney: Fenestrated",
+          "Spleen: Fenestrated",
+          "Partial credit: 0.5 points for each correct"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 3
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "You leave his care to the nurses, having to attend to the many patients entering the hospital from the site of the accident. At some point in the future, one of the nurses hands you a microscope image of a tissue sample from Brenton’s myocardium. You see this…",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "How long after Brenton’s health event was this image taken? (2 pt)",
+          "1-2 days ii. 3-4 days iii. 1 week iv. 2-3 weeks",
+          "What do you see happening that led you to this conclusion? (max 6 pts, 2 per observation)",
+          "Myocardial tissue necrosis (2 pt) early stage leukocyte invasion (2 pt), dark red contraction bands (2 pt), nuclei of the muscle cells are nearly gone (2 pt) ii. Full credit other conditions: Award observation credit (2 pts) for solely mentioning necrosis, award observation credit (2 pts) for just mentioning dark red bands. iii. Partial credit: Award partial observation credit (1 pt) for mention of leukocyte invasion without mentioning that it is in early stages.",
+          "How can we go about treating Brenton now? (4 pts, 2 per treatment)",
+          "Aspirin & other antiplatelets, nitroglycerin, thrombolytic medications, beta blockers, ACE inhibitors, anticoagulants, angioplasty + stent, coronary artery bypass (1 pt for any of these) Diagram (15 pts total, 1 pt for correct fill in) Do not grade for the red text only the black text on the diagram Excretory MCQ"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 2
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What protein does ADH binding to it’s receptor cause the creation of? Select all that apply.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Aquaporin I",
+          "Aquaporin II",
+          "Na+ channel",
+          "Na+ K+ pump"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 1
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What protein does aldosterone binding to it’s receptor cause the creation of? Select all that apply.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Aquaporin I",
+          "Aquaporin II",
+          "Na+ channel",
+          "Na+ K+ pump"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 2
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which portion of the nephron is completely impermeable to water?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Descending limb of the loop of henle",
+          "Distal convoluted tubule",
+          "Ascending limb of the loop of henle",
+          "Collecting duct"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 3
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following would be most effective to measure in the urine if you wanted to find the glomerular filtration rate of a patient?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Inulin",
+          "Sodium",
+          "Potassium",
+          "Calcium"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 4
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following conditions may result from a defficiency in the reabsorption of ions in the distal convoluted tubule?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Diabetes insipidus",
+          "Hypocalcemia",
+          "Hypernatremia",
+          "Nephrotic syndrome"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 5
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is the primary role of the juxtaglomerular apparatus in kidney function?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Blood filtration",
+          "Regulation of blood pressure",
+          "Acid-base balance",
+          "Filtration of glucose"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 6
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What role do the intercalated cells play in the acid-base balance within the renal tubules, and where are they primarily located?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Intercalated cells reabsorb bicarbonate ions in the proximal convoluted tubule",
+          "Intercalated cells secrete hydrogen ions and reabsorb bicarbonate ions in the collecting ducts",
+          "Intercalated cells regulate the concentration of sodium in the loop of Henle",
+          "Intercalated cells produce erythropoietin in the distal convoluted tubule"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 7
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "How is glucose reabsorbed in the proximal convoluted tubule?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Via an ATP powered pump",
+          "Via receptor mediated endocytosis",
+          "Via passive transport channels",
+          "Via a cotransporter with Na+"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 10
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "In the context of kidney disease, what role do glomerular podocytes play in the progression of proteinuria?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Podocytes prevent the filtration of proteins, leading to decreased urine production",
+          "Podocytes have no impact on proteinuria; it is solely a result of increased glomerular pressure",
+          "Podocyte damage allows proteins to enter the bowman’s capsule and go through to the urine",
+          "Podocytes selectively reabsorb proteins, reducing their presence in the urine"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 11
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What neural pathways and sphincters are involved in the micturition reflex?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Sympathetic and parasympathetic pathways; internal and external urethral sphincters",
+          "Parasympathetic and somatic pathways; internal and external urethral sphincters",
+          "Sympathetic and somatic pathways; internal and external urethral sphincters",
+          "Parasympathetic and sympathetic pathways; detrusor and internal urethral sphincter"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 12
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "For which of the following diseases would dialysis be appropriate treatment",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Kidney stone",
+          "Urinary incontinence",
+          "Benign Prostatic Hyperplasia",
+          "Kidney faliure SAQ"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 14
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "A man named CJ presents to the hospital after eating an absurd amount of blue cheese, an insane amount of blue cheese, just an absolutely abhorrent amount of blue cheese. Blue cheese is one of the highest sodium content cheeses, so you ran a blood test on CJ and naturally found a severe case of hypernatremia. After a bit of treatment you send him back home, telling him to better manage his blue cheese addiction. A month later however, CJ returns to the hospital. You look and notice a lot of swelling around his body as he complains about weakness, lethargy, lightheadedness, and excessive urination. You decide to run some urine testing finding protenuria, and extremely low levels of creatinine and urea.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "What do CJ’s creatinine and urea levels imply about the state of his GFR? (2 pts)",
+          "Also very low ii. Partial credit: none",
+          "What do you think is wrong with CJ? (2 pts)",
+          "Renal faliure or Kidney failure ii. Partial credit: none",
+          "Based on his previous bouts with blue cheese addiction what do you think is the root cause of this disease? (4 pts)",
+          "Prolonged high blood pressure/hypertension (accept answers without prolonged) (3 pts), due to prolonged hypernatremia (1 pts). ii. Partial credit: None",
+          "How can we go about treating CJ? (4 pts, 2 pts per treatment, 1 bonus possible for addressing the root issue)",
+          "Dialysis (2 pts), kidney transplant (2 pts). ii. Bonus: Therapy to overcome his blue cheese addiction (1 bonus pt) iii. Partial credit: See point statement in question Diagram (8 pts, 1 for each correct fill in) Also accept muscle as an answer for muscularis Lymphatic MCQ"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 1
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which is not a function of the spleen?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Production of red blood cells",
+          "Filtration of blood",
+          "Removal of old or damaged red blood cells",
+          "Storage of platelets"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 1
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which region of the body does the right lymphatic duct drain lymph into the bloodstream?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Right upper extremity and head",
+          "Lower extremities",
+          "Abdominal organs",
+          "Left upper extremity and head"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 2
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is the main function of the lacteals in the lymphatic system within the small intestine?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Absorption of excess lymph",
+          "Transport of oxygenated blood",
+          "Absorption and transport of dietary lipids",
+          "Filtration of lymph"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 3
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What specialized cells in lymph nodes are responsible for helping to develop B lymphocytes into plasma cells?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Cytotoxic T cells",
+          "Follicular dendritic cells",
+          "Memory T cells",
+          "Natural killer cells"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 4
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which lymphatic vessel absorbs dietary fats from the small intestine?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Thoracic duct",
+          "Right lymphatic duct",
+          "Lacteal",
+          "Afferent lymphatic vessel"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 5
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What general role do Peyer's patches play in the lymphatic system, and where are they primarily located?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Filtration of lymph; spleen",
+          "Defense against pathogens; small intestine",
+          "Maturation of T lymphocytes; thymus",
+          "Production of antibodies; respiratory system"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 7
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which lymphatic vessel is responsible for draining lymph from the lower half of the body and the left upper limb?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Thoracic duct",
+          "Right lymphatic duct",
+          "Common iliac lymphatic vessel",
+          "Subclavian lymphatic vessel"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 8
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The only lymphatic organ with both afferent and efferent lymphatic vessels is",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "The spleen",
+          "A lymph node",
+          "A tonsil",
+          "A Peyer patch",
+          "The thymus"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 9
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is an example of tertiary lymphatic tissue?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "The spleen",
+          "The thymus",
+          "Bone marrow",
+          "None of the above SAQ"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 10
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Remember that bus accident from Brenton’s case study? Ivory here was one of the passengers on that bus. She reports to the hospital with the other victims, but nurses notice she was bleeding a lot more than other patients, even though she didn’t have too much major trauma, just moderate cuts on her limbs/extremeties. She had no substantial damage to her abdomen or head. After she recovered from her topical injuries, she told doctors she’d been recently experiencing fever, chills, a loss of appetite, and lightheadedness ever since she ate some contaminated food before the accident. You decide to run a blood test and take away 2 notable findings. An abnormally low red blood cell count, and high levels of CRP.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "What lymphatic disorder is Ivory struggling with, and what do you think caused it? (2 pts, 1 for disorder, 1 for cause) Please clearly indicate what you think is the condition and what you think is the cause.",
+          "Splenomegaly (1 pt), due to previous infection from the bad food (1 pt) ii. Full credit other conditions: Award full (2 pts) credit for mention of infection causing the splenomegaly, or for specifc bacterial/viral infection conditions as a causative factor for the splenomegaly ie. infective endocarditis, sepsis, etc. iii. DO NOT AWARD POINTS FOR “HYPERSPLENISM”.",
+          "What were 2 indicators from Ivory’s condition that helped to determine the cause of her disease/condition? (Max 4 pts, 2 pt each indicator)",
+          "Fever and chills as previous symptoms (2 pts), contaminated food she ate (1 pt), high levels of CRP in the blood test (2 pts). Award 4 points maximum. ii. Full credit other conditions: award indicator credit (2 pts) for a mention of fever or chills but do not count them as 2 separate indicators. Award indicator credit (1 pts) for food mention even if the contamination of the food is not mentioned.",
+          "How can we go about treating Ivory? (4 pts, 2 per treatment)",
+          "Treat her bacterial infection using antibiotics and manage the splenomegaly symptoms until it returns to normal size (2 pts), splenectomy (2 pts) ii. Full credit other conditions: Award treatment credit (2 pts) if the student claims there is no treatment for splenomegaly and to just treat symptoms until it returns to normal size. Diagram (14 pts, 1 for each correct fill in) Do not grade artery and vein."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 1
+      }
+    }
+  ]
+}

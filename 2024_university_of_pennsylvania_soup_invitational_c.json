@@ -1,0 +1,1054 @@
+{
+  "competition": "University of Pennsylvania (SOUP) Invitational",
+  "division": "C",
+  "year": 2024,
+  "event": "anatomy",
+  "questions": [
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which artery supplies blood to the heart?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Brachial Artery",
+          "Coronary Artery",
+          "Jugular Artery",
+          "Superior Vena Cava",
+          "Inferior Vena Cava"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 11
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "How many liters of blood are in the body of an average adult?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9 Page 2 / 14 2024 SOUP Anatomy and Physiology Exam Team # _____ Page Score _____"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 12
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Your heart races when you hear Panera is having a deal on soups—50% off. Your heart rate increases from 70bpm to 140bpm due to the excitement. How does this affect your cardiac output?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "2 times as great",
+          "It is unaffected",
+          "1/2 times as great",
+          "1/4 times as great"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 13
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "In adults, bradycardia is defined as a heart rate below ___ while tachycardia is defined as a heart rate above ___.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "60; 80",
+          "80; 100",
+          "40; 60",
+          "40; 100",
+          "60; 100"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 14
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Jackson likes soup so much he sometimes has it IV-injected directly into his veins. Suppose his recent tomato soup injection increases his total blood volume by 30%. Which of the following is likely true?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Jackson’s mean arterial pressure (MAP) will decrease.",
+          "Jackson’s venous pressure will increase, leading to edema.",
+          "Jackson’s stroke volume will decrease.",
+          "Jackson’s baroreceptors will decrease their firing rate."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 15
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is true regarding cardiac pacemakers?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "The SA node is the only pacemaker in the heart.",
+          "Pacemakers of the heart fire due to voltage gated sodium channels.",
+          "Adrenergic receptors on pacemaker cells increase their firing when activated.",
+          "Pacemaker cells are modified myocytes, and contract before all other cells."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 16
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is true regarding heart contraction?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "The ventricles contract from apex to base.",
+          "A conductive fibrous tissue between the atria and ventricles allows direct electrical conduction between the two.",
+          "Conduction speeds up at the AV node.",
+          "Cardiomyocytes are capable of contracting without extracellular calcium."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 17
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is INCORRECT regarding shocks (a steep decline in MAP)?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Significant loss of blood volume can lead to hypovolemic shock.",
+          "Heart failure can lead to cardiogenic shock.",
+          "Infection can lead to a distributive shock due to damaged capillaries.",
+          "High osmolarity in the blood can lead to distributive shock. Page 3 / 14 2024 SOUP Anatomy and Physiology Exam Team # _____ Page Score _____"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 18
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is true regarding sympathetic nervous system receptors?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "All sympathetic nervous receptors are tyrosine kinases, responsible for producing secondary messengers.",
+          "Alpha1 receptors are expressed in many tissues, respond strongly to acetylcholine, and lead to vasoconstriction through a rise in calcium.",
+          "Beta2 receptors are expressed primarily in the vasculature, lead to vasodilation, and respond most strongly to epinephrine.",
+          "Beta1 receptors are expressed in the heart and, upon activation, block HCN channel activity through breakdown of cAMP."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 19
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following would NOT increase cardiac output?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Decreased cardiac compliance.",
+          "Increased cardiac contractility.",
+          "Increased heart rate.",
+          "Decreased afterload."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 20
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is true regarding cardiac pacemakers?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Electric signals propagate from apex-to-base in the Purkinje fibers.",
+          "Sodium currents drive firing in the SA node.",
+          "The SA node is the sole pacemaker in the heart.",
+          "The AV node speeds up conduction."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 21
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is INCORRECT regarding blood vessels?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Veins, arterioles, and arteries have smooth muscle linings.",
+          "Hydrostatic pressure is higher in the arterioles than it is in the venules.",
+          "Stretching of vessels may open stretch-activated calcium channels, resulting in smooth muscle contraction (when such vessels have smooth muscle lining).",
+          "Capillaries make up the largest portion of total peripheral resistance due to their small diameters."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 22
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is INCORRECT regarding cardiac contraction?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "The ventricles have thicker walls than the atria.",
+          "The left ventricle must contract more forcefully than the right, as it pushes blood to the whole body.",
+          "The first heart sound is the closing of the aortic valve, and the second is the closing of the pulmonary.",
+          "The semilunar valves open when the pressure in the ventricles increases. Page 4 / 14 2024 SOUP Anatomy and Physiology Exam Team # _____ Page Score _____ Labeling Image Source: Andrewmeyerson.  ECG diagram showing normal sinus rhythm . 2 May 2016.  Wikimedia Commons , https://commons.wikimedia.org/wiki/File:Normal_Sinus_Rhythm_Unlabeled.jpg. Accessed 17 Jan. 2024. Label the P-wave, T-wave, the QRS Complex, ST segment, and PR segment. [1 pt each] Fill in the Blank Fill in the blank or circle the correct answer. [1pt per answer]"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 23
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Put the parts of the excretory system in the correct order",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Bowman’s Capsule →Proximal Convoluted Tubule →Loop of Henle →Distal Convoluted Tubule →Collecting Duct",
+          "Bowman’s Capsule →Distal Convoluted Tubule →Loop of Henle →Proximal Convoluted Tubule →Collecting Duct",
+          "Bowman’s Capsule →Loop of Henle →Distal Convoluted Tubule →Proximal Convoluted Tubule →Collecting Duct",
+          "Bowman’s Capsule →Loop of Henle →Proximal Convoluted Tubule →Distal Convoluted Tubule →Collecting Duct"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 44
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "A patient comes to your cardiology clinic with high blood pressure (190/100). You prescribe them a diuretic, a thiazide, in hopes that they’ll produce more urine to lower their blood pressure. Where do thiazides act in the nephron to reduce reabsorption of salt and water?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Proximal Convoluted Tubule",
+          "Distal Convoluted Tubule",
+          "Collecting Duct",
+          "Loop of Henle"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 46
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which is NOT a hormone in the RAAS system?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Renin",
+          "Aldosterone",
+          "Angiotensin I",
+          "Angiotensin II",
+          "Atrial Natriuretic Peptide",
+          "All of the above are hormones in the RAAS system"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 47
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "At which of the following locations does the majority of reabsorption occur?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Distal tubule",
+          "Collecting duct",
+          "Proximal tubule",
+          "Loop of Henle"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 48
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "At what location would you expect the medullary interstitium to have the highest osmolarity?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "“Deeper”---by the base of the loop of Henle",
+          "Surrounding the glomerulus",
+          "Nearby the proximal tubule",
+          "On the upper ridge of the distal tubule"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 49
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is true of granular cells?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "They sense salt concentration and or GFR.",
+          "They secrete renin, which helps kick-start the RAAS pathway.",
+          "They respond to changes in acidity in the glomerular filtrate.",
+          "They are located in the hypothalamus and contain osmoreceptors."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 50
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is true regarding Type A intercalated cells?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "They are the target of aldosterone, and increase water channel expression when aldosterone binds.",
+          "They are helpful in reducing metabolic acidosis via offloading H+ in the collecting duct.",
+          "They are located at the juxtaglomerular apparatus and help sense blood pressure.",
+          "They are permeable to salts and thus good targets for diuretics."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 51
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is true regarding diuretics?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Vasopressin is the body’s endogenous diuretic.",
+          "Coffee works counter to diuretics and inhibits their activity.",
+          "Diuretics decrease blood pressure through water reuptake at the collecting duct.",
+          "Diuretics decrease salt reabsorption, thus increasing urine volume. Page 8 / 14 2024 SOUP Anatomy and Physiology Exam Team # _____ Page Score _____"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 52
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is INCORRECT regarding the glomerulus and Bowman’s capsule?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Podocytes, and their foot processes, wrap around capillaries.",
+          "The capillaries within the glomerulus are fenestrated, increasing filtration.",
+          "GFR is increased by constriction of the afferent arteriole entering the glomerulus.",
+          "Damage to the basement layer can cause accidental protein filtration."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 53
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is true regarding vasopressin?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Vasopressin increases the expression of aquaporins in the collecting duct.",
+          "Vasopressin is helpful in decreasing blood pressure.",
+          "Vasopressin is released from the anterior pituitary in response to medullary signaling.",
+          "Vasopressin is released from the adrenal cortex in response to renin."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 54
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following would NOT increase GFR?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Increased capillary surface area.",
+          "Renal blood flow.",
+          "Constriction of the afferent arteriole.",
+          "Increased blood pressure in the glomerulus."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 55
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is true regarding nephritic syndrome?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "It is due to limited filtration of proteins in the glomerulus.",
+          "It results in blood appearing in the urine.",
+          "It commonly causes hypotension.",
+          "Patients with nephritic syndrome urinate more frequently than normal."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 56
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "To be considered for dialysis, a kidney disease patient should have an estimated glomerular filtration rate of?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "< 30 mL/min",
+          "< 25 mL/min",
+          "< 20 mL/min",
+          "< 15 mL/min Fill in the Blank Fill in the blank or circle the correct answer. [1pt per answer]"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 57
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is (are) immune tissue associated with the digestive system?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "GALT",
+          "TALT",
+          "SALT",
+          "HALT"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 82
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Where do T-lymphocytes mature?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Bone Marrow",
+          "Thyroid",
+          "Thymus",
+          "Parathyroid"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 83
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The spleen is located behind which of the following groups of ribs?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Ribs 5, 6, 7",
+          "Ribs 6, 7, 8",
+          "Ribs 8, 9, 10",
+          "Ribs 9, 10, 11 Page 11 / 14 2024 SOUP Anatomy and Physiology Exam Team # _____ Page Score _____"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 84
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Chylomicrons carrying dietary fats and lipids travel initially through the lymphatic system to eventually enter the circulatory system. Where is the entry point to the circulatory system located?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Left subclavian vein",
+          "Left internal jugular vein",
+          "Right internal jugular vein",
+          "Right axillary vein"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 85
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "A patient with breast cancer who underwent a mastectomy (a surgical procedure where breast tissue containing the tumor is removed) came back for a follow-up visit to your clinic two months after the procedure. She presents with swelling in her arm (on the same side where the tumor was removed from) and you note that you removed a few lymph nodes during the mastectomy. This patient most likely has which of the following:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Lymphadenopathy",
+          "Hodgkin’s Lymphoma",
+          "Lymphedema",
+          "Thoracic Outlet Syndrome"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 86
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "High endothelial venules can be found in which lymph organ?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Thymus",
+          "Bone marrow",
+          "Liver",
+          "Lymph node"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 87
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "All of the following are functions of the spleen except:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Produces white blood cells",
+          "Maintains blood glucose levels",
+          "Stores blood",
+          "Filters blood"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 88
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Where are the tonsils located?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Back of the mouth",
+          "Base of the neck",
+          "Front of the mouth",
+          "Armpit"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 89
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is a common cause of tonsillitis?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Oral cancer",
+          "Laryngitis",
+          "Strep throat",
+          "Acid reflux disease"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 90
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What fraction of total splenic tissue does white pulp make up?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "¼",
+          "½",
+          "¾",
+          "⅝ Page 12 / 14 2024 SOUP Anatomy and Physiology Exam Team # _____ Page Score _____"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 91
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The spleen is an important site of phagocytosis of what bacterial virulence factor (individuals without a spleen are more prone to infection if this bacterial characteristic is present)?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Pilli",
+          "Flagella",
+          "Capsules",
+          "Fimbriae"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 92
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The main constituent of yellow bone marrow is",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Immune cells",
+          "Red blood cells",
+          "Stem cells",
+          "Adipose cells"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 93
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Red bone marrow only exists in this cell type in adults:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Axial flat bones",
+          "Sesamoid bones",
+          "Long bones",
+          "Short bones"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 94
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What kinds of cells line lymph capillaries?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Stratified squamous cells",
+          "Pseudo-stratified squamous cells",
+          "Simple squamous cells",
+          "Cuboidal cells Fill in the Blank Fill in the blank or circle the correct answer. [1pt per answer]"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 95
+      }
+    }
+  ]
+}

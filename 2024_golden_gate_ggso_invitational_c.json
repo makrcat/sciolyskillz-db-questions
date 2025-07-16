@@ -1,0 +1,1547 @@
+{
+  "competition": "Golden Gate (GGSO) Invitational",
+  "division": "C",
+  "year": 2024,
+  "event": "anatomy",
+  "questions": [
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "During the isovolumic phase of ventricular systole:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "The atria contract.",
+          "The atrioventricular valves and semilunar valves are closed.",
+          "The ventricles are ﬁlling with blood.",
+          "Blood is ejected into the great vessels."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 1
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Select all of the following that are measures of contractility.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "dP dt",
+          "Mean velocity of ﬁber shortening.",
+          "End-diastolic pressure.",
+          "Oxygen-extraction ratio"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 2
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following results from sympathetic stimulation of vascular smooth muscle?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Increased ﬁltration of ﬂuid from capillaries to interstitial space.",
+          "Total peripheral resistance (TPR) decreases.",
+          "Blood ﬂow to the brain decreases.",
+          "Venous return of blood to the heart increases."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 4
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Myocardial sodium channels exhibit a period of inactivity where the cell is unresponsive to further action potentials. (a) (2 points) Explain why sodium channels should have an inactive period. (b)  Class I antiarrhythmic drugs inhibit fast Na +   channels, slowing down cardiac conduction velocity. In cardiomyocytes treated with class I antiarrhythmic drugs, which of the following qualities are observed?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Positive chronotropy",
+          "Negative dromotropy",
+          "Positive inotropy",
+          "Negative bathmotropy (c) (1 point) What is this duration called?"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 5
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "An arterial pressure waveform for the aorta creates a dicrotic notch. Given this information, the dicrotic notch most likely occurs when:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "The aortic valve closes in the early diastole.",
+          "The left ventricle ejects blood into the aorta.",
+          "Most of the blood volume in the aorta ﬂows into the brachiocephalic, carotid, and left subclavian arteries.",
+          "Oxygenated blood in the left atrium ﬂows into the left ventricle."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 6
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following features would be found in veins, but not capillaries? Select all that apply.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Pericytes",
+          "Tunica intima",
+          "Vasa vasorum",
+          "Vascular smooth muscle"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 10
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "A heart murmur during systole would suggest which of the following? Select all that apply.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Stenosis of the bicuspid valve",
+          "Stenosis of the aortic valve",
+          "Leakage of the tricuspid valve",
+          "Intraventricular septal defect"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 11
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "A heart murmur during systole would suggest which of the following?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Ausculation.",
+          "Observation.",
+          "Palpation.",
+          "Percussion. Pdzrn3 is an endothelial cell(EC)-speciﬁc ubiquitin ligase that destabilizes tight junctions."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 12
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Select all of the following statements true about iEC-Pdzrn3 mice.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "In iEC-Pdzrn3 mice, oncotic pressure at the venous end of the capillary is much greater than hydrostatic pressure at the arterial end.",
+          "In iEC-Pdzrn3 mice, hydrostatic pressure at the arterial end of the capillary is much greater than the oncotic pressure at the venous end.",
+          "In the hearts of iEC-Pdzrn3 mice, the net ﬂow of interstitial ﬂuid is directed out of the coronary capillaries.",
+          "In iEC-Pdzrn3 mice, nitric oxide coupling to endothelial NO receptors would decrease ﬂuid ﬂow into the interstitial space. The mutant strain of mice was shown to have greater end-diastolic pressure than the control strain of mice, a characteristic of diastolic dysfunction."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 15
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) Select all quantities that would be increased.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Contractility",
+          "End-diastolic volume",
+          "Stroke volume",
+          "Sarcomere length"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 16
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) Select all of the following proteins whose expressions would be increased in the mutant mice.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Angiotensin",
+          "Atrial natriuretic peptide",
+          "Endothelin-1",
+          "Renin"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 17
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Select all of the protein channels that open during phase 2 of the action potential.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Late-type Ca 2+   channels",
+          "Ryanodine channels",
+          "Na-K ATPase channels",
+          "N-methyl-D-aspartate channels Page 3 GGSO Invitational Anatomy and Physiology C"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 20
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following techniques can be used to produce the image above?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Cell-attached patch-clamp",
+          "Perforated patch-clamp",
+          "Whole-cell patch-clamp",
+          "12-lead electrode ECG"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 21
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Select all of the following that induces platelet aggregation.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "High molecular weight heparin",
+          "Prostaglandin  I 2",
+          "Thromboxane  A 2",
+          "Warfarin"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 28
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "A 40-year-old man su↵ered a myocardial infarction. He has a strong family history of heart attacks. On the exam, his blood pressure and pulse are normal. He has xanthomas on his hands and xanthelasmas on his eyelids. His LDL is 290 mg/dL, HDL is 29 mg/dL, and triglycerides are 140 mg/dL. Which of the following does he most likely have a deﬁciency of?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Apo B48",
+          "Apo C",
+          "Lipoprotein lipase activity",
+          "LDL receptor"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 31
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "A person goes from a standing to a supine position. Which of the following changes is most likely?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "\"  carotid sinus baroreceptor activity,  \"  atrial stretch receptor activity,  \"  vagal e↵erent activity to the heart.",
+          "\"  carotid sinus baroreceptor activity,  \"  atrial stretch receptor activity,  #  vagal e↵erent activity to the heart.",
+          "#  carotid sinus baroreceptor activity,  #  atrial stretch receptor activity,  #  vagal e↵erent activity to the heart.",
+          "#  carotid sinus baroreceptor activity,  #  atrial stretch receptor activity,  \"  vagal e↵erent activity to the heart."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 32
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is the strongest risk factor for cardiovascular disease?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Smoking",
+          "Heavy alcohol use",
+          "High LDL cholesterol",
+          "Family history Page 5 GGSO Invitational Anatomy and Physiology C"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 33
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "An elderly man presents with shortness of breath. He has morbid obesity and obstructive sleep apnea. An EKG is obtained and shown in Image C6. Which of the following will improve his symptoms?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Controlling the atrial rate",
+          "Initiating anticoagulation",
+          "Controlling the ventricular rate",
+          "Maintaining his blood pressure"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 35
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What rhythm is noted in Image C7 in this patient who has recently had a heart attack?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Mobitz Type II 2nd degree heart block",
+          "Ventricular tachycardia",
+          "Ventricular ﬁbrillation",
+          "Supraventricular tachycardia with aberrant conduction"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 36
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(a)  The process by which tertiary lymphoid organs (TLOs) are formed is called: (b)  Which of the following molecules would induce TLO formation?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "IgE",
+          "IL-17",
+          "Heparan sulfate",
+          "UDP-glucuronic acid"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 39
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Select all mucosa-associated lymphoid tissues.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Choroid plexus",
+          "Peyer’s patches",
+          "Stromal cells in the spleen",
+          "Waldeyer’s ring"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 40
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What type of capillaries is mainly found in the white pulp?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Anastomotic",
+          "Continuous",
+          "Fenestrated",
+          "Sinusoidal"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 42
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) How do Heinz bodies form in erythrocytes?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Silicates that accumulate in the lung di↵use through the alveolar membrane, into the bloodstream, and into the erythrocytes, in which the silicates build up.",
+          "Reactive oxygen species oxidize sulfhydryl groups in Hemoglobin, making the protein insoluble. The insoluble proteins precipitate out as Heinz bodies.",
+          "Endothelial cells export Fe 3+   ions as a secondary metabolite, which di↵uses through the erythro- cyte membrane and aggregates as iron nodules.",
+          "Clusters of erythrocyte nuclear remnants aggregate in the cytoplasm."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 43
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The spleen stores hemoglobin from phagocytosed erythrocytes as:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Ferritin",
+          "Hemoglobin",
+          "Hemosiderin",
+          "Lipofuscin Page 7 GGSO Invitational Anatomy and Physiology C"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 45
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What might you expect to see in an individual with the smear shown in Image L1?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Hypercellular marrow with blasts",
+          "Dysplasia involving all cell lineages",
+          "Dry tap of bone marrow",
+          "Di↵use lymphadenopathy"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 46
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "A 60-year-old woman comes in with lower extremity swelling. On examination, she has varicose veins and nonpitting edema. Which of the following is most likely responsible for her symptoms?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Diminished contractility of lymphatic vessels",
+          "Decreased skeletal muscle mass",
+          "Increased thoracic pressure",
+          "Non-transmitted arterial waves"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 48
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "A 2-year-old child is brought to the clinic by his mother due to a runny nose and lethargy for the past 2 days. On laboratory testing, he is found to have a normal B cell count and a low T cell count. Which part of his lymph nodes will likely be underdeveloped?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Marginal zone",
+          "Paracortex",
+          "Cortex",
+          "Medulla"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 49
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Identify the cell type in Images L3 and L4:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Epithelial reticular cell",
+          "Plasma cell",
+          "Macrophage",
+          "T lymphocyte"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 50
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "A patient has symptoms of fatigue, early fullness, and abdominal pain. A physical exam reveals an enlarged spleen. Which of the following tests is not recommended for this patient?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "CT scan",
+          "Viral serology",
+          "Radionucleotide scan",
+          "Needle biopsy"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 52
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following could you expect to see in the patient in Image L5? Select all that apply.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "History of mononucleosis",
+          "Non-contagious spread",
+          "HTLV-1 infection",
+          "CD15 positivity Page 8 GGSO Invitational Anatomy and Physiology C"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 53
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is FALSE about mucosa-associated lymphoid tissue (MALT) lymphomas?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Association with infectious agents is often seen",
+          "Bone marrow involvement is uncommon",
+          "Association with Trisomy 21 is sometimes seen",
+          "They may be associated with certain autoimmune diseases"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 55
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following stimulates vasopressin secretion?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "high plasma osmolarity",
+          "decreased aldosterone secretion",
+          "high plasma volume",
+          "ingestion of alcohol"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 57
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Osmotic diuretics increase the excretion of which of the following substances? Select all that apply.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Na +",
+          "HCO − 3",
+          "Phosphate",
+          "Ca 2+"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 58
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following would increase GFR?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Glomerular osmotic pressure of 35 mmHg",
+          "Glomerular hydrostatic pressure of 70 mmHg",
+          "Sympathetic stimulation of the a↵erent arteriole",
+          "Secretion of aldosterone"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 59
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is a side e↵ect of furosemide?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Hyperkalemia",
+          "Decreased ability to concentrate the urine",
+          "Heart failure",
+          "Hypercalcemia"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 60
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is true about renal mesangial cells? Select all that apply.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "They are contractile cells",
+          "They are phagocytic",
+          "They are a source of growth factors",
+          "They a↵ect renal blood ﬂow"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 61
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "A 68-year-old man presents with urinary urgency and incontinence. He describes good urinary ﬂow. His urinalysis and prostate examination are normal. Which medication might relieve his symptoms?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Calcium channel blocker",
+          "Antimuscarinic agent",
+          "5-alpha reductase inhibitor",
+          "Desmopressin"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 62
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Decreasing diuretic e↵ectiveness:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "bumetanide  >  acetazolamide  >  hydrochlorothiazide",
+          "hydrochlorothiazide  >  furosemide  >  acetazolamide",
+          "acetazolamide  >  chlorthalidone  >  ethacrynic acid",
+          "furosemide  >  hydrochlorothiazide  >  acetazolamide Page 10 GGSO Invitational Anatomy and Physiology C"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 63
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following can be associated with the urinalysis ﬁnding in Image E1? Select all that apply.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "NSAID use",
+          "HIV infection",
+          "Recent heart attack",
+          "Septic shock"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 64
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which is true regarding the prostate gland?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "It encircles the membranous portion of the urethra",
+          "It is well visualized by a urogram",
+          "It is partly intraperitoneal",
+          "It receives cholinergic innervation"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 65
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is one possible cause of the urinalysis ﬁnding shown in Image E2?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Obesity",
+          "Membranous nephropathy",
+          "Highly acidic urine",
+          "Proteus mirabilis"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 66
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "In anorexia, gluconeogenesis starts in a speciﬁc segment of the kidney. Which of the following best describes the percentage of NaCl reabsorbed in this nephron segment?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "3-5%",
+          "10-20%",
+          "30-35%",
+          "60-65%"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 67
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What would the osmolality be in the outlined region shown in Image E4?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "50-100 mosm",
+          "100-300 mosm",
+          "600-900 mosm",
+          "> 1200 mosm"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 71
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "In a person with very high levels of aldosterone and otherwise normal kidney function, approximately what percentage of the ﬁltered load of sodium would be reabsorbed?  (Omitted from grading)",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Over 65%",
+          "40% to 60%",
+          "20% to 40%",
+          "Less than 10%"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 72
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Identify the structure in Image E6:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Interlobar artery",
+          "Arcuate artery",
+          "Segmental artery",
+          "E↵erent arteriole"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 74
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The amount of a substance excreted is equal to the amount plus the amount minus the amount .",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "ﬁltered; reabsorbed; secreted",
+          "reabsorbed; ﬁltered; secreted",
+          "secreted; reabsorbed; ﬁltered",
+          "ﬁltered; secreted; reabsorbed",
+          "reabsorbed; secreted; ﬁltered"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 78
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Rupture of the penile urethra from a catheter might cause urine to leak into the:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "ischioanal fossa",
+          "superﬁcial fascia cleft in the gluteal region",
+          "peritoneal cavity",
+          "superﬁcial fascia cleft of the anterior abdominal wall"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 79
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What channels are primarily a↵ected in an individual with the disease characterized by low renin, low aldosterone hypertension?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Na + -K +   ATPase",
+          "ENaC",
+          "Na + -H +   antiporter",
+          "SGLT"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 81
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following increases the risk for the disease shown in Image E8?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "A high calcium diet",
+          "Thiazide diuretics",
+          "Gastric bypass surgery",
+          "Proteus mirabilis  infection Page 12 GGSO Invitational Anatomy and Physiology C"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 82
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "A patient has the following lab ﬁndings: Sodium 128 mEq/L, Blood urea nitrogen 35 mg/dL, Creatinine 1.5 mg/dL, Urine osmolality 380 mOsm/kg, Urine sodium 18 mEq/L. What is the most likely cause of this patient’s hyponatremia?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Congestive heart failure",
+          "Beer potomania",
+          "SIADH (syndrome of inappropriate ADH secretion)",
+          "Loop diuretic abuse"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 83
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "A woman just completed running a half marathon. She did not drink any water during the race. What will likely be activated at this time?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Arginine vasoreceptor 2 in the PCT",
+          "K + –H +   exchange in the distal tubule",
+          "Proximal tubule carbonic anhydrase",
+          "Urea reabsorption in the medullary collecting duct"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 84
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What kidney condition is associated with the ﬁnding in Image E9?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "End stage renal disease",
+          "Minimal change disease",
+          "Henoch Schonlein purpura",
+          "IgA nephropathy"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 85
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which is least dependent on the kidney for regulation of its blood concentration?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "K +",
+          "Na +",
+          "Water",
+          "Glucose"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 86
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which is the most permeable to water in the slide shown in Image E10?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 87
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which is TRUE about the juxtaglomerular apparatus?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "It is composed of parts of the ascending limb of the loop of Henle and the vasa recta.",
+          "It is composed of glomerular capillaries and the macula densa.",
+          "It is the site of renin secretion.",
+          "It is created by the junction between the proximal tubule and the a↵erent arteriole.",
+          "It is composed of cells that secrete atrial natriuretic peptide and cells that secrete norepinephrine. Page 13 GGSO Invitational Anatomy and Physiology C Use the following information for the question below: Urine ﬂow rate = 1 ml/min Urine inulin concentration = 100 mg/ml Plasma inulin concentration = 2 mg/ml Urine urea concentration = 50 mg/ml Plasma urea concentration = 2.5 mg/ml"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 88
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "(2 points) What is the glomerular ﬁltration rate (GFR)?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "0 ml/min",
+          "25 ml/min",
+          "50 ml/min",
+          "100 ml/min",
+          "125 ml/min"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 89
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following decreases potassium secretion by the collecting duct?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "An inhibitor of aldosterone",
+          "Increased plasma potassium concentration",
+          "A diuretic that decreases proximal tubule sodium reabsorption",
+          "Acute alkalosis"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 90
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "A college senior comes in with a painful, swollen left knee and stinging in his right eye. On further questioning, he states that he had an abrupt onset of dysuria two weeks ago. Which of the following would be the next diagnostic test?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Nontreponemal and treponemal serologies",
+          "Nucleic acid ampliﬁcation",
+          "Viral culture of active genital lesion",
+          "HLA-B27"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 91
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which would you expect to see in an individual with low ADH production? Plasma [osm] Plasma [Na+] Plasma renin Urine volume",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "No change No change # \"",
+          "No change No change \" \"",
+          "\" \" \" \"",
+          "\" \" No change No change",
+          "# # # No change Page 14"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 14,
+        "number": 92
+      }
+    }
+  ]
+}

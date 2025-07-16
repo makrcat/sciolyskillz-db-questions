@@ -1,5 +1,5 @@
 {
-    "id": "RANDOM_GENERATED_ID",
+    "id": "",
     "questionInfo": {
         "question": "Sample question",
         "correctAnswerIndex": 3,
@@ -13,7 +13,8 @@
     },
     "searchInfo": {
         "reference": "blah|blah|blah.mdx",
-        "topic": "anatomy",
+        "event": "anatomy",
+        "system": "skeletal",
         "tags": [
             "this",
             "might be",

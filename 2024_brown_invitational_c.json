@@ -1,0 +1,1674 @@
+{
+  "competition": "Brown Invitational",
+  "division": "C",
+  "year": 2024,
+  "event": "anatomy",
+  "questions": [
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which part of the heart receives oxygenated blood from the lungs?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Right atrium",
+          "Right ventricle",
+          "Left atrium",
+          "Left ventricle"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 1
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which valve separates the right atrium from the right ventricle?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Tricuspid valve",
+          "Mitral valve",
+          "Pulmonary valve",
+          "Aortic valve"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 2
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "An aortic valve that is unable to fully close would result in which of the following?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "A heart murmur audible during ventricular systole",
+          "A heart murmur audible during ventricular diastole",
+          "Leaking of blood from the ventricle back into the atrium",
+          "Decreased pulse pressure"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 3
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "From inner to outermost, what is the correct ordering of the layers of the heart?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Endocardium, Epicardium, Myocardium, Pericardium",
+          "Endocardium, Myocardium, Pericardium, Epicardium",
+          "Endocardium, Myocardium, Epicardium, Pericardium",
+          "Myocardium, Endocardium, Pericardium, Epicardium"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 4
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The S1 heart sound corresponds to the closure of which valves?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Mitral and tricuspid",
+          "Aortic and pulmonary",
+          "Mitral and pulmonary",
+          "Aortic and tricuspid"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 5
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The beginning of ventricular systole",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Corresponds to isovolumetric relaxation of the ventricle",
+          "Corresponds to the p-wave of the EKG",
+          "Corresponds to the point at which the aortic valve closes",
+          "Corresponds to the point at which ventricular volume is greatest Page 1 of 16"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 6
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "During the period of the cardiac cycle when the left ventricular volume falls from 150mL to 75mL, which of the following combinations of valves would you expect to see?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Mitral and aortic valves both closed",
+          "Mitral and aortic valves both open",
+          "Mitral valve closed; aortic valve open",
+          "Mitral valve open; aortic valve closed"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 7
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Of the following blood vessels going to and from the heart, which contains blood that is the least oxygenated?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Aorta",
+          "Vena Cava",
+          "Pulmonary Artery",
+          "Pulmonary Vein"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 8
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The chordae tendineae of the heart are important because they",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Prevent atrioventricular valve prolapse during ventricular systole",
+          "Prevent the ventricle from contracting too vigorously",
+          "Prevent the closure of the atrioventricular valve during ventricular diastole",
+          "Prevent the heart from migrating in the thoracic cavity"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 9
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ What is the correct order of electrical conduction in the heart?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "SA node -> AV node -> Bundle of His -> Purkinje fibers",
+          "AV node -> SA node -> Purkinje fibers -> Bundle of His",
+          "SA node -> Purkinje fibers -> AV node -> Bundle of His",
+          "AV node -> Bundle of His -> SA node -> Purkinje fibers"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 10
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ What is the function of the AV node?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Initiates the heartbeat",
+          "Delays the signal to allow time for the atria to contract",
+          "Speeds up the signal to increase heart rate",
+          "Stops the signal to prevent ventricular contraction"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 11
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ On an EKG, the T wave represents which of the following cardiac events?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Atrial depolarization",
+          "Atrial repolarization",
+          "Ventricular depolarization",
+          "Ventricular repolarization"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 12
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ What EKG changes are typically seen with hyperkalemia?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Tall, peaked T waves most visible in the precordial leads",
+          "T-wave inversions that can progress into a prolonged QTc and mild ST depression",
+          "Shortening of the QT interval",
+          "Widening of the QRS and ventricular tachycardia Page 2 of 16"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 13
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ What EKG changes are typically seen with hypercalcemia?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Tall, peaked T waves most visible in the precordial leads",
+          "T-wave inversions that can progress into a prolonged QTc and mild ST depression",
+          "Shortening of the QT interval",
+          "Widening of the QRS and ventricular tachycardia"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 14
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ Which of the following would result in the greatest increase in ventricular oxygen consumption?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Increased preload",
+          "Increased afterload",
+          "Increased contractility",
+          "All three equally"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 15
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ Which of the following is the best description of the Frank-Starling mechanism of the heart?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "An increase in afterload leads to an increase in stroke volume",
+          "An increase in preload leads to an increase in stroke volume",
+          "An increase in afterload leads to an increase in blood pressure",
+          "An increase in preload leads to an increase in blood pressure"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 16
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ A patient is known to have concentric hypertrophy of the left ventricle. Which of the following is most consistent with this condition?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Aortic regurgitation",
+          "Increased preload",
+          "Increased end diastolic pressure",
+          "Decreased afterload"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 17
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ As mean arterial pressure increases above normal, which of the following will decrease as compensation?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Heart rate",
+          "Urine output",
+          "Respiratory rate",
+          "Core body temperature Page 3 of 16"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 18
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ A patient presents to you for routine care a few weeks after experiencing a stab wound of the upper extremity. The scar of the healing wound is slightly distended and is pulsatile on palpation. On auscultation of the heart, you notice a constant venous hum. You correctly identify the condition as an arteriovenous fistula (an aberrant connection between the arterial and venous systems) caused by the tissue remodeling during wound healing. Which of the following best describes the effect of this fistula on the patient’s cardiac output?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "It decreases cardiac output",
+          "It increases cardiac output",
+          "It has no effect on cardiac output",
+          "It initially increases cardiac output, then decreases cardiac output after the heart eventually adapts"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 19
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ Over which of the following types of blood vessels does blood experience the greatest drop in pressure?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Arteries",
+          "Arterioles",
+          "Capillaries",
+          "Venules",
+          "Veins"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 20
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ Using the Starling equation, calculate the net driving force into or out of the capillary given that the capillary hydrostatic pressure is +15 mmHg, interstitial hydrostatic pressure of -2 mmHg, capillary oncotic pressure of +28 mmHg, and interstitial oncotic pressure of +3 mmHg.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "-8 mmHg into the capillary",
+          "+8 mmHg out of the capillary",
+          "42 mmHg out of the capillary",
+          "-42 mmHg into the capillary"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 21
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ A 26-year-old man presents to you with concern for periorbital edema and significant lower leg swelling. He notes a recent increase in his weight despite no changes in lifestyle habits. Urinalysis demonstrates significant proteinuria. After additional workup, you diagnose the patient with nephrotic syndrome which is characterized by the loss of protein from the blood into the urine during renal filtration. Which of the following changes to the Starling forces at the level of the capillary would be expected given the patient’s condition?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Increase in capillary hydrostatic pressure",
+          "Decrease in capillary oncotic pressure",
+          "Decrease in interstitial hydrostatic pressure",
+          "Increase in interstitial oncotic pressure Page 4 of 16"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 22
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ Your patient’s blood pressure is 119 mmHg systolic and 80 mmHg diastolic in the clinic today. What is the patient’s mean arterial pressure?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "93 mmHg",
+          "98 mmHg",
+          "103 mmHg",
+          "108 mmHg"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 23
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ If a patient has a heart rate of 70 beats per minute and a stroke volume of 75 mL, what is the patient’s cardiac output?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "5.00 L/min",
+          "5.25 L/min",
+          "5.50 L/min",
+          "5.75 L/min"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 24
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ What enzyme present in the erythrocytes is responsible for buffering the blood against rapid changes in acidity through its catalysis of the reaction of carbon dioxide and water to form carbonic acid?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Glucose-6-Phosphate Dehydrogenase",
+          "Pyruvate Kinase",
+          "Carbonic Anhydrase",
+          "Adenylate Cyclase"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 25
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ The leftward shift in the oxyhemoglobin dissociation curve seen in fetal hemoglobin relative to adult hemoglobin",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Indicates that fetal hemoglobin has increased affinity for oxygen relative to adult hemoglobin",
+          "Indicates that fetal hemoglobin has decreased affinity for oxygen relative to adult hemoglobin",
+          "Is suggestive that fetal blood pH is less than that of an adult",
+          "Is suggestive that fetal body temperature is greater than that of an adult"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 26
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ In the context of blood transfusions, which blood type is considered the universal donor, and which blood type is considered the universal acceptor?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "AB+ is universal donor, O- is universal acceptor",
+          "AB- is universal donor, O+ is universal acceptor",
+          "AB+ is universal acceptor, O- is universal donor",
+          "AB- is universal acceptor, O+ is universal donor"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 27
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ Deficiency in which of the following vitamins can cause a bleeding propensity due to its crucial role in the posttranslational modification of clotting factors II, VII, IX, and X?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Vitamin A",
+          "Vitamin C",
+          "Vitamin E",
+          "Vitamin K Page 5 of 16"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 28
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ Which of the following disease processes is most consistent with congestive heart failure?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "A progressive loss in the pacemaking function of the sinoatrial node",
+          "A progressive occlusion of coronary arteries with plaques",
+          "A progressive decrease in the pumping (systolic) or filling (diastolic) function of the heart",
+          "A progressive increase in the time it takes for ventricular depolarization and repolarization"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 29
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ Which of the following is a common cause of macrocytic anemia?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Vitamin B12 deficiency",
+          "Vitamin C deficiency",
+          "Iron deficiency",
+          "Dehydration Labeling (6.5 points; 0.5 point each) ​"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 30
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ How are lymph nodes distributed throughout the body?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "They are evenly distributed in all organs",
+          "They are concentrated in the brain and spinal cord",
+          "They are found only in the chest and abdomen",
+          "They occur in clusters or groups in various regions"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 32
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ Which of these would NOT be found in lymph fluid?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Proteins",
+          "Erythrocytes",
+          "Sodium ions",
+          "Neutrophils"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 33
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ What is the connection between the lymphatic system and the cardiovascular system?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Lymph is pumped by the heart like blood",
+          "Lymphatic system contains arteries",
+          "Lymphatic vessels act as a reservoir for cells and fluid that escape the cardiovascular system",
+          "Lymphatic vessels form a complete circuit like blood vessels"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 34
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ What is one major force that causes interstitial fluid to enter lymphatic capillaries?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Blood osmotic pressure",
+          "Blood hydrostatic pressure",
+          "Tissue osmotic pressure",
+          "Tissue hydrostatic pressure"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 35
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ What is the main cause of edema following damage to an area of lymphatic vessels?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Increase in tissue proteins",
+          "Loss of tissue proteins",
+          "Increase in blood osmotic pressure",
+          "Increase in tissue osmotic pressure Page 7 of 16"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 36
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ Which of the following accurately describes the path of lymph flow through a lymph node?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Efferent lymphatic vessels -> medullary sinus -> deep cortex -> outer cortex -> dendritic cells -> afferent lymphatic vessels",
+          "Afferent lymphatic vessels -> dendritic cells -> outer cortex -> deep cortex -> medullary sinus -> efferent lymphatic vessels",
+          "Afferent lymphatic vessels -> medullary sinus -> dendritic cells -> outer cortex -> deep cortex -> efferent lymphatic vessels",
+          "Afferent lymphatic vessels -> dendritic cells -> medullary sinus -> outer cortex -> deep cortex -> efferent lymphatic vessels"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 37
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ Which of the following accurately characterizes the red pulp of the spleen?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Consists of germinal centers of dividing B cells",
+          "Functions as a filtration system of the blood",
+          "Contains adaptive T and B cell responses",
+          "Surrounds a central arteriole"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 38
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ What is the sac-like chamber that receives lymph from the lower abdomen, pelvis, and lower limbs?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Cisterna chyli",
+          "Trabeculae",
+          "Germinal center",
+          "Sinusoids"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 39
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ Tissue rejection following organ transplantation mostly resembles",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "An inflammatory response",
+          "A cell-mediated response to a foreign antigen",
+          "Large release of histamine causing destruction of tissue",
+          "A B cell response to an antigen"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 40
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ Cytotoxic T cells destroy target cells",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Through injection of tumor necrosis factor",
+          "By phagocytosis",
+          "Through insertion of perforins into the target cell’s membrane",
+          "By releasing oxidizing agents"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 41
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ What prevents lymph from leaking into extracellular spaces?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Valves",
+          "Overlapping endothelial cells",
+          "Low pressure in the capillaries",
+          "Gaps between the endothelial cells Page 8 of 16"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 42
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ Which of the following statements is FALSE concerning movement of lymph through the body?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Pressure gradients are essential in the movement of lymph",
+          "The accumulation of protein in interstitial fluid affects lymph movement",
+          "Lifting weights affects lymph movement",
+          "Blood pressure is a major factor in the movement of lymph"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 43
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ The specific type of acquired immunity that a fetus obtains from maternal antibodies that cross the placenta is called:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Naturally acquired active immunity",
+          "Naturally acquired passive immunity",
+          "Artificially acquired active immunity",
+          "Artificially acquired passive immunity",
+          "Naturally acquired artificial immunity"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 44
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ Which one of the following is NOT a mechanism that aids lymph return?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Milking action of skeletal muscles",
+          "Pressure changes within the thorax",
+          "The pumping action of the heart",
+          "Smooth muscle contractions within the lymphatic vessels e.​  Presence of valves within the larger lymph vessels Page 9 of 16 Labeling (9 points)"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 45
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ Which of the following compounds are classified as nitrogenous wastes?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Creatinine",
+          "Sodium",
+          "Red blood cells",
+          "Ketone bodies"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 51
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ Which of the following is the purpose of the renal corpuscle in the nephron?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Reabsorption of ions, organic molecules, vitamins, water",
+          "Secretion of drugs, toxins, and acids",
+          "Filtration of blood plasma",
+          "All of the above"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 52
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ The relationship between net hydrostatic pressure (NHP), glomerular hydrostatic pressure (GHP), and capsular hydrostatic pressure (CsHP) is",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "NHP = CsHP / GHP",
+          "GHP = NHP * CsHP",
+          "NHP = GHP - CsHP",
+          "NHP = CsHP - GHP"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 53
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ Which of the following is the main structure holding the kidney against the back body wall?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Renal fascia",
+          "Diaphragm",
+          "Renal cortex",
+          "Urethra"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 54
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ Angiotensin II has all of the following effects, except",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Increases blood pressure",
+          "Increases platelet count",
+          "Constricts arteries",
+          "Promotes water intake"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 55
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ Aldosterone acts on the ______ to promote sodium and potassium secretion.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Distal tubule, only",
+          "Collecting duct, only",
+          "A and B",
+          "None of the above Page 12 of 16"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 56
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ The function of the kidney is to",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Filter urine, store it, and pump it out of the body",
+          "Absorb hormones and drugs from the blood",
+          "Filter blood plasma and excrete toxic metabolic wastes",
+          "Create antibodies to fight antigens in the blood"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 57
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ Which of the following is the correct flowchart of renal circulation?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Renal Artery -> Renal Vein -> Glomerulus -> Efferent Arteriole",
+          "Renal Artery -> Glomerulus -> Efferent Arteriole -> Renal Vein",
+          "Efferent Arteriole -> Renal Vein -> Glomerulus -> Renal Artery",
+          "Glomerulus -> Renal Artery -> Renal Vein -> Efferent Arteriole"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 58
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ The average urine volume per day for an adult is",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "1.4 liters",
+          "0.6 liters",
+          "2.8 liters",
+          "0.5 liters"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 59
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ The chemical composition of ammonium is",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "NH ₃",
+          "NH ₄⁺",
+          "NH ₄",
+          "NH ₃⁺"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 60
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ This hormone is the active form of vitamin D, which helps maintain calcium for the bones and for normal chemical balance in the body.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Calcitriol",
+          "Renin",
+          "Erythropoietin",
+          "Vasopressin"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 61
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ The Bowman's capsule has an outer parietal layer composed of",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Simple squamous epithelium",
+          "Stratified columnar epithelium",
+          "Stratified squamous epithelium",
+          "Stratified cuboidal epithelium"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 62
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ The renal corpuscle filtration barrier is composed of:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Fenestrated endothelium of glomerular capillaries",
+          "Fused basal lamina of endothelial cells and podocytes",
+          "Filtration slits of the podocytes",
+          "All of the above"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 63
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ The basal lamina is composed of 3 layers:",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Lamina reticularis, lamina lucida, and lamina rara interna",
+          "Lamina rara externa, lamina densa, and lamina rara interna",
+          "Lamina rara externa, lamina lucida, and fibrillin microfibrils",
+          "Lamina reticularis, lamina densa, and lamina rara interna Page 13 of 16"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 64
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ ________ is a condition of excessive urine production (>2.5 L/day), ________ is a condition of abnormally small amounts of urine (<400 mL), and _______ is a condition where the kidneys fail to produce urine.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Oliguria; polyuria; anuria",
+          "Polyuria; oliguria; anuria",
+          "Anuria; oliguria; polyuria",
+          "Anuria; polyuria; oliguria"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 65
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ The basic structural and functional unit of the kidney is the",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Ureter",
+          "Urethra",
+          "Bladder",
+          "Nephron"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 66
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ Kidney stones can be made up of",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Calcium oxalate (CaOx)",
+          "Calcium Phosphate (CaP)",
+          "Uric Acid",
+          "All of the above"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 67
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ Tubular ________ is the transfer of materials from peritubular capillaries to the renal tubular lumen",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Absorption",
+          "Secretion",
+          "Reabsorption",
+          "Expression"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 68
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ All of the following are types of nitrogenous wastes, except",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Ammonia",
+          "Urea",
+          "Phosphates",
+          "Uric acid"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 69
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "​ The purpose of the hilum is to",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Admit the renal nerves, blood vessels, lymphatics, and ureter into the kidney",
+          "Serve as a fibrous protective tissue of the kidney",
+          "Serve as a layer of adipose tissue that cushions the kidney and holds it in place",
+          "Enclose the kidney like a cellophane wrapper that protects the kidney from trauma Page 14 of 16 ​ Labeling (20 points; 0.5 point each)"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 16,
+        "number": 70
+      }
+    }
+  ]
+}
