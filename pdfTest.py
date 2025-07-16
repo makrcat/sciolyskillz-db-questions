@@ -39,12 +39,8 @@ links = {
     "2024 University of Massachusetts Amherst C":"https://drive.google.com/file/d/1NrRz89hACvK4M-WfucZ-tcoGIf_zFvhP/view",
     "2024 University of Pennsylvania (SOUP) Invitational C":"https://drive.google.com/file/d/185gEh1ADRqhIFYt7KCptm2Y9SE35QVK0/view",
     "2024 Golden Gate (GGSO) Invitational C":"https://drive.google.com/file/d/1J6qVsnVfKAEGNGamfX4Nbt_h9zxL_2e2/view",
-    
     "2024 Seven Lakes Invitational C":"https://drive.google.com/file/d/1JFGywF9TI177FlprawfVmOHh3rnAw38T/view",
     "2024 Georgia Tech (Yellow Jacket) Invitational C":"https://drive.google.com/file/d/11n1Opib93ftsXPVIpl2T_YC9agS8tBO4/view",
-    
-    
-    
     "2024 Stanford Invitational C":"https://drive.google.com/file/d/1LZJj86RzJt3nYjEgNw1Ax3xe98t3UF29/view",
     
     

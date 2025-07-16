@@ -8,7 +8,9 @@
       "id": null,
       "questionInfo": {
         "question": "Which artery supplies blood to the heart?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          1
+        ],
         "potentialAnswers": [
           "Brachial Artery",
           "Coronary Artery",
@@ -16,11 +18,11 @@
           "Superior Vena Cava",
           "Inferior Vena Cava"
         ],
-        "explanation": null
+        "explanation": "The coronary arteries are responsible for supplying blood to the heart muscle itself, ensuring it receives the oxygen and nutrients needed to function effectively."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -35,7 +37,9 @@
       "id": null,
       "questionInfo": {
         "question": "How many liters of blood are in the body of an average adult?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          1
+        ],
         "potentialAnswers": [
           "4",
           "5",
@@ -44,11 +48,11 @@
           "8",
           "9 Page 2 / 14 2024 SOUP Anatomy and Physiology Exam Team # _____ Page Score _____"
         ],
-        "explanation": null
+        "explanation": "The average adult has about 5 liters of blood in their body, which is essential for transporting oxygen, nutrients, and waste products throughout the body."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -62,19 +66,21 @@
     {
       "id": null,
       "questionInfo": {
-        "question": "Your heart races when you hear Panera is having a deal on soups—50% off. Your heart rate increases from 70bpm to 140bpm due to the excitement. How does this affect your cardiac output?",
-        "correctAnswerIndex": null,
+        "question": "Your heart races when you hear Panera is having a deal on soups\u201450% off. Your heart rate increases from 70bpm to 140bpm due to the excitement. How does this affect your cardiac output?",
+        "correctAnswerIndex": [
+          0
+        ],
         "potentialAnswers": [
           "2 times as great",
           "It is unaffected",
           "1/2 times as great",
           "1/4 times as great"
         ],
-        "explanation": null
+        "explanation": "Cardiac output increases with heart rate; if heart rate doubles from 70 bpm to 140 bpm, cardiac output also doubles, assuming stroke volume remains constant."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -89,7 +95,9 @@
       "id": null,
       "questionInfo": {
         "question": "In adults, bradycardia is defined as a heart rate below ___ while tachycardia is defined as a heart rate above ___.",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          4
+        ],
         "potentialAnswers": [
           "60; 80",
           "80; 100",
@@ -97,11 +105,11 @@
           "40; 100",
           "60; 100"
         ],
-        "explanation": null
+        "explanation": "Bradycardia is defined as a heart rate below 60 beats per minute, while tachycardia is defined as a heart rate above 100 beats per minute in adults."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -116,18 +124,20 @@
       "id": null,
       "questionInfo": {
         "question": "Jackson likes soup so much he sometimes has it IV-injected directly into his veins. Suppose his recent tomato soup injection increases his total blood volume by 30%. Which of the following is likely true?",
-        "correctAnswerIndex": null,
-        "potentialAnswers": [
-          "Jackson’s mean arterial pressure (MAP) will decrease.",
-          "Jackson’s venous pressure will increase, leading to edema.",
-          "Jackson’s stroke volume will decrease.",
-          "Jackson’s baroreceptors will decrease their firing rate."
+        "correctAnswerIndex": [
+          1
         ],
-        "explanation": null
+        "potentialAnswers": [
+          "Jackson\u2019s mean arterial pressure (MAP) will decrease.",
+          "Jackson\u2019s venous pressure will increase, leading to edema.",
+          "Jackson\u2019s stroke volume will decrease.",
+          "Jackson\u2019s baroreceptors will decrease their firing rate."
+        ],
+        "explanation": "The increase in blood volume raises venous pressure, which can lead to edema due to fluid leakage into surrounding tissues."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -142,18 +152,20 @@
       "id": null,
       "questionInfo": {
         "question": "Which of the following is true regarding cardiac pacemakers?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          2
+        ],
         "potentialAnswers": [
           "The SA node is the only pacemaker in the heart.",
           "Pacemakers of the heart fire due to voltage gated sodium channels.",
           "Adrenergic receptors on pacemaker cells increase their firing when activated.",
           "Pacemaker cells are modified myocytes, and contract before all other cells."
         ],
-        "explanation": null
+        "explanation": "Adrenergic receptors on pacemaker cells increase their firing rate when activated, enhancing heart rate."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -168,18 +180,20 @@
       "id": null,
       "questionInfo": {
         "question": "Which of the following is true regarding heart contraction?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          0
+        ],
         "potentialAnswers": [
           "The ventricles contract from apex to base.",
           "A conductive fibrous tissue between the atria and ventricles allows direct electrical conduction between the two.",
           "Conduction speeds up at the AV node.",
           "Cardiomyocytes are capable of contracting without extracellular calcium."
         ],
-        "explanation": null
+        "explanation": "The ventricles contract from apex to base to efficiently pump blood upward into the arteries."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -194,18 +208,20 @@
       "id": null,
       "questionInfo": {
         "question": "Which of the following is INCORRECT regarding shocks (a steep decline in MAP)?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          3
+        ],
         "potentialAnswers": [
           "Significant loss of blood volume can lead to hypovolemic shock.",
           "Heart failure can lead to cardiogenic shock.",
           "Infection can lead to a distributive shock due to damaged capillaries.",
           "High osmolarity in the blood can lead to distributive shock. Page 3 / 14 2024 SOUP Anatomy and Physiology Exam Team # _____ Page Score _____"
         ],
-        "explanation": null
+        "explanation": "High osmolarity in the blood does not directly cause distributive shock; it typically relates to fluid shifts and can lead to other complications, but not specifically to distributive shock."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -220,18 +236,20 @@
       "id": null,
       "questionInfo": {
         "question": "Which of the following is true regarding sympathetic nervous system receptors?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          2
+        ],
         "potentialAnswers": [
           "All sympathetic nervous receptors are tyrosine kinases, responsible for producing secondary messengers.",
           "Alpha1 receptors are expressed in many tissues, respond strongly to acetylcholine, and lead to vasoconstriction through a rise in calcium.",
           "Beta2 receptors are expressed primarily in the vasculature, lead to vasodilation, and respond most strongly to epinephrine.",
           "Beta1 receptors are expressed in the heart and, upon activation, block HCN channel activity through breakdown of cAMP."
         ],
-        "explanation": null
+        "explanation": "Beta2 receptors primarily respond to epinephrine, leading to vasodilation, and are found in the vasculature."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -246,18 +264,20 @@
       "id": null,
       "questionInfo": {
         "question": "Which of the following would NOT increase cardiac output?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          0
+        ],
         "potentialAnswers": [
           "Decreased cardiac compliance.",
           "Increased cardiac contractility.",
           "Increased heart rate.",
           "Decreased afterload."
         ],
-        "explanation": null
+        "explanation": "Decreased cardiac compliance reduces the heart's ability to fill properly, leading to a lower stroke volume and, consequently, decreased cardiac output."
       },
       "searchInfo": {
         "reference": null,
-        "system": null,
+        "system": "Cardiovascular",
         "event": "anatomy",
         "tags": [
           null
@@ -272,7 +292,10 @@
       "id": null,
       "questionInfo": {
         "question": "Which of the following is true regarding cardiac pacemakers?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          0,
+          1
+        ],
         "potentialAnswers": [
           "Electric signals propagate from apex-to-base in the Purkinje fibers.",
           "Sodium currents drive firing in the SA node.",
@@ -298,7 +321,9 @@
       "id": null,
       "questionInfo": {
         "question": "Which of the following is INCORRECT regarding blood vessels?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          3
+        ],
         "potentialAnswers": [
           "Veins, arterioles, and arteries have smooth muscle linings.",
           "Hydrostatic pressure is higher in the arterioles than it is in the venules.",
@@ -350,12 +375,14 @@
       "id": null,
       "questionInfo": {
         "question": "Put the parts of the excretory system in the correct order",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          0
+        ],
         "potentialAnswers": [
-          "Bowman’s Capsule →Proximal Convoluted Tubule →Loop of Henle →Distal Convoluted Tubule →Collecting Duct",
-          "Bowman’s Capsule →Distal Convoluted Tubule →Loop of Henle →Proximal Convoluted Tubule →Collecting Duct",
-          "Bowman’s Capsule →Loop of Henle →Distal Convoluted Tubule →Proximal Convoluted Tubule →Collecting Duct",
-          "Bowman’s Capsule →Loop of Henle →Proximal Convoluted Tubule →Distal Convoluted Tubule →Collecting Duct"
+          "Bowman\u2019s Capsule \u2192Proximal Convoluted Tubule \u2192Loop of Henle \u2192Distal Convoluted Tubule \u2192Collecting Duct",
+          "Bowman\u2019s Capsule \u2192Distal Convoluted Tubule \u2192Loop of Henle \u2192Proximal Convoluted Tubule \u2192Collecting Duct",
+          "Bowman\u2019s Capsule \u2192Loop of Henle \u2192Distal Convoluted Tubule \u2192Proximal Convoluted Tubule \u2192Collecting Duct",
+          "Bowman\u2019s Capsule \u2192Loop of Henle \u2192Proximal Convoluted Tubule \u2192Distal Convoluted Tubule \u2192Collecting Duct"
         ],
         "explanation": null
       },
@@ -375,8 +402,10 @@
     {
       "id": null,
       "questionInfo": {
-        "question": "A patient comes to your cardiology clinic with high blood pressure (190/100). You prescribe them a diuretic, a thiazide, in hopes that they’ll produce more urine to lower their blood pressure. Where do thiazides act in the nephron to reduce reabsorption of salt and water?",
-        "correctAnswerIndex": null,
+        "question": "A patient comes to your cardiology clinic with high blood pressure (190/100). You prescribe them a diuretic, a thiazide, in hopes that they\u2019ll produce more urine to lower their blood pressure. Where do thiazides act in the nephron to reduce reabsorption of salt and water?",
+        "correctAnswerIndex": [
+          1
+        ],
         "potentialAnswers": [
           "Proximal Convoluted Tubule",
           "Distal Convoluted Tubule",
@@ -402,7 +431,9 @@
       "id": null,
       "questionInfo": {
         "question": "Which is NOT a hormone in the RAAS system?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          4
+        ],
         "potentialAnswers": [
           "Renin",
           "Aldosterone",
@@ -430,7 +461,9 @@
       "id": null,
       "questionInfo": {
         "question": "At which of the following locations does the majority of reabsorption occur?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          2
+        ],
         "potentialAnswers": [
           "Distal tubule",
           "Collecting duct",
@@ -456,9 +489,11 @@
       "id": null,
       "questionInfo": {
         "question": "At what location would you expect the medullary interstitium to have the highest osmolarity?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          0
+        ],
         "potentialAnswers": [
-          "“Deeper”---by the base of the loop of Henle",
+          "\u201cDeeper\u201d---by the base of the loop of Henle",
           "Surrounding the glomerulus",
           "Nearby the proximal tubule",
           "On the upper ridge of the distal tubule"
@@ -482,7 +517,10 @@
       "id": null,
       "questionInfo": {
         "question": "Which of the following is true of granular cells?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          0,
+          1
+        ],
         "potentialAnswers": [
           "They sense salt concentration and or GFR.",
           "They secrete renin, which helps kick-start the RAAS pathway.",
@@ -508,7 +546,9 @@
       "id": null,
       "questionInfo": {
         "question": "Which of the following is true regarding Type A intercalated cells?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          1
+        ],
         "potentialAnswers": [
           "They are the target of aldosterone, and increase water channel expression when aldosterone binds.",
           "They are helpful in reducing metabolic acidosis via offloading H+ in the collecting duct.",
@@ -534,9 +574,11 @@
       "id": null,
       "questionInfo": {
         "question": "Which of the following is true regarding diuretics?",
-        "correctAnswerIndex": null,
+        "correctAnswerIndex": [
+          3
+        ],
         "potentialAnswers": [
-          "Vasopressin is the body’s endogenous diuretic.",
+          "Vasopressin is the body\u2019s endogenous diuretic.",
           "Coffee works counter to diuretics and inhibits their activity.",
           "Diuretics decrease blood pressure through water reuptake at the collecting duct.",
           "Diuretics decrease salt reabsorption, thus increasing urine volume. Page 8 / 14 2024 SOUP Anatomy and Physiology Exam Team # _____ Page Score _____"
@@ -559,8 +601,10 @@
     {
       "id": null,
       "questionInfo": {
-        "question": "Which of the following is INCORRECT regarding the glomerulus and Bowman’s capsule?",
-        "correctAnswerIndex": null,
+        "question": "Which of the following is INCORRECT regarding the glomerulus and Bowman\u2019s capsule?",
+        "correctAnswerIndex": [
+          2
+        ],
         "potentialAnswers": [
           "Podocytes, and their foot processes, wrap around capillaries.",
           "The capillaries within the glomerulus are fenestrated, increasing filtration.",
@@ -797,7 +841,7 @@
         "correctAnswerIndex": null,
         "potentialAnswers": [
           "Lymphadenopathy",
-          "Hodgkin’s Lymphoma",
+          "Hodgkin\u2019s Lymphoma",
           "Lymphedema",
           "Thoracic Outlet Syndrome"
         ],
@@ -926,10 +970,10 @@
         "question": "What fraction of total splenic tissue does white pulp make up?",
         "correctAnswerIndex": null,
         "potentialAnswers": [
-          "¼",
-          "½",
-          "¾",
-          "⅝ Page 12 / 14 2024 SOUP Anatomy and Physiology Exam Team # _____ Page Score _____"
+          "\u00bc",
+          "\u00bd",
+          "\u00be",
+          "\u215d Page 12 / 14 2024 SOUP Anatomy and Physiology Exam Team # _____ Page Score _____"
         ],
         "explanation": null
       },
