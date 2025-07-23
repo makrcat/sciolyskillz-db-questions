@@ -5,17 +5,17 @@
   "event": "anatomy",
   "questions": [
     {
-      "id": null,
+      "id": "169c393e-4008-4ba2-a109-740e5aa7fda1",
       "questionInfo": {
         "question": "Which one of these is the correct pathway of electrical signal conduction in the heart",
         "correctAnswerIndex": [
           3
         ],
         "potentialAnswers": [
-          "SA node \u2192AV node \u2192Bachmanns bundle \u2192Bundle of His",
-          "AV node \u2192SA node \u2192Bundle of His \u2192Left and Right Bundle Branches",
-          "SA node \u2192AV node \u2192Purkinje fibers \u2192Bundle of His",
-          "SA node \u2192AV node \u2192Bundle of His \u2192Left and Right Bundle Branches"
+          "SA node →AV node →Bachmanns bundle →Bundle of His",
+          "AV node →SA node →Bundle of His →Left and Right Bundle Branches",
+          "SA node →AV node →Purkinje fibers →Bundle of His",
+          "SA node →AV node →Bundle of His →Left and Right Bundle Branches"
         ],
         "explanation": "The correct conduction pathway of the heart's electrical signal is from the SA node to the AV node, then to the Bundle of His, and finally to the left and right bundle branches."
       },
@@ -33,7 +33,7 @@
       }
     },
     {
-      "id": null,
+      "id": "69634a54-d769-4a6c-bb33-8a4971e3a202",
       "questionInfo": {
         "question": "Which of the following clotting pathways does not involve calcium ions?",
         "correctAnswerIndex": [
@@ -61,7 +61,7 @@
       }
     },
     {
-      "id": null,
+      "id": "76a2b095-ad88-4c80-9147-63e06a8711c3",
       "questionInfo": {
         "question": "Which heart chamber has the thickest myocardium",
         "correctAnswerIndex": [
@@ -89,7 +89,7 @@
       }
     },
     {
-      "id": null,
+      "id": "000d1ba6-59ad-442a-9122-a3a56ce27742",
       "questionInfo": {
         "question": "Which heart disorder does the following EKG indicate",
         "correctAnswerIndex": null,
@@ -115,9 +115,9 @@
       }
     },
     {
-      "id": null,
+      "id": "8f3e1fe6-e833-4a32-8b83-b2945dbbd148",
       "questionInfo": {
-        "question": "What ion\u2019s channels do class-III antiarrythmic drugs block?",
+        "question": "What ion’s channels do class-III antiarrythmic drugs block?",
         "correctAnswerIndex": [
           1
         ],
@@ -143,9 +143,9 @@
       }
     },
     {
-      "id": null,
+      "id": "97e4f698-1d0f-42f2-b5da-2ae366d5af43",
       "questionInfo": {
-        "question": "Which of the following ion\u2019s channels are open during the plateau phase of the myocardial action potential? Select all that apply.",
+        "question": "Which of the following ion’s channels are open during the plateau phase of the myocardial action potential? Select all that apply.",
         "correctAnswerIndex": [
           1,
           0
@@ -156,7 +156,7 @@
           "Ca 2+",
           "Mg 2+"
         ],
-        "explanation": "During the plateau phase of the myocardial action potential (phase 2), Ca\u00b2\u207a channels (L-type) are open, allowing calcium influx. At the same time, some K\u207a channels are open, allowing potassium efflux. Na\u207a channels are inactive, and Mg\u00b2\u207a is not involved in this process."
+        "explanation": "During the plateau phase of the myocardial action potential (phase 2), Ca²⁺ channels (L-type) are open, allowing calcium influx. At the same time, some K⁺ channels are open, allowing potassium efflux. Na⁺ channels are inactive, and Mg²⁺ is not involved in this process."
       },
       "searchInfo": {
         "reference": null,
@@ -172,7 +172,7 @@
       }
     },
     {
-      "id": null,
+      "id": "e0f99317-3df5-4ff4-8b9e-ebb8f91e8e2e",
       "questionInfo": {
         "question": "When using a sphygmomanometer what does the pressure reading when you stop hearing Korotkoff sounds represent?",
         "correctAnswerIndex": [
@@ -200,7 +200,7 @@
       }
     },
     {
-      "id": null,
+      "id": "62c868e1-75c7-4989-b5a9-0f49799152a3",
       "questionInfo": {
         "question": "What molecule in the RAAS pathway does atrial natriuretic peptide inhibit?",
         "correctAnswerIndex": [
@@ -228,7 +228,7 @@
       }
     },
     {
-      "id": null,
+      "id": "11648a10-33f8-4304-b528-911c2ff79cac",
       "questionInfo": {
         "question": "Which of the following proteins are responsible for maintaining the biconcave disc structure of red blood cells? Select all that apply.",
         "correctAnswerIndex": [
@@ -257,7 +257,7 @@
       }
     },
     {
-      "id": null,
+      "id": "6b94156f-cb35-43b3-ba2b-075d195254cb",
       "questionInfo": {
         "question": "In which of the following organs is erythropeotin produced?",
         "correctAnswerIndex": [
@@ -285,7 +285,7 @@
       }
     },
     {
-      "id": null,
+      "id": "ae87d58c-6704-4c06-a74c-3774dc3ca71c",
       "questionInfo": {
         "question": "Which of the following does not directly branch from the aorta?",
         "correctAnswerIndex": [
@@ -313,7 +313,7 @@
       }
     },
     {
-      "id": null,
+      "id": "56e8efee-ddc8-404b-a2bf-c80b691ef461",
       "questionInfo": {
         "question": "Which type of capillary supplies the following body parts respectively? The liver, the brain, the kidney, the spleen. (2 pts, 0.5 each correct)",
         "correctAnswerIndex": [
@@ -345,9 +345,9 @@
       }
     },
     {
-      "id": null,
+      "id": "af973ac6-63c1-439c-a75d-1a0f4ad11bea",
       "questionInfo": {
-        "question": "You leave his care to the nurses, having to attend to the many patients entering the hospital from the site of the accident. At some point in the future, one of the nurses hands you a microscope image of a tissue sample from Brenton\u2019s myocardium. You see this\u2026",
+        "question": "You leave his care to the nurses, having to attend to the many patients entering the hospital from the site of the accident. At some point in the future, one of the nurses hands you a microscope image of a tissue sample from Brenton’s myocardium. You see this…",
         "correctAnswerIndex": [
           0,
           1,
@@ -356,7 +356,7 @@
           4
         ],
         "potentialAnswers": [
-          "How long after Brenton\u2019s health event was this image taken? (2 pt)",
+          "How long after Brenton’s health event was this image taken? (2 pt)",
           "1-2 days ii. 3-4 days iii. 1 week iv. 2-3 weeks",
           "What do you see happening that led you to this conclusion? (max 6 pts, 2 per observation)",
           "Myocardial tissue necrosis (2 pt) early stage leukocyte invasion (2 pt), dark red contraction bands (2 pt), nuclei of the muscle cells are nearly gone (2 pt) ii. Full credit other conditions: Award observation credit (2 pts) for solely mentioning necrosis, award observation credit (2 pts) for just mentioning dark red bands. iii. Partial credit: Award partial observation credit (1 pt) for mention of leukocyte invasion without mentioning that it is in early stages.",
@@ -379,9 +379,9 @@
       }
     },
     {
-      "id": null,
+      "id": "f24caa69-6614-4914-ae6b-fe11d5bb1b92",
       "questionInfo": {
-        "question": "What protein does ADH binding to it\u2019s receptor cause the creation of? Select all that apply.",
+        "question": "What protein does ADH binding to it’s receptor cause the creation of? Select all that apply.",
         "correctAnswerIndex": [
           1
         ],
@@ -407,9 +407,9 @@
       }
     },
     {
-      "id": null,
+      "id": "67dc7632-2ebf-4878-83d5-426c54790aaa",
       "questionInfo": {
-        "question": "What protein does aldosterone binding to it\u2019s receptor cause the creation of? Select all that apply.",
+        "question": "What protein does aldosterone binding to it’s receptor cause the creation of? Select all that apply.",
         "correctAnswerIndex": [
           2,
           3
@@ -436,7 +436,7 @@
       }
     },
     {
-      "id": null,
+      "id": "48de0d52-6e6f-47de-bfb6-7c5dbbda8068",
       "questionInfo": {
         "question": "Which portion of the nephron is completely impermeable to water?",
         "correctAnswerIndex": [
@@ -464,7 +464,7 @@
       }
     },
     {
-      "id": null,
+      "id": "842f866c-c068-468e-aa61-eca1e80945c1",
       "questionInfo": {
         "question": "Which of the following would be most effective to measure in the urine if you wanted to find the glomerular filtration rate of a patient?",
         "correctAnswerIndex": [
@@ -492,7 +492,7 @@
       }
     },
     {
-      "id": null,
+      "id": "f1ae26ea-dca3-4060-926a-6cd08acef8b2",
       "questionInfo": {
         "question": "Which of the following conditions may result from a defficiency in the reabsorption of ions in the distal convoluted tubule?",
         "correctAnswerIndex": [
@@ -520,7 +520,7 @@
       }
     },
     {
-      "id": null,
+      "id": "741e4d2e-4e50-4ef8-8f2d-080575755d2f",
       "questionInfo": {
         "question": "What is the primary role of the juxtaglomerular apparatus in kidney function?",
         "correctAnswerIndex": [
@@ -548,7 +548,7 @@
       }
     },
     {
-      "id": null,
+      "id": "163efe83-07a8-4d41-9733-9e90a165f7b0",
       "questionInfo": {
         "question": "What role do the intercalated cells play in the acid-base balance within the renal tubules, and where are they primarily located?",
         "correctAnswerIndex": [
@@ -576,7 +576,7 @@
       }
     },
     {
-      "id": null,
+      "id": "debbc65a-67b5-4715-ad1f-77f36ffc12b1",
       "questionInfo": {
         "question": "How is glucose reabsorbed in the proximal convoluted tubule?",
         "correctAnswerIndex": [
@@ -604,7 +604,7 @@
       }
     },
     {
-      "id": null,
+      "id": "09fd238d-f452-4274-a8ef-303f7ccc8cf4",
       "questionInfo": {
         "question": "In the context of kidney disease, what role do glomerular podocytes play in the progression of proteinuria?",
         "correctAnswerIndex": [
@@ -613,7 +613,7 @@
         "potentialAnswers": [
           "Podocytes prevent the filtration of proteins, leading to decreased urine production",
           "Podocytes have no impact on proteinuria; it is solely a result of increased glomerular pressure",
-          "Podocyte damage allows proteins to enter the bowman\u2019s capsule and go through to the urine",
+          "Podocyte damage allows proteins to enter the bowman’s capsule and go through to the urine",
           "Podocytes selectively reabsorb proteins, reducing their presence in the urine"
         ],
         "explanation": null
@@ -632,7 +632,7 @@
       }
     },
     {
-      "id": null,
+      "id": "8b4d239b-9156-4df7-95a3-1b69c1965672",
       "questionInfo": {
         "question": "What neural pathways and sphincters are involved in the micturition reflex?",
         "correctAnswerIndex": [
@@ -660,7 +660,7 @@
       }
     },
     {
-      "id": null,
+      "id": "a0385211-0164-49d3-9717-6901113b7e0d",
       "questionInfo": {
         "question": "For which of the following diseases would dialysis be appropriate treatment",
         "correctAnswerIndex": [
@@ -688,7 +688,7 @@
       }
     },
     {
-      "id": null,
+      "id": "6dacc1e1-c0c1-47ef-9b2c-c252713bd677",
       "questionInfo": {
         "question": "A man named CJ presents to the hospital after eating an absurd amount of blue cheese, an insane amount of blue cheese, just an absolutely abhorrent amount of blue cheese. Blue cheese is one of the highest sodium content cheeses, so you ran a blood test on CJ and naturally found a severe case of hypernatremia. After a bit of treatment you send him back home, telling him to better manage his blue cheese addiction. A month later however, CJ returns to the hospital. You look and notice a lot of swelling around his body as he complains about weakness, lethargy, lightheadedness, and excessive urination. You decide to run some urine testing finding protenuria, and extremely low levels of creatinine and urea.",
         "correctAnswerIndex": [
@@ -702,7 +702,7 @@
           7
         ],
         "potentialAnswers": [
-          "What do CJ\u2019s creatinine and urea levels imply about the state of his GFR? (2 pts)",
+          "What do CJ’s creatinine and urea levels imply about the state of his GFR? (2 pts)",
           "Also very low ii. Partial credit: none",
           "What do you think is wrong with CJ? (2 pts)",
           "Renal faliure or Kidney failure ii. Partial credit: none",
@@ -727,7 +727,7 @@
       }
     },
     {
-      "id": null,
+      "id": "078aa702-cda2-44f4-aeea-986b02672f64",
       "questionInfo": {
         "question": "Which is not a function of the spleen?",
         "correctAnswerIndex": [
@@ -755,7 +755,7 @@
       }
     },
     {
-      "id": null,
+      "id": "efe2504a-6025-4a58-be7e-3df869bd53ff",
       "questionInfo": {
         "question": "Which region of the body does the right lymphatic duct drain lymph into the bloodstream?",
         "correctAnswerIndex": [
@@ -783,7 +783,7 @@
       }
     },
     {
-      "id": null,
+      "id": "68b55f33-6100-48ec-8c64-30085eb7276c",
       "questionInfo": {
         "question": "What is the main function of the lacteals in the lymphatic system within the small intestine?",
         "correctAnswerIndex": [
@@ -811,7 +811,7 @@
       }
     },
     {
-      "id": null,
+      "id": "d1886a31-1862-4319-a29b-78e3b21934b3",
       "questionInfo": {
         "question": "What specialized cells in lymph nodes are responsible for helping to develop B lymphocytes into plasma cells?",
         "correctAnswerIndex": [
@@ -839,7 +839,7 @@
       }
     },
     {
-      "id": null,
+      "id": "78573908-cb2a-48b8-bb56-ff636c6ea58d",
       "questionInfo": {
         "question": "Which lymphatic vessel absorbs dietary fats from the small intestine?",
         "correctAnswerIndex": [
@@ -867,7 +867,7 @@
       }
     },
     {
-      "id": null,
+      "id": "e34c432b-b61d-43cb-9a3c-ee51cb033c04",
       "questionInfo": {
         "question": "What general role do Peyer's patches play in the lymphatic system, and where are they primarily located?",
         "correctAnswerIndex": [
@@ -895,7 +895,7 @@
       }
     },
     {
-      "id": null,
+      "id": "d43c798a-7351-47e4-98bd-97d95033ebd9",
       "questionInfo": {
         "question": "Which lymphatic vessel is responsible for draining lymph from the lower half of the body and the left upper limb?",
         "correctAnswerIndex": [
@@ -923,7 +923,7 @@
       }
     },
     {
-      "id": null,
+      "id": "8e685ba3-55f7-461f-a28c-b56b1ea4dc7f",
       "questionInfo": {
         "question": "The only lymphatic organ with both afferent and efferent lymphatic vessels is",
         "correctAnswerIndex": [
@@ -952,7 +952,7 @@
       }
     },
     {
-      "id": null,
+      "id": "2761a334-c2ce-48f2-887f-74d04c835623",
       "questionInfo": {
         "question": "Which of the following is an example of tertiary lymphatic tissue?",
         "correctAnswerIndex": [
@@ -980,9 +980,9 @@
       }
     },
     {
-      "id": null,
+      "id": "5f03e4d1-b6a5-4cf2-bda0-da38a9f45b26",
       "questionInfo": {
-        "question": "Remember that bus accident from Brenton\u2019s case study? Ivory here was one of the passengers on that bus. She reports to the hospital with the other victims, but nurses notice she was bleeding a lot more than other patients, even though she didn\u2019t have too much major trauma, just moderate cuts on her limbs/extremeties. She had no substantial damage to her abdomen or head. After she recovered from her topical injuries, she told doctors she\u2019d been recently experiencing fever, chills, a loss of appetite, and lightheadedness ever since she ate some contaminated food before the accident. You decide to run a blood test and take away 2 notable findings. An abnormally low red blood cell count, and high levels of CRP.",
+        "question": "Remember that bus accident from Brenton’s case study? Ivory here was one of the passengers on that bus. She reports to the hospital with the other victims, but nurses notice she was bleeding a lot more than other patients, even though she didn’t have too much major trauma, just moderate cuts on her limbs/extremeties. She had no substantial damage to her abdomen or head. After she recovered from her topical injuries, she told doctors she’d been recently experiencing fever, chills, a loss of appetite, and lightheadedness ever since she ate some contaminated food before the accident. You decide to run a blood test and take away 2 notable findings. An abnormally low red blood cell count, and high levels of CRP.",
         "correctAnswerIndex": [
           0,
           2,
@@ -992,8 +992,8 @@
         ],
         "potentialAnswers": [
           "What lymphatic disorder is Ivory struggling with, and what do you think caused it? (2 pts, 1 for disorder, 1 for cause) Please clearly indicate what you think is the condition and what you think is the cause.",
-          "Splenomegaly (1 pt), due to previous infection from the bad food (1 pt) ii. Full credit other conditions: Award full (2 pts) credit for mention of infection causing the splenomegaly, or for specifc bacterial/viral infection conditions as a causative factor for the splenomegaly ie. infective endocarditis, sepsis, etc. iii. DO NOT AWARD POINTS FOR \u201cHYPERSPLENISM\u201d.",
-          "What were 2 indicators from Ivory\u2019s condition that helped to determine the cause of her disease/condition? (Max 4 pts, 2 pt each indicator)",
+          "Splenomegaly (1 pt), due to previous infection from the bad food (1 pt) ii. Full credit other conditions: Award full (2 pts) credit for mention of infection causing the splenomegaly, or for specifc bacterial/viral infection conditions as a causative factor for the splenomegaly ie. infective endocarditis, sepsis, etc. iii. DO NOT AWARD POINTS FOR “HYPERSPLENISM”.",
+          "What were 2 indicators from Ivory’s condition that helped to determine the cause of her disease/condition? (Max 4 pts, 2 pt each indicator)",
           "Fever and chills as previous symptoms (2 pts), contaminated food she ate (1 pt), high levels of CRP in the blood test (2 pts). Award 4 points maximum. ii. Full credit other conditions: award indicator credit (2 pts) for a mention of fever or chills but do not count them as 2 separate indicators. Award indicator credit (1 pts) for food mention even if the contamination of the food is not mentioned.",
           "How can we go about treating Ivory? (4 pts, 2 per treatment)",
           "Treat her bacterial infection using antibiotics and manage the splenomegaly symptoms until it returns to normal size (2 pts), splenectomy (2 pts) ii. Full credit other conditions: Award treatment credit (2 pts) if the student claims there is no treatment for splenomegaly and to just treat symptoms until it returns to normal size. Diagram (14 pts, 1 for each correct fill in) Do not grade artery and vein."

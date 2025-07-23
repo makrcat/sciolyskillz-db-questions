@@ -5,7 +5,7 @@
   "event": "anatomy",
   "questions": [
     {
-      "id": null,
+      "id": "7cf53181-026b-48d2-ab49-733ca6802771",
       "questionInfo": {
         "question": "Which artery supplies blood to the heart?",
         "correctAnswerIndex": [
@@ -34,7 +34,7 @@
       }
     },
     {
-      "id": null,
+      "id": "7155712a-d3eb-40a6-8089-2af10ba17b46",
       "questionInfo": {
         "question": "How many liters of blood are in the body of an average adult?",
         "correctAnswerIndex": [
@@ -64,9 +64,9 @@
       }
     },
     {
-      "id": null,
+      "id": "4393963f-c883-43e8-bf03-11fbdf6ba2e9",
       "questionInfo": {
-        "question": "Your heart races when you hear Panera is having a deal on soups\u201450% off. Your heart rate increases from 70bpm to 140bpm due to the excitement. How does this affect your cardiac output?",
+        "question": "Your heart races when you hear Panera is having a deal on soups—50% off. Your heart rate increases from 70bpm to 140bpm due to the excitement. How does this affect your cardiac output?",
         "correctAnswerIndex": [
           0
         ],
@@ -92,7 +92,7 @@
       }
     },
     {
-      "id": null,
+      "id": "61e5dc42-157b-4542-a602-f16c4a06adb3",
       "questionInfo": {
         "question": "In adults, bradycardia is defined as a heart rate below ___ while tachycardia is defined as a heart rate above ___.",
         "correctAnswerIndex": [
@@ -121,17 +121,17 @@
       }
     },
     {
-      "id": null,
+      "id": "1752018a-7b61-4d20-92c6-b502d92f82ac",
       "questionInfo": {
         "question": "Jackson likes soup so much he sometimes has it IV-injected directly into his veins. Suppose his recent tomato soup injection increases his total blood volume by 30%. Which of the following is likely true?",
         "correctAnswerIndex": [
           1
         ],
         "potentialAnswers": [
-          "Jackson\u2019s mean arterial pressure (MAP) will decrease.",
-          "Jackson\u2019s venous pressure will increase, leading to edema.",
-          "Jackson\u2019s stroke volume will decrease.",
-          "Jackson\u2019s baroreceptors will decrease their firing rate."
+          "Jackson’s mean arterial pressure (MAP) will decrease.",
+          "Jackson’s venous pressure will increase, leading to edema.",
+          "Jackson’s stroke volume will decrease.",
+          "Jackson’s baroreceptors will decrease their firing rate."
         ],
         "explanation": "The increase in blood volume raises venous pressure, which can lead to edema due to fluid leakage into surrounding tissues."
       },
@@ -149,7 +149,7 @@
       }
     },
     {
-      "id": null,
+      "id": "ec1b68d0-1f77-48bb-bfd2-9a8fac90acd9",
       "questionInfo": {
         "question": "Which of the following is true regarding cardiac pacemakers?",
         "correctAnswerIndex": [
@@ -177,7 +177,7 @@
       }
     },
     {
-      "id": null,
+      "id": "17e43ed2-d8c7-411d-b9e5-19938480f37b",
       "questionInfo": {
         "question": "Which of the following is true regarding heart contraction?",
         "correctAnswerIndex": [
@@ -205,7 +205,7 @@
       }
     },
     {
-      "id": null,
+      "id": "62c5a911-c618-4180-b4e9-8c58c0197f5f",
       "questionInfo": {
         "question": "Which of the following is INCORRECT regarding shocks (a steep decline in MAP)?",
         "correctAnswerIndex": [
@@ -233,7 +233,7 @@
       }
     },
     {
-      "id": null,
+      "id": "2f5ac706-63dd-4248-a934-408699fc8400",
       "questionInfo": {
         "question": "Which of the following is true regarding sympathetic nervous system receptors?",
         "correctAnswerIndex": [
@@ -261,7 +261,7 @@
       }
     },
     {
-      "id": null,
+      "id": "8668c27f-d307-4360-a77d-7c3ecc420ff5",
       "questionInfo": {
         "question": "Which of the following would NOT increase cardiac output?",
         "correctAnswerIndex": [
@@ -289,7 +289,7 @@
       }
     },
     {
-      "id": null,
+      "id": "18b401af-3196-4647-a03a-7f2bfd7cca0b",
       "questionInfo": {
         "question": "Which of the following is true regarding cardiac pacemakers?",
         "correctAnswerIndex": [
@@ -318,7 +318,7 @@
       }
     },
     {
-      "id": null,
+      "id": "a81f12cf-2b4a-482f-a2da-db4e0dcf9dfc",
       "questionInfo": {
         "question": "Which of the following is INCORRECT regarding blood vessels?",
         "correctAnswerIndex": [
@@ -346,7 +346,7 @@
       }
     },
     {
-      "id": null,
+      "id": "423d5944-afb1-4741-a391-9bada87ce3d9",
       "questionInfo": {
         "question": "Which of the following is INCORRECT regarding cardiac contraction?",
         "correctAnswerIndex": [
@@ -374,19 +374,19 @@
       }
     },
     {
-      "id": null,
+      "id": "7365a9c5-0a15-4bff-aae6-600a71f783b6",
       "questionInfo": {
         "question": "Put the parts of the excretory system in the correct order",
         "correctAnswerIndex": [
           0
         ],
         "potentialAnswers": [
-          "Bowman\u2019s Capsule \u2192Proximal Convoluted Tubule \u2192Loop of Henle \u2192Distal Convoluted Tubule \u2192Collecting Duct",
-          "Bowman\u2019s Capsule \u2192Distal Convoluted Tubule \u2192Loop of Henle \u2192Proximal Convoluted Tubule \u2192Collecting Duct",
-          "Bowman\u2019s Capsule \u2192Loop of Henle \u2192Distal Convoluted Tubule \u2192Proximal Convoluted Tubule \u2192Collecting Duct",
-          "Bowman\u2019s Capsule \u2192Loop of Henle \u2192Proximal Convoluted Tubule \u2192Distal Convoluted Tubule \u2192Collecting Duct"
+          "Bowman’s Capsule →Proximal Convoluted Tubule →Loop of Henle →Distal Convoluted Tubule →Collecting Duct",
+          "Bowman’s Capsule →Distal Convoluted Tubule →Loop of Henle →Proximal Convoluted Tubule →Collecting Duct",
+          "Bowman’s Capsule →Loop of Henle →Distal Convoluted Tubule →Proximal Convoluted Tubule →Collecting Duct",
+          "Bowman’s Capsule →Loop of Henle →Proximal Convoluted Tubule →Distal Convoluted Tubule →Collecting Duct"
         ],
-        "explanation": "The correct order of the excretory system's components is: Bowman\u2019s Capsule, Proximal Convoluted Tubule, Loop of Henle, Distal Convoluted Tubule, and Collecting Duct. This sequence reflects the path of filtrate through the nephron in the kidneys, where waste is processed and urine is formed."
+        "explanation": "The correct order of the excretory system's components is: Bowman’s Capsule, Proximal Convoluted Tubule, Loop of Henle, Distal Convoluted Tubule, and Collecting Duct. This sequence reflects the path of filtrate through the nephron in the kidneys, where waste is processed and urine is formed."
       },
       "searchInfo": {
         "reference": null,
@@ -402,9 +402,9 @@
       }
     },
     {
-      "id": null,
+      "id": "dd1720b5-8256-40a5-8365-4967eccc8f7e",
       "questionInfo": {
-        "question": "A patient comes to your cardiology clinic with high blood pressure (190/100). You prescribe them a diuretic, a thiazide, in hopes that they\u2019ll produce more urine to lower their blood pressure. Where do thiazides act in the nephron to reduce reabsorption of salt and water?",
+        "question": "A patient comes to your cardiology clinic with high blood pressure (190/100). You prescribe them a diuretic, a thiazide, in hopes that they’ll produce more urine to lower their blood pressure. Where do thiazides act in the nephron to reduce reabsorption of salt and water?",
         "correctAnswerIndex": [
           1
         ],
@@ -430,7 +430,7 @@
       }
     },
     {
-      "id": null,
+      "id": "4f817432-75c3-40b6-a0d5-5ef5ad9c4831",
       "questionInfo": {
         "question": "Which is NOT a hormone in the RAAS system?",
         "correctAnswerIndex": [
@@ -460,7 +460,7 @@
       }
     },
     {
-      "id": null,
+      "id": "f3115898-0a94-4fa8-9781-44df2095548b",
       "questionInfo": {
         "question": "At which of the following locations does the majority of reabsorption occur?",
         "correctAnswerIndex": [
@@ -488,14 +488,14 @@
       }
     },
     {
-      "id": null,
+      "id": "fa68c6ba-e899-4633-a043-65ba67d7a114",
       "questionInfo": {
         "question": "At what location would you expect the medullary interstitium to have the highest osmolarity?",
         "correctAnswerIndex": [
           0
         ],
         "potentialAnswers": [
-          "\u201cDeeper\u201d---by the base of the loop of Henle",
+          "“Deeper”---by the base of the loop of Henle",
           "Surrounding the glomerulus",
           "Nearby the proximal tubule",
           "On the upper ridge of the distal tubule"
@@ -516,7 +516,7 @@
       }
     },
     {
-      "id": null,
+      "id": "4c167631-0f2b-41d5-a261-64ff5f9d1a1f",
       "questionInfo": {
         "question": "Which of the following is true of granular cells?",
         "correctAnswerIndex": [
@@ -545,7 +545,7 @@
       }
     },
     {
-      "id": null,
+      "id": "7c016b65-8cf9-496e-a6cc-8496f68c34c7",
       "questionInfo": {
         "question": "Which of the following is true regarding Type A intercalated cells?",
         "correctAnswerIndex": [
@@ -573,14 +573,14 @@
       }
     },
     {
-      "id": null,
+      "id": "c2d01330-c991-4527-97e3-a4a56b2135c4",
       "questionInfo": {
         "question": "Which of the following is true regarding diuretics?",
         "correctAnswerIndex": [
           3
         ],
         "potentialAnswers": [
-          "Vasopressin is the body\u2019s endogenous diuretic.",
+          "Vasopressin is the body’s endogenous diuretic.",
           "Coffee works counter to diuretics and inhibits their activity.",
           "Diuretics decrease blood pressure through water reuptake at the collecting duct.",
           "Diuretics decrease salt reabsorption, thus increasing urine volume. Page 8 / 14 2024 SOUP Anatomy and Physiology Exam Team # _____ Page Score _____"
@@ -601,9 +601,9 @@
       }
     },
     {
-      "id": null,
+      "id": "09de12e9-622a-4fe3-8b8f-fd6793297ffe",
       "questionInfo": {
-        "question": "Which of the following is INCORRECT regarding the glomerulus and Bowman\u2019s capsule?",
+        "question": "Which of the following is INCORRECT regarding the glomerulus and Bowman’s capsule?",
         "correctAnswerIndex": [
           2
         ],
@@ -629,7 +629,7 @@
       }
     },
     {
-      "id": null,
+      "id": "0ba14925-5838-4725-a806-99eeed535c22",
       "questionInfo": {
         "question": "Which of the following is true regarding vasopressin?",
         "correctAnswerIndex": [
@@ -657,7 +657,7 @@
       }
     },
     {
-      "id": null,
+      "id": "5beb6ce4-5b0f-45f0-ab56-f2b53137e463",
       "questionInfo": {
         "question": "Which of the following would NOT increase GFR?",
         "correctAnswerIndex": [
@@ -685,7 +685,7 @@
       }
     },
     {
-      "id": null,
+      "id": "f694249c-a15d-4b1e-948d-aa814afcac17",
       "questionInfo": {
         "question": "Which of the following is true regarding nephritic syndrome?",
         "correctAnswerIndex": [
@@ -713,7 +713,7 @@
       }
     },
     {
-      "id": null,
+      "id": "254ccc81-1989-446d-a1f4-2ede35bf058d",
       "questionInfo": {
         "question": "To be considered for dialysis, a kidney disease patient should have an estimated glomerular filtration rate of?",
         "correctAnswerIndex": [
@@ -741,7 +741,7 @@
       }
     },
     {
-      "id": null,
+      "id": "726d79ec-c1e2-469c-ba20-147b347bba7f",
       "questionInfo": {
         "question": "Which of the following is (are) immune tissue associated with the digestive system?",
         "correctAnswerIndex": [
@@ -771,7 +771,7 @@
       }
     },
     {
-      "id": null,
+      "id": "6179abd4-666c-438c-bb5a-1cf0b2af7f9d",
       "questionInfo": {
         "question": "Where do T-lymphocytes mature?",
         "correctAnswerIndex": [
@@ -799,7 +799,7 @@
       }
     },
     {
-      "id": null,
+      "id": "6407038e-8650-4dfa-861b-e2bc76c93989",
       "questionInfo": {
         "question": "The spleen is located behind which of the following groups of ribs?",
         "correctAnswerIndex": [
@@ -827,7 +827,7 @@
       }
     },
     {
-      "id": null,
+      "id": "c6cc7703-7cec-4ad0-8bd2-134f43044880",
       "questionInfo": {
         "question": "Chylomicrons carrying dietary fats and lipids travel initially through the lymphatic system to eventually enter the circulatory system. Where is the entry point to the circulatory system located?",
         "correctAnswerIndex": [
@@ -855,7 +855,7 @@
       }
     },
     {
-      "id": null,
+      "id": "24fe074f-0749-41a1-9f5d-7b2a6c78fb0f",
       "questionInfo": {
         "question": "A patient with breast cancer who underwent a mastectomy (a surgical procedure where breast tissue containing the tumor is removed) came back for a follow-up visit to your clinic two months after the procedure. She presents with swelling in her arm (on the same side where the tumor was removed from) and you note that you removed a few lymph nodes during the mastectomy. This patient most likely has which of the following:",
         "correctAnswerIndex": [
@@ -863,7 +863,7 @@
         ],
         "potentialAnswers": [
           "Lymphadenopathy",
-          "Hodgkin\u2019s Lymphoma",
+          "Hodgkin’s Lymphoma",
           "Lymphedema",
           "Thoracic Outlet Syndrome"
         ],
@@ -883,7 +883,7 @@
       }
     },
     {
-      "id": null,
+      "id": "607729c2-7b44-48ff-a026-35f0e0a0b4d3",
       "questionInfo": {
         "question": "High endothelial venules can be found in which lymph organ?",
         "correctAnswerIndex": [
@@ -911,7 +911,7 @@
       }
     },
     {
-      "id": null,
+      "id": "a15feb37-7908-4b10-93b3-36cdc411a80c",
       "questionInfo": {
         "question": "All of the following are functions of the spleen except:",
         "correctAnswerIndex": [
@@ -939,7 +939,7 @@
       }
     },
     {
-      "id": null,
+      "id": "4503e6a0-9da6-42f2-9d78-4284bdf79df8",
       "questionInfo": {
         "question": "Where are the tonsils located?",
         "correctAnswerIndex": [
@@ -967,7 +967,7 @@
       }
     },
     {
-      "id": null,
+      "id": "687ea971-71cf-4ffe-a1e0-7c7c17babc98",
       "questionInfo": {
         "question": "What is a common cause of tonsillitis?",
         "correctAnswerIndex": [
@@ -995,19 +995,19 @@
       }
     },
     {
-      "id": null,
+      "id": "454a2135-9404-4c3f-8876-9733a86455f7",
       "questionInfo": {
         "question": "What fraction of total splenic tissue does white pulp make up?",
         "correctAnswerIndex": [
           0
         ],
         "potentialAnswers": [
-          "\u00bc",
-          "\u00bd",
-          "\u00be",
-          "\u215d"
+          "¼",
+          "½",
+          "¾",
+          "⅝"
         ],
-        "explanation": "White pulp makes up approximately \u00bc of the total splenic tissue, with the remaining \u00be being red pulp."
+        "explanation": "White pulp makes up approximately ¼ of the total splenic tissue, with the remaining ¾ being red pulp."
       },
       "searchInfo": {
         "reference": null,
@@ -1023,7 +1023,7 @@
       }
     },
     {
-      "id": null,
+      "id": "18987641-fa79-419a-9988-56c2b7cc898e",
       "questionInfo": {
         "question": "The spleen is an important site of phagocytosis of what bacterial virulence factor (individuals without a spleen are more prone to infection if this bacterial characteristic is present)?",
         "correctAnswerIndex": [
@@ -1051,7 +1051,7 @@
       }
     },
     {
-      "id": null,
+      "id": "8c2926f5-9ed9-478b-aafe-d44370068b7b",
       "questionInfo": {
         "question": "The main constituent of yellow bone marrow is",
         "correctAnswerIndex": [
@@ -1079,7 +1079,7 @@
       }
     },
     {
-      "id": null,
+      "id": "311848dd-bbb4-49d1-9a51-e2119836fb59",
       "questionInfo": {
         "question": "Red bone marrow only exists in this cell type in adults:",
         "correctAnswerIndex": [
@@ -1107,7 +1107,7 @@
       }
     },
     {
-      "id": null,
+      "id": "1c2b7000-f444-4040-92bf-40d58fbf58df",
       "questionInfo": {
         "question": "What kinds of cells line lymph capillaries?",
         "correctAnswerIndex": [

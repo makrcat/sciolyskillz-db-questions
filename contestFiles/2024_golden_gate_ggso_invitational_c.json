@@ -5,7 +5,7 @@
   "event": "anatomy",
   "questions": [
     {
-      "id": null,
+      "id": "d1c17495-c5cc-40e3-94cd-385e81d8c108",
       "questionInfo": {
         "question": "During the isovolumic phase of ventricular systole:",
         "correctAnswerIndex": [
@@ -33,7 +33,7 @@
       }
     },
     {
-      "id": null,
+      "id": "fd1c5de9-785d-44c1-ba28-458cfd188dd9",
       "questionInfo": {
         "question": "Select all of the following that are measures of contractility.",
         "correctAnswerIndex": [
@@ -62,7 +62,7 @@
       }
     },
     {
-      "id": null,
+      "id": "877b5380-e649-4ed9-b275-ad77d7038ab7",
       "questionInfo": {
         "question": "Which of the following results from sympathetic stimulation of vascular smooth muscle?",
         "correctAnswerIndex": [
@@ -90,7 +90,7 @@
       }
     },
     {
-      "id": null,
+      "id": "722becdd-33d7-4095-8491-f5cd9a7a5de8",
       "questionInfo": {
         "question": "Myocardial sodium channels exhibit a period of inactivity where the cell is unresponsive to further action potentials. (a) (2 points) Explain why sodium channels should have an inactive period. (b)  Class I antiarrhythmic drugs inhibit fast Na +   channels, slowing down cardiac conduction velocity. In cardiomyocytes treated with class I antiarrhythmic drugs, which of the following qualities are observed?",
         "correctAnswerIndex": null,
@@ -116,7 +116,7 @@
       }
     },
     {
-      "id": null,
+      "id": "c36538d2-e3cc-412e-8a62-a0a65a1f5cb6",
       "questionInfo": {
         "question": "An arterial pressure waveform for the aorta creates a dicrotic notch. Given this information, the dicrotic notch most likely occurs when:",
         "correctAnswerIndex": [
@@ -144,7 +144,7 @@
       }
     },
     {
-      "id": null,
+      "id": "94126ca8-7893-426e-b84d-7f1c6b3c91f3",
       "questionInfo": {
         "question": "Which of the following features would be found in veins, but not capillaries? Select all that apply.",
         "correctAnswerIndex": null,
@@ -170,7 +170,7 @@
       }
     },
     {
-      "id": null,
+      "id": "a1596f38-d654-4713-816c-a3c762c16714",
       "questionInfo": {
         "question": "A heart murmur during systole would suggest which of the following? Select all that apply.",
         "correctAnswerIndex": null,
@@ -196,7 +196,7 @@
       }
     },
     {
-      "id": null,
+      "id": "333d926c-55e1-424d-be4a-512b1e49cb1c",
       "questionInfo": {
         "question": "A heart murmur during systole would suggest which of the following?",
         "correctAnswerIndex": [
@@ -224,7 +224,7 @@
       }
     },
     {
-      "id": null,
+      "id": "a8806a0a-e502-43a7-a39c-bd1151774cec",
       "questionInfo": {
         "question": "Select all of the following statements true about iEC-Pdzrn3 mice.",
         "correctAnswerIndex": null,
@@ -250,7 +250,7 @@
       }
     },
     {
-      "id": null,
+      "id": "dc52b4bf-7810-4e84-94e5-b991d1a7cf5c",
       "questionInfo": {
         "question": "(2 points) Select all quantities that would be increased.",
         "correctAnswerIndex": [
@@ -279,7 +279,7 @@
       }
     },
     {
-      "id": null,
+      "id": "87fda4e0-9e1b-48f8-b7d9-7e493059ba6d",
       "questionInfo": {
         "question": "(2 points) Select all of the following proteins whose expressions would be increased in the mutant mice.",
         "correctAnswerIndex": [
@@ -308,7 +308,7 @@
       }
     },
     {
-      "id": null,
+      "id": "4115a519-d9a1-40de-a46d-be1fbd76e6ce",
       "questionInfo": {
         "question": "Select all of the protein channels that open during phase 2 of the action potential.",
         "correctAnswerIndex": [
@@ -336,7 +336,7 @@
       }
     },
     {
-      "id": null,
+      "id": "d4767812-aba8-4104-a8b0-9b173150b2e1",
       "questionInfo": {
         "question": "Which of the following techniques can be used to produce the image above?",
         "correctAnswerIndex": null,
@@ -362,7 +362,7 @@
       }
     },
     {
-      "id": null,
+      "id": "199eb276-0541-4391-8efc-9f7d8735a03c",
       "questionInfo": {
         "question": "Select all of the following that induces platelet aggregation.",
         "correctAnswerIndex": [
@@ -390,7 +390,7 @@
       }
     },
     {
-      "id": null,
+      "id": "fe1f6e79-cd9c-4945-b052-86bc6a90ea26",
       "questionInfo": {
         "question": "A 40-year-old man suffered a myocardial infarction. He has a strong family history of heart attacks. On the exam, his blood pressure and pulse are normal. He has xanthomas on his hands and xanthelasmas on his eyelids. His LDL is 290 mg/dL, HDL is 29 mg/dL, and triglycerides are 140 mg/dL. Which of the following does he most likely have a deficiency of?",
         "correctAnswerIndex": [
@@ -418,7 +418,7 @@
       }
     },
     {
-      "id": null,
+      "id": "5b7feebe-d902-491e-be76-3119cfe62ef9",
       "questionInfo": {
         "question": "A person goes from a standing to a supine position. Which of the following changes is most likely?",
         "correctAnswerIndex": [
@@ -446,7 +446,7 @@
       }
     },
     {
-      "id": null,
+      "id": "7131254a-ce23-4691-8b0a-39126e7ac7fc",
       "questionInfo": {
         "question": "Which of the following is the strongest risk factor for cardiovascular disease?",
         "correctAnswerIndex": [
@@ -474,7 +474,7 @@
       }
     },
     {
-      "id": null,
+      "id": "b8092a16-1cac-476f-83a7-271acfb4a531",
       "questionInfo": {
         "question": "An elderly man presents with shortness of breath. He has morbid obesity and obstructive sleep apnea. An EKG is obtained and shown in Image C6. Which of the following will improve his symptoms?",
         "correctAnswerIndex": [
@@ -502,7 +502,7 @@
       }
     },
     {
-      "id": null,
+      "id": "b2d5b647-9fdd-4814-88ff-a2876ab9d8f3",
       "questionInfo": {
         "question": "What rhythm is noted in Image C7 in this patient who has recently had a heart attack?",
         "correctAnswerIndex": null,
@@ -528,7 +528,7 @@
       }
     },
     {
-      "id": null,
+      "id": "d33b8faa-ee01-4e85-a164-8a0a9f41aee8",
       "questionInfo": {
         "question": "(a)  The process by which tertiary lymphoid organs (TLOs) are formed is called: (b)  Which of the following molecules would induce TLO formation?",
         "correctAnswerIndex": [
@@ -556,7 +556,7 @@
       }
     },
     {
-      "id": null,
+      "id": "87fd2a8d-f28c-4525-bdd0-814587b03ea0",
       "questionInfo": {
         "question": "Select all mucosa-associated lymphoid tissues.",
         "correctAnswerIndex": null,
@@ -582,7 +582,7 @@
       }
     },
     {
-      "id": null,
+      "id": "bdca787d-1335-4a2c-9499-f6663860b925",
       "questionInfo": {
         "question": "What type of capillaries is mainly found in the white pulp?",
         "correctAnswerIndex": [
@@ -610,7 +610,7 @@
       }
     },
     {
-      "id": null,
+      "id": "170f67a9-1cf9-4eae-9d32-6941db548cad",
       "questionInfo": {
         "question": "(2 points) How do Heinz bodies form in erythrocytes?",
         "correctAnswerIndex": [
@@ -638,7 +638,7 @@
       }
     },
     {
-      "id": null,
+      "id": "e80946f1-1a2f-41a7-8ed3-ad5341f1a966",
       "questionInfo": {
         "question": "The spleen stores hemoglobin from phagocytosed erythrocytes as:",
         "correctAnswerIndex": null,
@@ -664,7 +664,7 @@
       }
     },
     {
-      "id": null,
+      "id": "3603cf01-c67e-4429-913f-ddadf398c1f3",
       "questionInfo": {
         "question": "What might you expect to see in an individual with the smear shown in Image L1?",
         "correctAnswerIndex": null,
@@ -690,7 +690,7 @@
       }
     },
     {
-      "id": null,
+      "id": "b488a1a6-9b9d-438a-a505-ceb3128b70f7",
       "questionInfo": {
         "question": "A 60-year-old woman comes in with lower extremity swelling. On examination, she has varicose veins and nonpitting edema. Which of the following is most likely responsible for her symptoms?",
         "correctAnswerIndex": null,
@@ -716,7 +716,7 @@
       }
     },
     {
-      "id": null,
+      "id": "2e85748e-e5bf-4e25-a38d-7d31a90c7721",
       "questionInfo": {
         "question": "A 2-year-old child is brought to the clinic by his mother due to a runny nose and lethargy for the past 2 days. On laboratory testing, he is found to have a normal B cell count and a low T cell count. Which part of his lymph nodes will likely be underdeveloped?",
         "correctAnswerIndex": null,
@@ -742,7 +742,7 @@
       }
     },
     {
-      "id": null,
+      "id": "34873fbc-7825-44e7-b2f2-257671dcbf06",
       "questionInfo": {
         "question": "Identify the cell type in Images L3 and L4:",
         "correctAnswerIndex": null,
@@ -768,7 +768,7 @@
       }
     },
     {
-      "id": null,
+      "id": "6970b8e7-5876-44b7-a494-aa0a212574b6",
       "questionInfo": {
         "question": "A patient has symptoms of fatigue, early fullness, and abdominal pain. A physical exam reveals an enlarged spleen. Which of the following tests is not recommended for this patient?",
         "correctAnswerIndex": null,
@@ -794,7 +794,7 @@
       }
     },
     {
-      "id": null,
+      "id": "537a3cd7-ceef-4db7-b0b5-16b89aa28291",
       "questionInfo": {
         "question": "Which of the following could you expect to see in the patient in Image L5? Select all that apply.",
         "correctAnswerIndex": null,
@@ -820,7 +820,7 @@
       }
     },
     {
-      "id": null,
+      "id": "46394bd6-3412-4bad-a436-b2ab0f0fb297",
       "questionInfo": {
         "question": "Which of the following is FALSE about mucosa-associated lymphoid tissue (MALT) lymphomas?",
         "correctAnswerIndex": null,
@@ -846,7 +846,7 @@
       }
     },
     {
-      "id": null,
+      "id": "f1cf50ec-b067-4b79-893e-ade2540ff92a",
       "questionInfo": {
         "question": "Which of the following stimulates vasopressin secretion?",
         "correctAnswerIndex": null,
@@ -872,7 +872,7 @@
       }
     },
     {
-      "id": null,
+      "id": "c8a67d96-3dc2-4dde-9926-b377fa339115",
       "questionInfo": {
         "question": "Osmotic diuretics increase the excretion of which of the following substances? Select all that apply.",
         "correctAnswerIndex": null,
@@ -898,7 +898,7 @@
       }
     },
     {
-      "id": null,
+      "id": "38771024-f6fd-4edf-bc38-efef4fcef1ea",
       "questionInfo": {
         "question": "Which of the following would increase GFR?",
         "correctAnswerIndex": null,
@@ -924,7 +924,7 @@
       }
     },
     {
-      "id": null,
+      "id": "e84d8cee-deaf-4d32-b8f5-cc8e68570e12",
       "questionInfo": {
         "question": "Which of the following is a side effect of furosemide?",
         "correctAnswerIndex": null,
@@ -950,7 +950,7 @@
       }
     },
     {
-      "id": null,
+      "id": "e8fd533d-23d9-4808-b33f-4dd3b96570ca",
       "questionInfo": {
         "question": "Which of the following is true about renal mesangial cells? Select all that apply.",
         "correctAnswerIndex": null,
@@ -976,7 +976,7 @@
       }
     },
     {
-      "id": null,
+      "id": "d44011a1-0e8d-46c6-9f74-53536c3aa36b",
       "questionInfo": {
         "question": "A 68-year-old man presents with urinary urgency and incontinence. He describes good urinary flow. His urinalysis and prostate examination are normal. Which medication might relieve his symptoms?",
         "correctAnswerIndex": null,
@@ -1002,7 +1002,7 @@
       }
     },
     {
-      "id": null,
+      "id": "9e53c13c-772f-4d76-b369-160a215b321f",
       "questionInfo": {
         "question": "Decreasing diuretic effectiveness:",
         "correctAnswerIndex": null,
@@ -1028,7 +1028,7 @@
       }
     },
     {
-      "id": null,
+      "id": "c9cc0ed8-239e-4915-96d0-e1b303b399a6",
       "questionInfo": {
         "question": "Which of the following can be associated with the urinalysis finding in Image E1? Select all that apply.",
         "correctAnswerIndex": null,
@@ -1054,7 +1054,7 @@
       }
     },
     {
-      "id": null,
+      "id": "80f3571c-716a-46dc-90d6-3e02bd55dd5f",
       "questionInfo": {
         "question": "Which is true regarding the prostate gland?",
         "correctAnswerIndex": null,
@@ -1080,7 +1080,7 @@
       }
     },
     {
-      "id": null,
+      "id": "b2017c0d-2a50-4dad-b6f8-0e361ed24b54",
       "questionInfo": {
         "question": "What is one possible cause of the urinalysis finding shown in Image E2?",
         "correctAnswerIndex": null,
@@ -1106,7 +1106,7 @@
       }
     },
     {
-      "id": null,
+      "id": "783028fe-5437-47da-b053-dad5eac53947",
       "questionInfo": {
         "question": "In anorexia, gluconeogenesis starts in a specific segment of the kidney. Which of the following best describes the percentage of NaCl reabsorbed in this nephron segment?",
         "correctAnswerIndex": null,
@@ -1132,7 +1132,7 @@
       }
     },
     {
-      "id": null,
+      "id": "9582e3fc-0d02-4055-a529-e779498df284",
       "questionInfo": {
         "question": "What would the osmolality be in the outlined region shown in Image E4?",
         "correctAnswerIndex": null,
@@ -1158,7 +1158,7 @@
       }
     },
     {
-      "id": null,
+      "id": "7ff8801a-076c-4a3e-aed9-25af047fb6f0",
       "questionInfo": {
         "question": "In a person with very high levels of aldosterone and otherwise normal kidney function, approximately what percentage of the filtered load of sodium would be reabsorbed?  (Omitted from grading)",
         "correctAnswerIndex": null,
@@ -1184,7 +1184,7 @@
       }
     },
     {
-      "id": null,
+      "id": "b67ec538-ce10-4369-bd14-e42c18e30aeb",
       "questionInfo": {
         "question": "Identify the structure in Image E6:",
         "correctAnswerIndex": null,
@@ -1210,7 +1210,7 @@
       }
     },
     {
-      "id": null,
+      "id": "ee4f8277-7065-4801-be30-c0c564c1f555",
       "questionInfo": {
         "question": "The amount of a substance excreted is equal to the amount plus the amount minus the amount .",
         "correctAnswerIndex": null,
@@ -1237,7 +1237,7 @@
       }
     },
     {
-      "id": null,
+      "id": "91b0f867-e03f-4e60-a429-60dccda0e480",
       "questionInfo": {
         "question": "Rupture of the penile urethra from a catheter might cause urine to leak into the:",
         "correctAnswerIndex": null,
@@ -1263,7 +1263,7 @@
       }
     },
     {
-      "id": null,
+      "id": "26605a56-e206-44f5-bca0-205e6eefced9",
       "questionInfo": {
         "question": "What channels are primarily affected in an individual with the disease characterized by low renin, low aldosterone hypertension?",
         "correctAnswerIndex": null,
@@ -1289,7 +1289,7 @@
       }
     },
     {
-      "id": null,
+      "id": "079671cc-beb3-43d2-9a41-31f37e3f2ca8",
       "questionInfo": {
         "question": "Which of the following increases the risk for the disease shown in Image E8?",
         "correctAnswerIndex": null,
@@ -1315,7 +1315,7 @@
       }
     },
     {
-      "id": null,
+      "id": "5abd8683-c002-4283-bb7e-ece40b760ebd",
       "questionInfo": {
         "question": "A patient has the following lab findings: Sodium 128 mEq/L, Blood urea nitrogen 35 mg/dL, Creatinine 1.5 mg/dL, Urine osmolality 380 mOsm/kg, Urine sodium 18 mEq/L. What is the most likely cause of this patient's hyponatremia?",
         "correctAnswerIndex": null,
@@ -1341,7 +1341,7 @@
       }
     },
     {
-      "id": null,
+      "id": "01b32bf0-9b5e-4bab-bb0d-617fd44113ca",
       "questionInfo": {
         "question": "A woman just completed running a half marathon. She did not drink any water during the race. What will likely be activated at this time?",
         "correctAnswerIndex": null,
@@ -1367,7 +1367,7 @@
       }
     },
     {
-      "id": null,
+      "id": "300287c6-0370-45be-9f5e-d15cb12b91f0",
       "questionInfo": {
         "question": "What kidney condition is associated with the finding in Image E9?",
         "correctAnswerIndex": null,
@@ -1393,7 +1393,7 @@
       }
     },
     {
-      "id": null,
+      "id": "2b73f601-08c6-476f-b768-8afa796a3918",
       "questionInfo": {
         "question": "Which is least dependent on the kidney for regulation of its blood concentration?",
         "correctAnswerIndex": null,
@@ -1419,7 +1419,7 @@
       }
     },
     {
-      "id": null,
+      "id": "d7a2d2d9-b4a7-4d81-bd78-960fda628a22",
       "questionInfo": {
         "question": "Which is the most permeable to water in the slide shown in Image E10?",
         "correctAnswerIndex": null,
@@ -1446,7 +1446,7 @@
       }
     },
     {
-      "id": null,
+      "id": "e8d76f19-31f7-4843-81cc-591d5829fac0",
       "questionInfo": {
         "question": "Which is TRUE about the juxtaglomerular apparatus?",
         "correctAnswerIndex": null,
@@ -1473,7 +1473,7 @@
       }
     },
     {
-      "id": null,
+      "id": "40a2b3eb-564c-4ab6-b538-372803caf28e",
       "questionInfo": {
         "question": "(2 points) What is the glomerular filtration rate (GFR)?",
         "correctAnswerIndex": null,
@@ -1500,7 +1500,7 @@
       }
     },
     {
-      "id": null,
+      "id": "cb67e4b7-3fc3-44fb-9614-dba7a978951f",
       "questionInfo": {
         "question": "Which of the following decreases potassium secretion by the collecting duct?",
         "correctAnswerIndex": null,
@@ -1526,7 +1526,7 @@
       }
     },
     {
-      "id": null,
+      "id": "a2e57e0a-8477-40fe-86ba-9a09c646bf1c",
       "questionInfo": {
         "question": "A college senior comes in with a painful, swollen left knee and stinging in his right eye. On further questioning, he states that he had an abrupt onset of dysuria two weeks ago. Which of the following would be the next diagnostic test?",
         "correctAnswerIndex": null,
@@ -1552,7 +1552,7 @@
       }
     },
     {
-      "id": null,
+      "id": "1902d42b-611c-434c-bdb7-a46d541a0b7b",
       "questionInfo": {
         "question": "Which would you expect to see in an individual with low ADH production? Plasma [osm] Plasma [Na+] Plasma renin Urine volume",
         "correctAnswerIndex": null,

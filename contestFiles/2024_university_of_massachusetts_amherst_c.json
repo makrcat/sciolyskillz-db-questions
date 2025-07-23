@@ -5,7 +5,7 @@
   "event": "anatomy",
   "questions": [
     {
-      "id": null,
+      "id": "9fc43d30-cce4-4761-bf01-ddacce778cc2",
       "questionInfo": {
         "question": "__________ is the primary transport protein for iron and _________ is the primary storage protein of iron.",
         "correctAnswerIndex": null,
@@ -31,7 +31,7 @@
       }
     },
     {
-      "id": null,
+      "id": "0c8d4192-06fa-4b22-8286-80fc1b7cac25",
       "questionInfo": {
         "question": "Order the following events of the cardiac cycle in chronological order.",
         "correctAnswerIndex": null,
@@ -57,7 +57,7 @@
       }
     },
     {
-      "id": null,
+      "id": "ee690987-ffa6-4daf-8d08-d79fbd26c029",
       "questionInfo": {
         "question": "The heart begins developing during which week of gestation?",
         "correctAnswerIndex": null,
@@ -83,7 +83,7 @@
       }
     },
     {
-      "id": null,
+      "id": "19d5cef6-24a6-4602-8038-3e19b8279a86",
       "questionInfo": {
         "question": "Dicrotic notch represents",
         "correctAnswerIndex": null,
@@ -109,7 +109,7 @@
       }
     },
     {
-      "id": null,
+      "id": "c518841a-bc5b-4c9c-9282-0996ddbcdab2",
       "questionInfo": {
         "question": "A doctor notices a patient who presents herself with an abnormal heart rhythm consisting of irregular premature beats from the ventricles. Which of the following could explain this phenomenon?",
         "correctAnswerIndex": null,
@@ -135,7 +135,7 @@
       }
     },
     {
-      "id": null,
+      "id": "ddcbb974-ced9-47cc-b697-d55bcd544521",
       "questionInfo": {
         "question": "_________ allow(s) the uniform contraction of the heart through rapid and efficient spread action potentials",
         "correctAnswerIndex": null,
@@ -161,7 +161,7 @@
       }
     },
     {
-      "id": null,
+      "id": "44a2c3e5-3020-45f3-b28d-424408491935",
       "questionInfo": {
         "question": "Pernicious anemia is caused by a deficiency of what vitamin?",
         "correctAnswerIndex": null,
@@ -187,7 +187,7 @@
       }
     },
     {
-      "id": null,
+      "id": "fc042069-a6ff-49ee-9130-741fe989debb",
       "questionInfo": {
         "question": "All of the following are true about Purkinje fibers except",
         "correctAnswerIndex": null,
@@ -213,7 +213,7 @@
       }
     },
     {
-      "id": null,
+      "id": "074af9b8-9745-40b8-b14a-3443fdca9e14",
       "questionInfo": {
         "question": "Which of the following statements is false about the foramen ovale?",
         "correctAnswerIndex": null,
@@ -239,7 +239,7 @@
       }
     },
     {
-      "id": null,
+      "id": "6376ea8b-4c71-47f1-8aed-fdf3f54a8303",
       "questionInfo": {
         "question": "A 66 year old woman goes to visit her doctor after experiencing chest pains and swelling of her extremities. Upon further imaging, the doctor can conclude that the woman has a mitral valve prolapse. What may have the doctor also noticed? (Select all that apply) (2)",
         "correctAnswerIndex": null,
@@ -265,7 +265,7 @@
       }
     },
     {
-      "id": null,
+      "id": "39f57cd0-0809-4f7c-92d4-aa3d552a037c",
       "questionInfo": {
         "question": "Torsades de pointes (choose all that apply) (2 all or none)",
         "correctAnswerIndex": null,
@@ -291,7 +291,7 @@
       }
     },
     {
-      "id": null,
+      "id": "6c430620-4df7-43ef-b7ec-c0c9a7ddfd0e",
       "questionInfo": {
         "question": "Beta blockers cause the heart to beat ______________ and ________ blood pressure.",
         "correctAnswerIndex": null,
@@ -317,7 +317,7 @@
       }
     },
     {
-      "id": null,
+      "id": "b7a3b776-1a7e-48d1-8c35-653eb2cfe7fb",
       "questionInfo": {
         "question": "All of the following increase the risk of developing varicose veins except",
         "correctAnswerIndex": null,
@@ -343,7 +343,7 @@
       }
     },
     {
-      "id": null,
+      "id": "818dfcdb-ee49-4727-b441-7485bc751621",
       "questionInfo": {
         "question": "[2 pts]  [TIEBREAKER]  Hyperparathyroidism is associated with which of the following EKG abnormalities?",
         "correctAnswerIndex": null,
@@ -369,7 +369,7 @@
       }
     },
     {
-      "id": null,
+      "id": "935d0d30-249b-41ad-afe3-2906a12a8c09",
       "questionInfo": {
         "question": "[2 pts] A 64-year-old male with a history of myocardial infarctions is prescribed a drug to manage his ventricular arrhythmias. The drug works by blocking potassium channels that function in repolarization. Below is the patient’s EKG. Given the above information, what class of arrhythmic drugs does the prescribed drug fall under?",
         "correctAnswerIndex": null,
@@ -397,7 +397,7 @@
       }
     },
     {
-      "id": null,
+      "id": "b501956c-a774-40f5-acc3-eeaa784be3cf",
       "questionInfo": {
         "question": "Which event of the cardiac cycle requires the most oxygen?",
         "correctAnswerIndex": null,
@@ -423,7 +423,7 @@
       }
     },
     {
-      "id": null,
+      "id": "2de88012-3618-4d77-bc9b-c02dd4b7e7ee",
       "questionInfo": {
         "question": "[2 pts] The functions of the structure labeled 6 include: (select all that apply)",
         "correctAnswerIndex": null,
@@ -449,7 +449,7 @@
       }
     },
     {
-      "id": null,
+      "id": "15d37600-03cb-4c47-b2b3-b63be49c6392",
       "questionInfo": {
         "question": "Which of the following pairs does  not  correctly match up?",
         "correctAnswerIndex": null,
@@ -475,7 +475,7 @@
       }
     },
     {
-      "id": null,
+      "id": "24ad892a-8f12-4aab-ac1a-48bf9fc08688",
       "questionInfo": {
         "question": "What properties of the thymus make it an optimal site for T lymphocyte proliferation? (select all that apply)",
         "correctAnswerIndex": null,
@@ -501,7 +501,7 @@
       }
     },
     {
-      "id": null,
+      "id": "c11d72cf-16fa-4b79-b28d-07bdc1254937",
       "questionInfo": {
         "question": "Which of the following immune cells does  not  perform phagocytosis?",
         "correctAnswerIndex": null,
@@ -527,7 +527,7 @@
       }
     },
     {
-      "id": null,
+      "id": "ec719385-20e3-4fc9-9d01-61246f83017b",
       "questionInfo": {
         "question": "Which of the following immune cells secrete perforins and granzymes?",
         "correctAnswerIndex": null,
@@ -553,7 +553,7 @@
       }
     },
     {
-      "id": null,
+      "id": "57ea8571-f939-4bd2-9f20-34fddbf26c9e",
       "questionInfo": {
         "question": "________ are the dominant cells that proliferate germinal centers.",
         "correctAnswerIndex": null,
@@ -579,7 +579,7 @@
       }
     },
     {
-      "id": null,
+      "id": "04799efe-eb8e-47a9-a0a3-ed899ffb7ab1",
       "questionInfo": {
         "question": "Which of the following are found within this high-fat lymph? (select all that apply)",
         "correctAnswerIndex": null,
@@ -605,7 +605,7 @@
       }
     },
     {
-      "id": null,
+      "id": "931222c6-7fef-4326-946c-4c2c73c57138",
       "questionInfo": {
         "question": "Which of the following vitamins is absorbed by lacteals in the large intestine?",
         "correctAnswerIndex": null,
@@ -631,7 +631,7 @@
       }
     },
     {
-      "id": null,
+      "id": "01ff39b9-3da2-4b66-bc73-7845d920c7df",
       "questionInfo": {
         "question": "Which of the following is the correct order for flow of lymph through a lymph node?",
         "correctAnswerIndex": null,
@@ -657,7 +657,7 @@
       }
     },
     {
-      "id": null,
+      "id": "d942decc-aebd-4b14-b221-59ca0d74e80e",
       "questionInfo": {
         "question": "Which of the following are methods that the body uses to circulate lymph? (select all that apply)",
         "correctAnswerIndex": null,
@@ -683,7 +683,7 @@
       }
     },
     {
-      "id": null,
+      "id": "0231c67e-5e6a-45b2-ba95-5748a2a5089e",
       "questionInfo": {
         "question": "[TIEBREAKER]  The structure above is a ________. One function of the area labeled #2 is _________.",
         "correctAnswerIndex": null,
@@ -709,7 +709,7 @@
       }
     },
     {
-      "id": null,
+      "id": "594d9dc5-fd68-4f78-a2b7-5598d37e5bd0",
       "questionInfo": {
         "question": "Which of the following are potential effects of removing the structure above? (select all that apply)",
         "correctAnswerIndex": null,
@@ -735,7 +735,7 @@
       }
     },
     {
-      "id": null,
+      "id": "f4c7bd9e-b518-4bde-bbf2-79f7fdf20613",
       "questionInfo": {
         "question": "[TIEBREAKER]  In general, what does an EBV antibody test detect for?",
         "correctAnswerIndex": null,
@@ -761,7 +761,7 @@
       }
     },
     {
-      "id": null,
+      "id": "b283f176-439c-4a7f-bfae-269fd2720c68",
       "questionInfo": {
         "question": "The mediastinum of the heart is analogous to the _______ of the kidneys.",
         "correctAnswerIndex": null,
@@ -788,7 +788,7 @@
       }
     },
     {
-      "id": null,
+      "id": "46478cad-5d27-4a55-a5f3-23e1f752bfd7",
       "questionInfo": {
         "question": "A functional unit of the kidney consists of the:",
         "correctAnswerIndex": null,
@@ -815,7 +815,7 @@
       }
     },
     {
-      "id": null,
+      "id": "5e138e15-d992-4c50-bfc5-ae71a45aa307",
       "questionInfo": {
         "question": "Together, the renal cortex and the renal medulla make up the:",
         "correctAnswerIndex": null,
@@ -842,7 +842,7 @@
       }
     },
     {
-      "id": null,
+      "id": "153d3990-7cb6-4ba7-bf89-29b50ca2ca26",
       "questionInfo": {
         "question": "The minor calyxes converge to form the major calyces, which then:",
         "correctAnswerIndex": null,
@@ -869,7 +869,7 @@
       }
     },
     {
-      "id": null,
+      "id": "1f16e925-672c-4ba5-bca5-cf4f1fc361e9",
       "questionInfo": {
         "question": "What components make up a single renal pyramid of the kidney?",
         "correctAnswerIndex": null,
@@ -896,7 +896,7 @@
       }
     },
     {
-      "id": null,
+      "id": "4ac72e43-c6fa-45e7-b41c-8012b65aeda2",
       "questionInfo": {
         "question": "The structure shown in the figure above is the:",
         "correctAnswerIndex": null,
@@ -923,7 +923,7 @@
       }
     },
     {
-      "id": null,
+      "id": "aa72f3c3-53f0-4467-950d-f0b3f867d42f",
       "questionInfo": {
         "question": "The structure indicated by the arrow 1 is best described as a(n):",
         "correctAnswerIndex": null,
@@ -950,7 +950,7 @@
       }
     },
     {
-      "id": null,
+      "id": "c8598c50-c153-4ebb-9cff-29211c19d189",
       "questionInfo": {
         "question": "The structure indicated by arrow (2) which immediately follows the entire one shown above is the:",
         "correctAnswerIndex": null,
@@ -977,7 +977,7 @@
       }
     },
     {
-      "id": null,
+      "id": "47a32f34-1129-41ab-99fb-1c61028cd88c",
       "questionInfo": {
         "question": "The lining indicated by arrow 3 is composed of:",
         "correctAnswerIndex": null,
@@ -1004,7 +1004,7 @@
       }
     },
     {
-      "id": null,
+      "id": "9cb5a194-e36f-4816-8d23-f704f4fb2f37",
       "questionInfo": {
         "question": "[TIEBREAKER]  Reabsorption of this ion creates the concentration gradient which dictates the flow of water and other solutes in the kidney.",
         "correctAnswerIndex": null,
@@ -1031,7 +1031,7 @@
       }
     },
     {
-      "id": null,
+      "id": "35ae8ba0-fad4-4b07-8c52-fcde47be31f8",
       "questionInfo": {
         "question": "Which term completes the following sequence: interlobar artery, arcuate artery, ______?",
         "correctAnswerIndex": null,
@@ -1058,7 +1058,7 @@
       }
     },
     {
-      "id": null,
+      "id": "f7198ed5-874b-498d-b999-2d975cf9dd54",
       "questionInfo": {
         "question": "What is the significance of clearance rate of substances in the kidneys?",
         "correctAnswerIndex": null,
@@ -1085,7 +1085,7 @@
       }
     },
     {
-      "id": null,
+      "id": "df9c6efa-a268-4ac4-9391-54e3d6aae6c6",
       "questionInfo": {
         "question": "The layers of the kidney are best described as _______ (deepest to most superficial).",
         "correctAnswerIndex": null,
@@ -1112,7 +1112,7 @@
       }
     },
     {
-      "id": null,
+      "id": "5d197bc7-fb9f-4211-9787-d57204141c1e",
       "questionInfo": {
         "question": "What best describes the glomerular filtration rate?",
         "correctAnswerIndex": null,
@@ -1139,7 +1139,7 @@
       }
     },
     {
-      "id": null,
+      "id": "76800874-1da1-4671-b3d1-14ace54ee601",
       "questionInfo": {
         "question": "Identify the excretory organ shown above.",
         "correctAnswerIndex": null,
@@ -1166,7 +1166,7 @@
       }
     },
     {
-      "id": null,
+      "id": "2f46f44a-5fc7-4ce4-a284-f9720dae4e20",
       "questionInfo": {
         "question": "To what structure does the renal vein drain into?",
         "correctAnswerIndex": null,
@@ -1193,7 +1193,7 @@
       }
     },
     {
-      "id": null,
+      "id": "2742e9fd-00f0-4951-9eec-e87bf506877e",
       "questionInfo": {
         "question": "Azotemia, elevated blood nitrogen and creatinine, can be caused by which of the following conditions?",
         "correctAnswerIndex": null,
@@ -1220,7 +1220,7 @@
       }
     },
     {
-      "id": null,
+      "id": "3288d185-5c77-4496-8794-44882804f7ee",
       "questionInfo": {
         "question": "Concentrations of ions like Na+ and Cl- are primarily sensed by what structure in the nephron?",
         "correctAnswerIndex": null,

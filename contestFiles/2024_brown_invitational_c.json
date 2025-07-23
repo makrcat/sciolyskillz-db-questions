@@ -5,7 +5,7 @@
   "event": "anatomy",
   "questions": [
     {
-      "id": null,
+      "id": "0bc4f84f-77ab-4fee-a49d-e1de0b0fd35d",
       "questionInfo": {
         "question": "Which part of the heart receives oxygenated blood from the lungs?",
         "correctAnswerIndex": null,
@@ -31,7 +31,7 @@
       }
     },
     {
-      "id": null,
+      "id": "6631aca1-56d0-41e7-86b9-1d0ee8a81f70",
       "questionInfo": {
         "question": "Which valve separates the right atrium from the right ventricle?",
         "correctAnswerIndex": null,
@@ -57,7 +57,7 @@
       }
     },
     {
-      "id": null,
+      "id": "2edc7e1a-c9ac-4415-a780-b75dc7ecdf3c",
       "questionInfo": {
         "question": "An aortic valve that is unable to fully close would result in which of the following?",
         "correctAnswerIndex": null,
@@ -83,7 +83,7 @@
       }
     },
     {
-      "id": null,
+      "id": "ba90a9e8-9144-479c-82ae-7cbba2c304d2",
       "questionInfo": {
         "question": "From inner to outermost, what is the correct ordering of the layers of the heart?",
         "correctAnswerIndex": null,
@@ -109,7 +109,7 @@
       }
     },
     {
-      "id": null,
+      "id": "5f8af592-728b-45bc-91dc-c3584dd73807",
       "questionInfo": {
         "question": "The S1 heart sound corresponds to the closure of which valves?",
         "correctAnswerIndex": null,
@@ -135,7 +135,7 @@
       }
     },
     {
-      "id": null,
+      "id": "4cb4ea5f-5e9c-4f6e-be49-b67597848d44",
       "questionInfo": {
         "question": "The beginning of ventricular systole",
         "correctAnswerIndex": null,
@@ -161,7 +161,7 @@
       }
     },
     {
-      "id": null,
+      "id": "dfa2a565-25b1-442a-9009-07ef0dd4625a",
       "questionInfo": {
         "question": "During the period of the cardiac cycle when the left ventricular volume falls from 150mL to 75mL, which of the following combinations of valves would you expect to see?",
         "correctAnswerIndex": null,
@@ -187,7 +187,7 @@
       }
     },
     {
-      "id": null,
+      "id": "0ab68720-f9f3-44ef-9224-c3f19a1dc3ae",
       "questionInfo": {
         "question": "Of the following blood vessels going to and from the heart, which contains blood that is the least oxygenated?",
         "correctAnswerIndex": null,
@@ -213,7 +213,7 @@
       }
     },
     {
-      "id": null,
+      "id": "a01ffe38-f597-4d9d-8faf-36c1a7176806",
       "questionInfo": {
         "question": "The chordae tendineae of the heart are important because they",
         "correctAnswerIndex": null,
@@ -239,7 +239,7 @@
       }
     },
     {
-      "id": null,
+      "id": "490196d3-9b69-4568-af25-6fef8da30807",
       "questionInfo": {
         "question": "​ What is the correct order of electrical conduction in the heart?",
         "correctAnswerIndex": null,
@@ -265,7 +265,7 @@
       }
     },
     {
-      "id": null,
+      "id": "d95d4bfc-817a-48d9-9291-91ae2335e638",
       "questionInfo": {
         "question": "​ What is the function of the AV node?",
         "correctAnswerIndex": null,
@@ -291,7 +291,7 @@
       }
     },
     {
-      "id": null,
+      "id": "47e301fb-a5ba-4b7d-9614-1d0f519e6898",
       "questionInfo": {
         "question": "​ On an EKG, the T wave represents which of the following cardiac events?",
         "correctAnswerIndex": null,
@@ -317,7 +317,7 @@
       }
     },
     {
-      "id": null,
+      "id": "0b480f49-5230-4997-b23b-adde690366e5",
       "questionInfo": {
         "question": "​ What EKG changes are typically seen with hyperkalemia?",
         "correctAnswerIndex": null,
@@ -343,7 +343,7 @@
       }
     },
     {
-      "id": null,
+      "id": "48c186b6-acc5-4f10-bd80-363d6a5e33b1",
       "questionInfo": {
         "question": "​ What EKG changes are typically seen with hypercalcemia?",
         "correctAnswerIndex": null,
@@ -369,7 +369,7 @@
       }
     },
     {
-      "id": null,
+      "id": "d593029a-d975-4d2f-bcab-24eff59b290f",
       "questionInfo": {
         "question": "​ Which of the following would result in the greatest increase in ventricular oxygen consumption?",
         "correctAnswerIndex": null,
@@ -395,7 +395,7 @@
       }
     },
     {
-      "id": null,
+      "id": "8b054cef-82b5-4d19-867a-3d65eac6ebc6",
       "questionInfo": {
         "question": "​ Which of the following is the best description of the Frank-Starling mechanism of the heart?",
         "correctAnswerIndex": null,
@@ -421,7 +421,7 @@
       }
     },
     {
-      "id": null,
+      "id": "7536ea28-62ee-4fa6-9746-c78b4eccf4d3",
       "questionInfo": {
         "question": "​ A patient is known to have concentric hypertrophy of the left ventricle. Which of the following is most consistent with this condition?",
         "correctAnswerIndex": null,
@@ -447,7 +447,7 @@
       }
     },
     {
-      "id": null,
+      "id": "256d6008-9ee8-49a0-9d9b-661fe181a1c4",
       "questionInfo": {
         "question": "​ As mean arterial pressure increases above normal, which of the following will decrease as compensation?",
         "correctAnswerIndex": null,
@@ -473,7 +473,7 @@
       }
     },
     {
-      "id": null,
+      "id": "a101e25d-e353-49ac-a511-3d5dee860fdf",
       "questionInfo": {
         "question": "​ A patient presents to you for routine care a few weeks after experiencing a stab wound of the upper extremity. The scar of the healing wound is slightly distended and is pulsatile on palpation. On auscultation of the heart, you notice a constant venous hum. You correctly identify the condition as an arteriovenous fistula (an aberrant connection between the arterial and venous systems) caused by the tissue remodeling during wound healing. Which of the following best describes the effect of this fistula on the patient’s cardiac output?",
         "correctAnswerIndex": null,
@@ -499,7 +499,7 @@
       }
     },
     {
-      "id": null,
+      "id": "300bb8a5-8c3b-47a7-a99a-cc3dc9153af4",
       "questionInfo": {
         "question": "​ Over which of the following types of blood vessels does blood experience the greatest drop in pressure?",
         "correctAnswerIndex": null,
@@ -526,7 +526,7 @@
       }
     },
     {
-      "id": null,
+      "id": "71f7d8ac-b9e7-4c86-91d1-f472b379393b",
       "questionInfo": {
         "question": "​ Using the Starling equation, calculate the net driving force into or out of the capillary given that the capillary hydrostatic pressure is +15 mmHg, interstitial hydrostatic pressure of -2 mmHg, capillary oncotic pressure of +28 mmHg, and interstitial oncotic pressure of +3 mmHg.",
         "correctAnswerIndex": null,
@@ -552,7 +552,7 @@
       }
     },
     {
-      "id": null,
+      "id": "414cbee1-a38b-4d5a-807c-52c0383e9a46",
       "questionInfo": {
         "question": "​ A 26-year-old man presents to you with concern for periorbital edema and significant lower leg swelling. He notes a recent increase in his weight despite no changes in lifestyle habits. Urinalysis demonstrates significant proteinuria. After additional workup, you diagnose the patient with nephrotic syndrome which is characterized by the loss of protein from the blood into the urine during renal filtration. Which of the following changes to the Starling forces at the level of the capillary would be expected given the patient’s condition?",
         "correctAnswerIndex": null,
@@ -578,7 +578,7 @@
       }
     },
     {
-      "id": null,
+      "id": "5dd2cf56-2c5d-4cdb-ac15-7011b4e11c43",
       "questionInfo": {
         "question": "​ Your patient’s blood pressure is 119 mmHg systolic and 80 mmHg diastolic in the clinic today. What is the patient’s mean arterial pressure?",
         "correctAnswerIndex": null,
@@ -604,7 +604,7 @@
       }
     },
     {
-      "id": null,
+      "id": "9ec56e8b-a2be-480b-9612-a05a02a53b68",
       "questionInfo": {
         "question": "​ If a patient has a heart rate of 70 beats per minute and a stroke volume of 75 mL, what is the patient’s cardiac output?",
         "correctAnswerIndex": null,
@@ -630,7 +630,7 @@
       }
     },
     {
-      "id": null,
+      "id": "967e2429-0353-4f23-ba54-e7b1c3e345b0",
       "questionInfo": {
         "question": "​ What enzyme present in the erythrocytes is responsible for buffering the blood against rapid changes in acidity through its catalysis of the reaction of carbon dioxide and water to form carbonic acid?",
         "correctAnswerIndex": null,
@@ -656,7 +656,7 @@
       }
     },
     {
-      "id": null,
+      "id": "0a6ea646-87b4-4b00-8fd3-a51abaf54c7e",
       "questionInfo": {
         "question": "​ The leftward shift in the oxyhemoglobin dissociation curve seen in fetal hemoglobin relative to adult hemoglobin",
         "correctAnswerIndex": null,
@@ -682,7 +682,7 @@
       }
     },
     {
-      "id": null,
+      "id": "6e80d585-51b5-4977-bc50-f2be6ed80180",
       "questionInfo": {
         "question": "​ In the context of blood transfusions, which blood type is considered the universal donor, and which blood type is considered the universal acceptor?",
         "correctAnswerIndex": null,
@@ -708,7 +708,7 @@
       }
     },
     {
-      "id": null,
+      "id": "65ad7316-4e7d-4104-98ba-a75002997e26",
       "questionInfo": {
         "question": "​ Deficiency in which of the following vitamins can cause a bleeding propensity due to its crucial role in the posttranslational modification of clotting factors II, VII, IX, and X?",
         "correctAnswerIndex": null,
@@ -734,7 +734,7 @@
       }
     },
     {
-      "id": null,
+      "id": "9d1c83f1-cf01-49df-a90f-f58ba017c54c",
       "questionInfo": {
         "question": "​ Which of the following disease processes is most consistent with congestive heart failure?",
         "correctAnswerIndex": null,
@@ -760,7 +760,7 @@
       }
     },
     {
-      "id": null,
+      "id": "0365ce31-70d2-4073-ac46-b41a0b62d0f8",
       "questionInfo": {
         "question": "​ Which of the following is a common cause of macrocytic anemia?",
         "correctAnswerIndex": null,
@@ -786,7 +786,7 @@
       }
     },
     {
-      "id": null,
+      "id": "8348faf0-f9ab-4148-aaaf-17b016bdd9ac",
       "questionInfo": {
         "question": "​ How are lymph nodes distributed throughout the body?",
         "correctAnswerIndex": null,
@@ -812,7 +812,7 @@
       }
     },
     {
-      "id": null,
+      "id": "bd0495b1-0c1d-434e-9092-64beee118087",
       "questionInfo": {
         "question": "​ Which of these would NOT be found in lymph fluid?",
         "correctAnswerIndex": null,
@@ -838,7 +838,7 @@
       }
     },
     {
-      "id": null,
+      "id": "4a167d25-055a-4d21-94b6-6b58129dbe40",
       "questionInfo": {
         "question": "​ What is the connection between the lymphatic system and the cardiovascular system?",
         "correctAnswerIndex": null,
@@ -864,7 +864,7 @@
       }
     },
     {
-      "id": null,
+      "id": "9bfc1d19-23ed-48c0-8dac-03b835d2d577",
       "questionInfo": {
         "question": "​ What is one major force that causes interstitial fluid to enter lymphatic capillaries?",
         "correctAnswerIndex": null,
@@ -890,7 +890,7 @@
       }
     },
     {
-      "id": null,
+      "id": "b237446e-6460-487a-a6cd-6270597f2f78",
       "questionInfo": {
         "question": "​ What is the main cause of edema following damage to an area of lymphatic vessels?",
         "correctAnswerIndex": null,
@@ -916,7 +916,7 @@
       }
     },
     {
-      "id": null,
+      "id": "c643b460-b6ed-47d3-8ca9-902506a8a938",
       "questionInfo": {
         "question": "​ Which of the following accurately describes the path of lymph flow through a lymph node?",
         "correctAnswerIndex": null,
@@ -942,7 +942,7 @@
       }
     },
     {
-      "id": null,
+      "id": "a29cb555-0f49-4119-ad96-e75f23411f64",
       "questionInfo": {
         "question": "​ Which of the following accurately characterizes the red pulp of the spleen?",
         "correctAnswerIndex": null,
@@ -968,7 +968,7 @@
       }
     },
     {
-      "id": null,
+      "id": "38c60409-f718-4051-85fc-d43f5e62bf8b",
       "questionInfo": {
         "question": "​ What is the sac-like chamber that receives lymph from the lower abdomen, pelvis, and lower limbs?",
         "correctAnswerIndex": null,
@@ -994,7 +994,7 @@
       }
     },
     {
-      "id": null,
+      "id": "77eefb06-4999-4e4a-a861-81f39e0aba20",
       "questionInfo": {
         "question": "​ Tissue rejection following organ transplantation mostly resembles",
         "correctAnswerIndex": null,
@@ -1020,7 +1020,7 @@
       }
     },
     {
-      "id": null,
+      "id": "8592b05b-1c84-42ed-93a8-a70e4a2e1076",
       "questionInfo": {
         "question": "​ Cytotoxic T cells destroy target cells",
         "correctAnswerIndex": null,
@@ -1046,7 +1046,7 @@
       }
     },
     {
-      "id": null,
+      "id": "fa51eeef-9898-47dc-a82a-d36109ba72b2",
       "questionInfo": {
         "question": "​ What prevents lymph from leaking into extracellular spaces?",
         "correctAnswerIndex": null,
@@ -1072,7 +1072,7 @@
       }
     },
     {
-      "id": null,
+      "id": "aeb4a2a6-069e-4081-8674-cd5cec403d28",
       "questionInfo": {
         "question": "​ Which of the following statements is FALSE concerning movement of lymph through the body?",
         "correctAnswerIndex": null,
@@ -1098,7 +1098,7 @@
       }
     },
     {
-      "id": null,
+      "id": "fe91d5c0-5834-4c76-9eb6-63a58d2b6f8a",
       "questionInfo": {
         "question": "​ The specific type of acquired immunity that a fetus obtains from maternal antibodies that cross the placenta is called:",
         "correctAnswerIndex": null,
@@ -1125,7 +1125,7 @@
       }
     },
     {
-      "id": null,
+      "id": "12bbf0e1-1ea4-4439-91e8-84849f848382",
       "questionInfo": {
         "question": "​ Which one of the following is NOT a mechanism that aids lymph return?",
         "correctAnswerIndex": null,
@@ -1151,7 +1151,7 @@
       }
     },
     {
-      "id": null,
+      "id": "99fd8e4e-cc18-4cdf-92a2-95848a358051",
       "questionInfo": {
         "question": "​ Which of the following compounds are classified as nitrogenous wastes?",
         "correctAnswerIndex": null,
@@ -1177,7 +1177,7 @@
       }
     },
     {
-      "id": null,
+      "id": "495cb644-b920-4ad4-b4e4-b1f34e4a33ae",
       "questionInfo": {
         "question": "​ Which of the following is the purpose of the renal corpuscle in the nephron?",
         "correctAnswerIndex": null,
@@ -1203,7 +1203,7 @@
       }
     },
     {
-      "id": null,
+      "id": "99ec034d-5d20-409b-9de4-165ff7ee76e8",
       "questionInfo": {
         "question": "​ The relationship between net hydrostatic pressure (NHP), glomerular hydrostatic pressure (GHP), and capsular hydrostatic pressure (CsHP) is",
         "correctAnswerIndex": null,
@@ -1229,7 +1229,7 @@
       }
     },
     {
-      "id": null,
+      "id": "677068a1-6cee-4341-a4b5-445ca48c1044",
       "questionInfo": {
         "question": "​ Which of the following is the main structure holding the kidney against the back body wall?",
         "correctAnswerIndex": null,
@@ -1255,7 +1255,7 @@
       }
     },
     {
-      "id": null,
+      "id": "fc8a4628-eb39-4e90-8332-6791ea09f6f6",
       "questionInfo": {
         "question": "​ Angiotensin II has all of the following effects, except",
         "correctAnswerIndex": null,
@@ -1281,7 +1281,7 @@
       }
     },
     {
-      "id": null,
+      "id": "354c081e-8a8b-4a14-bbe1-beda73aa0ef0",
       "questionInfo": {
         "question": "​ Aldosterone acts on the ______ to promote sodium and potassium secretion.",
         "correctAnswerIndex": null,
@@ -1307,7 +1307,7 @@
       }
     },
     {
-      "id": null,
+      "id": "1f339ce5-743e-49e7-81bc-c68bb1fb7248",
       "questionInfo": {
         "question": "​ The function of the kidney is to",
         "correctAnswerIndex": null,
@@ -1333,7 +1333,7 @@
       }
     },
     {
-      "id": null,
+      "id": "cafd1aa0-6393-475c-a163-554d4cd19a1c",
       "questionInfo": {
         "question": "​ Which of the following is the correct flowchart of renal circulation?",
         "correctAnswerIndex": null,
@@ -1359,7 +1359,7 @@
       }
     },
     {
-      "id": null,
+      "id": "a2b501a2-3b1c-4bc6-b262-984f08cfab9b",
       "questionInfo": {
         "question": "​ The average urine volume per day for an adult is",
         "correctAnswerIndex": null,
@@ -1385,7 +1385,7 @@
       }
     },
     {
-      "id": null,
+      "id": "f9371680-4650-4192-90bd-4a21794d2597",
       "questionInfo": {
         "question": "​ The chemical composition of ammonium is",
         "correctAnswerIndex": null,
@@ -1411,7 +1411,7 @@
       }
     },
     {
-      "id": null,
+      "id": "b9f0c1a9-c429-4703-83ba-c68e8aa890c4",
       "questionInfo": {
         "question": "​ This hormone is the active form of vitamin D, which helps maintain calcium for the bones and for normal chemical balance in the body.",
         "correctAnswerIndex": null,
@@ -1437,7 +1437,7 @@
       }
     },
     {
-      "id": null,
+      "id": "baf000ec-340a-4191-96b0-ceaaf1cc5003",
       "questionInfo": {
         "question": "​ The Bowman's capsule has an outer parietal layer composed of",
         "correctAnswerIndex": null,
@@ -1463,7 +1463,7 @@
       }
     },
     {
-      "id": null,
+      "id": "2374b5dd-f67b-462e-92b9-768f5aa7b5e9",
       "questionInfo": {
         "question": "​ The renal corpuscle filtration barrier is composed of:",
         "correctAnswerIndex": null,
@@ -1489,7 +1489,7 @@
       }
     },
     {
-      "id": null,
+      "id": "354e20f2-96de-450a-b056-601efefb6599",
       "questionInfo": {
         "question": "​ The basal lamina is composed of 3 layers:",
         "correctAnswerIndex": null,
@@ -1515,7 +1515,7 @@
       }
     },
     {
-      "id": null,
+      "id": "c2d5627b-1230-4770-b3a0-826ae7947b81",
       "questionInfo": {
         "question": "​ ________ is a condition of excessive urine production (>2.5 L/day), ________ is a condition of abnormally small amounts of urine (<400 mL), and _______ is a condition where the kidneys fail to produce urine.",
         "correctAnswerIndex": null,
@@ -1541,7 +1541,7 @@
       }
     },
     {
-      "id": null,
+      "id": "cd79c8bd-1307-4ab7-b91d-ee42fbb1c1ed",
       "questionInfo": {
         "question": "​ The basic structural and functional unit of the kidney is the",
         "correctAnswerIndex": null,
@@ -1567,7 +1567,7 @@
       }
     },
     {
-      "id": null,
+      "id": "d146cef7-b968-4192-888c-e853c13c16dc",
       "questionInfo": {
         "question": "​ Kidney stones can be made up of",
         "correctAnswerIndex": null,
@@ -1593,7 +1593,7 @@
       }
     },
     {
-      "id": null,
+      "id": "5af956cf-fdcf-4cd3-a96b-02aaad32882b",
       "questionInfo": {
         "question": "​ Tubular ________ is the transfer of materials from peritubular capillaries to the renal tubular lumen",
         "correctAnswerIndex": null,
@@ -1619,7 +1619,7 @@
       }
     },
     {
-      "id": null,
+      "id": "cb7fb787-62d9-41cb-88fa-fdd1d2a04e96",
       "questionInfo": {
         "question": "​ All of the following are types of nitrogenous wastes, except",
         "correctAnswerIndex": null,
@@ -1645,7 +1645,7 @@
       }
     },
     {
-      "id": null,
+      "id": "223ee595-fe67-49c7-943b-288fadd029ea",
       "questionInfo": {
         "question": "​ The purpose of the hilum is to",
         "correctAnswerIndex": null,

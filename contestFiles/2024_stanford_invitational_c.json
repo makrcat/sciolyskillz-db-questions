@@ -5,10 +5,12 @@
   "event": "anatomy",
   "questions": [
     {
-      "id": null,
+      "id": "4e820090-8b79-491f-a86d-2e8508ea14d5",
       "questionInfo": {
         "question": "The end diastolic volume is 120mL/beat, the cardiac output rate is 5L/min and the heart rate of a patient is 70 bpm. Calculate the end systolic volume and the stroke volume.",
-        "correctAnswerIndex": [0],
+        "correctAnswerIndex": [
+          0
+        ],
         "potentialAnswers": [
           "48.57mL/beat, 71.43mL/beat",
           "119.93mL/beat, 0.07mL/beat",
@@ -31,10 +33,12 @@
       }
     },
     {
-      "id": null,
+      "id": "2ebb4693-13e8-4668-9550-ba3ce34facda",
       "questionInfo": {
         "question": "A patient has a systolic pressure of 138 mmHg and a diastolic pressure of 87 mmHg. What is their mean arterial pressure?",
-        "correctAnswerIndex":[1],
+        "correctAnswerIndex": [
+          1
+        ],
         "potentialAnswers": [
           "96",
           "99",
@@ -57,10 +61,12 @@
       }
     },
     {
-      "id": null,
+      "id": "0b7402cd-6fe5-44b4-a140-0e8f66d09847",
       "questionInfo": {
         "question": "The heart has three main layers—list them from innermost to outermost.",
-        "correctAnswerIndex": [2],
+        "correctAnswerIndex": [
+          2
+        ],
         "potentialAnswers": [
           "(inner) Endocardium – Epicardium – Myocardium (outer)",
           "(inner) Pericardium – Myocardium – Endocardium (outer)",
@@ -83,7 +89,7 @@
       }
     },
     {
-      "id": null,
+      "id": "d7faad85-893a-4ca1-bada-645f6d8f34f9",
       "questionInfo": {
         "question": "Which layer of the heart is considered a continuation of the serous pericardium.",
         "correctAnswerIndex": null,
@@ -109,7 +115,7 @@
       }
     },
     {
-      "id": null,
+      "id": "e7a70a9f-a300-452d-8ec5-78efa5242142",
       "questionInfo": {
         "question": "What is it called when you have too much potassium in the blood?",
         "correctAnswerIndex": null,
@@ -135,7 +141,7 @@
       }
     },
     {
-      "id": null,
+      "id": "e26995d4-13ad-4a9d-8977-a64951a8933c",
       "questionInfo": {
         "question": "The largest artery and vein in the human body are:",
         "correctAnswerIndex": null,
@@ -161,7 +167,7 @@
       }
     },
     {
-      "id": null,
+      "id": "3543f701-50d2-4cd0-a6d1-0e4f4c8ac2aa",
       "questionInfo": {
         "question": "In most individuals, the arch of the aorta has three branches. What are they?",
         "correctAnswerIndex": null,
@@ -187,7 +193,7 @@
       }
     },
     {
-      "id": null,
+      "id": "a5809318-c446-4ef7-bd8a-410a4db0d569",
       "questionInfo": {
         "question": "Identify the structure labeled as x.",
         "correctAnswerIndex": null,
@@ -213,7 +219,7 @@
       }
     },
     {
-      "id": null,
+      "id": "cd88a15d-2b80-46d8-9207-aac0dc2c8691",
       "questionInfo": {
         "question": "What is the function of this structure?",
         "correctAnswerIndex": null,
@@ -239,7 +245,7 @@
       }
     },
     {
-      "id": null,
+      "id": "ace6888b-332d-43f5-9756-bd85d592396d",
       "questionInfo": {
         "question": "Which of these valves does  not  have three leaflets?",
         "correctAnswerIndex": null,
@@ -265,7 +271,7 @@
       }
     },
     {
-      "id": null,
+      "id": "e271563b-1ea9-44dc-b8d0-bdbee3ae78cb",
       "questionInfo": {
         "question": "The SA node fires at a normal rate of ______ bpm and the AV node fires at a normal rate of ______ bpm.",
         "correctAnswerIndex": null,
@@ -291,7 +297,7 @@
       }
     },
     {
-      "id": null,
+      "id": "ed7e8448-9ad9-4900-9b39-5ecb73682cc0",
       "questionInfo": {
         "question": "What is this irregular heart rhythm called?",
         "correctAnswerIndex": null,
@@ -317,7 +323,7 @@
       }
     },
     {
-      "id": null,
+      "id": "0b901fae-cbcb-40dd-8fcc-522898cc5f46",
       "questionInfo": {
         "question": "Which of the following describes the rhythm shown in Choice B? Please note that the wording of this question is not meant to imply the answer to the previous question.",
         "correctAnswerIndex": null,
@@ -343,7 +349,7 @@
       }
     },
     {
-      "id": null,
+      "id": "8fd7e2ed-4bac-4bf0-b51b-9ac7c8c769e0",
       "questionInfo": {
         "question": "In an anticoagulated blood sample, the term buffy coat refers to:",
         "correctAnswerIndex": null,
@@ -369,7 +375,7 @@
       }
     },
     {
-      "id": null,
+      "id": "bff889fa-6484-427e-9432-e51bf0533de4",
       "questionInfo": {
         "question": "(7) Label this diagram with the following letters:",
         "correctAnswerIndex": null,
@@ -395,7 +401,7 @@
       }
     },
     {
-      "id": null,
+      "id": "58fe6443-9a81-4ea5-9e63-39bec7933fd0",
       "questionInfo": {
         "question": "This is a chart representing a law. What is this law called?",
         "correctAnswerIndex": null,
@@ -421,7 +427,7 @@
       }
     },
     {
-      "id": null,
+      "id": "f329a059-fb44-4cad-8c44-5172a9eb1515",
       "questionInfo": {
         "question": "(9) Tiebreaker: This is known as the Starling Equation. Below, label what each of these symbols represents",
         "correctAnswerIndex": null,
@@ -452,7 +458,7 @@
       }
     },
     {
-      "id": null,
+      "id": "d495324f-a335-4f70-9b17-7b5bef6279e1",
       "questionInfo": {
         "question": "List the steps of primary hemostasis in order:",
         "correctAnswerIndex": null,
@@ -478,7 +484,7 @@
       }
     },
     {
-      "id": null,
+      "id": "9ebcdf41-0ca9-4f92-904a-23c40a365c67",
       "questionInfo": {
         "question": "Which of the following is not a pathway for the coagulation cascade.",
         "correctAnswerIndex": null,
@@ -504,7 +510,7 @@
       }
     },
     {
-      "id": null,
+      "id": "bcda449e-00d8-426e-9e9e-d28681ccb415",
       "questionInfo": {
         "question": "Which pathway is associated with a thrombin burst? Please note that the following options of this question are not meant to imply the answer to the previous question.",
         "correctAnswerIndex": null,
@@ -530,7 +536,7 @@
       }
     },
     {
-      "id": null,
+      "id": "e2d83ebf-8110-43a8-9c3c-d6935b88487f",
       "questionInfo": {
         "question": "The circle of Willis located in the brain is an example of which of the following:",
         "correctAnswerIndex": null,
@@ -556,7 +562,7 @@
       }
     },
     {
-      "id": null,
+      "id": "2fbe3b7c-8df4-4f34-834d-b53e4019bf58",
       "questionInfo": {
         "question": "Which of the following proteins in plasma help maintain the osmotic balance between blood and tissue fluids?",
         "correctAnswerIndex": null,
@@ -582,7 +588,7 @@
       }
     },
     {
-      "id": null,
+      "id": "f89662b8-6edc-45fa-8439-1ad343ecd622",
       "questionInfo": {
         "question": "Which of the following is not a function of the lymphatic system?",
         "correctAnswerIndex": null,
@@ -608,7 +614,7 @@
       }
     },
     {
-      "id": null,
+      "id": "377490ff-436b-4a16-946e-0edde932fcc8",
       "questionInfo": {
         "question": "What is the most common cause of primary lymphedema?",
         "correctAnswerIndex": null,
@@ -634,7 +640,7 @@
       }
     },
     {
-      "id": null,
+      "id": "827afe73-42ab-43cb-a1c3-6041b2dd6555",
       "questionInfo": {
         "question": "Tiebreaker: What is the most common secondary cause of lymphedema in developed countries?",
         "correctAnswerIndex": null,
@@ -660,7 +666,7 @@
       }
     },
     {
-      "id": null,
+      "id": "2bd2cf09-703f-41c8-86ed-eb93af0ea7c1",
       "questionInfo": {
         "question": "Tiebreaker: What vaccines are required if you have your spleen removed? Select all that apply.",
         "correctAnswerIndex": null,
@@ -686,7 +692,7 @@
       }
     },
     {
-      "id": null,
+      "id": "e805ccd3-35c9-46a8-8bf7-a4dce805f375",
       "questionInfo": {
         "question": "What is the diagnostic for Hodgkin's lymphoma?",
         "correctAnswerIndex": null,
@@ -712,7 +718,7 @@
       }
     },
     {
-      "id": null,
+      "id": "5c6d22c7-1d85-4fd6-9fe7-70e7e20bb84f",
       "questionInfo": {
         "question": "Tiebreaker: Which are manifestations of a B12 deficiency? Select all that apply.",
         "correctAnswerIndex": null,
@@ -738,7 +744,7 @@
       }
     },
     {
-      "id": null,
+      "id": "f80ad217-6ba8-4409-a2ea-5e296859f661",
       "questionInfo": {
         "question": "What are some causes of splenomegaly? Select all that apply.",
         "correctAnswerIndex": null,
@@ -764,7 +770,7 @@
       }
     },
     {
-      "id": null,
+      "id": "d68ac140-f2d9-4447-9d8d-8d8095ca8bdc",
       "questionInfo": {
         "question": "Adults have about ____ lymph nodes throughout the body.",
         "correctAnswerIndex": null,
@@ -790,7 +796,7 @@
       }
     },
     {
-      "id": null,
+      "id": "97aaf726-02d4-4b9f-b564-8a37b01bb80e",
       "questionInfo": {
         "question": "This histology section was taken from the ileum. Identify the area circled.",
         "correctAnswerIndex": null,
@@ -816,7 +822,7 @@
       }
     },
     {
-      "id": null,
+      "id": "329f92e4-2f7a-4d1b-bc0e-38ced664a02b",
       "questionInfo": {
         "question": "What is its function?",
         "correctAnswerIndex": null,
@@ -842,7 +848,7 @@
       }
     },
     {
-      "id": null,
+      "id": "6daa906c-ff6e-42e7-a08a-afd1e9bf34ee",
       "questionInfo": {
         "question": "Under what classification of lymphoid tissue is it under?",
         "correctAnswerIndex": null,
@@ -868,7 +874,7 @@
       }
     },
     {
-      "id": null,
+      "id": "20669aee-cb65-4c64-8c57-cd008c80e483",
       "questionInfo": {
         "question": "Lymph eventually drains to _______.",
         "correctAnswerIndex": null,
@@ -894,7 +900,7 @@
       }
     },
     {
-      "id": null,
+      "id": "4dc23810-1c11-412a-9114-14b65826bee9",
       "questionInfo": {
         "question": "Which of these organs is a mucosa-associated lymphoid tissue? Choose all the correct answers.",
         "correctAnswerIndex": null,
@@ -920,7 +926,7 @@
       }
     },
     {
-      "id": null,
+      "id": "dfd0f4c4-9b97-4c67-b574-42070f34ec5f",
       "questionInfo": {
         "question": "Which of the following is NOT a function of the tonsils?",
         "correctAnswerIndex": null,
@@ -946,7 +952,7 @@
       }
     },
     {
-      "id": null,
+      "id": "c641841b-5183-4a39-bab3-5e31b12de948",
       "questionInfo": {
         "question": "In which organs does lymphopoiesis  not  occur?",
         "correctAnswerIndex": null,
@@ -972,7 +978,7 @@
       }
     },
     {
-      "id": null,
+      "id": "1e0b94e9-40a3-4f3b-86df-7a0aee03ce33",
       "questionInfo": {
         "question": "Lymphoid tissue develops after the ____ week of gestation",
         "correctAnswerIndex": null,
@@ -998,7 +1004,7 @@
       }
     },
     {
-      "id": null,
+      "id": "e91656a5-b44f-48e6-a18c-9289f61c1c65",
       "questionInfo": {
         "question": "Lymph capillaries have ______ oncotic pressure compared to blood plasma.",
         "correctAnswerIndex": null,
@@ -1024,7 +1030,7 @@
       }
     },
     {
-      "id": null,
+      "id": "9482b143-b84d-4f41-8aff-fdda11a0f584",
       "questionInfo": {
         "question": "Which lymph trunk is unpaired?",
         "correctAnswerIndex": null,
@@ -1050,7 +1056,7 @@
       }
     },
     {
-      "id": null,
+      "id": "45bd64f3-aa1a-4c8e-b574-a84d26d7e8c1",
       "questionInfo": {
         "question": "The innermost layer of a lymph vessel is made out of:",
         "correctAnswerIndex": null,
@@ -1076,7 +1082,7 @@
       }
     },
     {
-      "id": null,
+      "id": "21763969-de4b-4a9c-8249-f6cf6fe55ae3",
       "questionInfo": {
         "question": "What is the name of the functional unit of the lymphatic system (or at least, lymph vessels)?",
         "correctAnswerIndex": null,
@@ -1102,7 +1108,7 @@
       }
     },
     {
-      "id": null,
+      "id": "ce41c083-f79c-47ee-9dee-bb9fb85d36dc",
       "questionInfo": {
         "question": "What color is lymph?",
         "correctAnswerIndex": null,
@@ -1128,7 +1134,7 @@
       }
     },
     {
-      "id": null,
+      "id": "d0b8ede0-187a-4a6c-a9c5-ae8e4e5b4909",
       "questionInfo": {
         "question": "Label b, f, h, and i. For an extra 5 tiebreaker points, label the rest. If a letter is before the words, “lymph nodes,” your answer should precede it.",
         "correctAnswerIndex": null,
@@ -1159,7 +1165,7 @@
       }
     },
     {
-      "id": null,
+      "id": "1a28f77b-8010-45d1-a729-f93f032513ac",
       "questionInfo": {
         "question": "In a normal nephron, at what point does the reabsorption of glucose occur?",
         "correctAnswerIndex": null,
@@ -1185,7 +1191,7 @@
       }
     },
     {
-      "id": null,
+      "id": "06e4dbf3-b999-49e2-9691-244ca3f3fc13",
       "questionInfo": {
         "question": "Which of the following is  not  a function of the excretory system?",
         "correctAnswerIndex": null,
@@ -1211,7 +1217,7 @@
       }
     },
     {
-      "id": null,
+      "id": "fff806d2-329a-4488-b7ee-c86a77509f57",
       "questionInfo": {
         "question": "Where is creatinine produced?",
         "correctAnswerIndex": null,
@@ -1237,7 +1243,7 @@
       }
     },
     {
-      "id": null,
+      "id": "05c87c5f-b770-4539-90b5-e4efc17a37f6",
       "questionInfo": {
         "question": "The renal hilum is the __________________.",
         "correctAnswerIndex": null,
@@ -1263,7 +1269,7 @@
       }
     },
     {
-      "id": null,
+      "id": "8652c01e-2e54-4f8b-8d71-3d8eb18c27be",
       "questionInfo": {
         "question": "What is the entire structure A called?",
         "correctAnswerIndex": null,
@@ -1289,7 +1295,7 @@
       }
     },
     {
-      "id": null,
+      "id": "4fdc3650-8722-4af8-bfca-8460aa6d527e",
       "questionInfo": {
         "question": "What factor does  not  activate the renin–angiotensin feedback system?",
         "correctAnswerIndex": null,
@@ -1315,7 +1321,7 @@
       }
     },
     {
-      "id": null,
+      "id": "93587e7d-3426-489d-a50d-28cff156f594",
       "questionInfo": {
         "question": "Which of the following structures interact with each other in secretion/reabsorption within the kidney?",
         "correctAnswerIndex": null,
@@ -1341,7 +1347,7 @@
       }
     },
     {
-      "id": null,
+      "id": "eadbd5d6-06c0-4b3b-b927-e36cdf0169af",
       "questionInfo": {
         "question": "What is the osmolarity of fluid in the deepest part of the loop of Henle?",
         "correctAnswerIndex": null,
@@ -1367,7 +1373,7 @@
       }
     },
     {
-      "id": null,
+      "id": "199c3131-63d1-4c50-8a20-b7eaead01f4d",
       "questionInfo": {
         "question": "A urinalysis is also known as a..",
         "correctAnswerIndex": null,
@@ -1393,7 +1399,7 @@
       }
     },
     {
-      "id": null,
+      "id": "054eb1b5-e94a-4d22-881a-087cc5b21fac",
       "questionInfo": {
         "question": "The kidneys receive ____% of the cardiac output.",
         "correctAnswerIndex": null,
@@ -1419,7 +1425,7 @@
       }
     },
     {
-      "id": null,
+      "id": "7ad8fe82-2367-4ac3-8afc-21cfde0137ae",
       "questionInfo": {
         "question": "Which condition describes painful urination?",
         "correctAnswerIndex": null,
@@ -1445,7 +1451,7 @@
       }
     },
     {
-      "id": null,
+      "id": "594dc507-1585-4f07-9057-4877c12a7525",
       "questionInfo": {
         "question": "Which is an example of a diuretic?",
         "correctAnswerIndex": null,
@@ -1471,7 +1477,7 @@
       }
     },
     {
-      "id": null,
+      "id": "736b695f-f01a-423e-8e65-56371e82c436",
       "questionInfo": {
         "question": "This is a cast from a urinalysis. What are these?",
         "correctAnswerIndex": null,
@@ -1497,7 +1503,7 @@
       }
     },
     {
-      "id": null,
+      "id": "eb1cec5d-0d12-4b0a-97b3-7ceb55113656",
       "questionInfo": {
         "question": "What does this suggest?",
         "correctAnswerIndex": null,
@@ -1523,7 +1529,7 @@
       }
     },
     {
-      "id": null,
+      "id": "8121fa2e-9f3a-4d1a-a364-2ff21dbd503a",
       "questionInfo": {
         "question": "What is this epithelium lining from question 20 called?",
         "correctAnswerIndex": null,
