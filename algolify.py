@@ -1,4 +1,4 @@
-import re
+
 import os
 import json
 
@@ -55,6 +55,6 @@ for filename in os.listdir(input_folder):
 
                 algolia_records.append(record)
 
-# Write the resulting list to algolify.json
+
 with open(output_file, "w", encoding="utf-8") as f:
     json.dump(algolia_records, f, indent=2)

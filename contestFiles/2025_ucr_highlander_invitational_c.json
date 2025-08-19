@@ -1,0 +1,1075 @@
+{
+  "competition": "UCR Highlander Invitational",
+  "division": "C",
+  "year": 2025,
+  "event": "anatomy",
+  "questions": [
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is true of eccrine sweat glands?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "They are smaller than apocrine sweat glands",
+          "They produce a watery, odorless secretion",
+          "They are distributed all across the body, and are found in the dermis layer",
+          "All of the above"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 11
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Keratohyalin is a structural protein that helps the epidermis form a watertight barrier. What epidermal skin layer is richest in keratohyalin?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Stratum Basale",
+          "Stratum Spinosum",
+          "Stratum Granulosum",
+          "Stratum Lucidum"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 12
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which structural protein in the skin is also a major component of hair and nails?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Keratin",
+          "Collagen",
+          "Elastin",
+          "Melanin"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 13
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following are possible treatments or preventions for HPV?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Cryotherapy",
+          "HPV Vaccine",
+          "Electrotherapy",
+          "All of the above"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 14
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is the most common symptom of impetigo?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Bumps on the skin that are painless, rough, blue or purple, and quickly growing",
+          "Reddish, rupturing sores near the mouth and nose",
+          "Constant itchiness and soreness of extremities",
+          "Large, pus filled bumps near the neck, shoulders, or thighs"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 15
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The ABCDE rule can help aid in detection of what type of skin cancer?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Kaposi’s Sarcoma",
+          "Merkel Cell Carcinoma",
+          "Basal Cell Carcinoma",
+          "Melanoma"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 16
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The lunula is the part of a nail that…",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Serves as the primary location for the nail’s attachment to the finger",
+          "Protects the nail matrix, the area of active nail cell growth underneath it",
+          "Connects to the phalanx bone and allows for nail flexibility",
+          "Extends beyond the fingertip and is regularly trimmed"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 17
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which phase of hair growth is described incorrectly?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Anagen - This phase is characterized by rapid cell division and growth. It is also the longest phase, and can last between 2-6 years. Most hair cells at any point in time are in this phase.",
+          "Catagen - In this phase, hair cells stop growing and start to separate from the follicle.",
+          "Telogen - During this phase, hair cells use the remainder of their nutrient supply and grow slightly one last time, in preparation of shedding.",
+          "Exogen - In this phase, hair is shed from the follicles, and a new growth cycle starts."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 18
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is the main difference between melanomas, sarcomas, and carcinomas?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Melanomas originate mainly in melanocytes, sarcomas originate in connective tissues, and carcinomas originate in epithelial cells",
+          "Melanomas originate mainly in melanocytes, sarcomas originate in epithelial cells, and carcinomas originate in connective tissues",
+          "Melanomas originate mainly in the epidermis, sarcomas originate in the dermis, and carcinomas originate in the hypodermis",
+          "Melanomas most commonly include mutations in the BRAF oncogene, sarcomas most commonly have mutations in the BRCA 1 oncogene, and carcinomas most commonly have mutations in the JH10 oncogene."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 19
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What layer of the epidermis is only present in thick skin?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Papillary dermis",
+          "Stratum Corneum",
+          "Stratum Lucidum",
+          "Stratum Basale"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 20
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What role do Langerhans cells play in the skin’s epidermis?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "They help to generate new skin cells to replace damaged or worn out ones.",
+          "They aid in Vitamin D production",
+          "They detect foreign substances and assist in the immune system defenses",
+          "They are a type of mechanoreceptor"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 21
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which species of fungus is most commonly responsible for Athlete's foot infections?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Trichophyton",
+          "Staphylococcus",
+          "Streptococcus",
+          "Mycobacterium"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 22
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "A carbuncle is formed from a cluster of several _____. Many are also the result of infection by _______.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Boils; Staphylococcus Aureus",
+          "Boils; Trichophyton Rubrum",
+          "Cysts; Streptococcus Pyogenes",
+          "Cysts; Staphylococcus Aureus"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 23
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following treatments are commonly used to reduce wrinkles and fine lines?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Retinoids",
+          "Antihistamines",
+          "Botulinum Injections",
+          "Antibiotics"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 24
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is the most common mechanoreceptor found in the skin?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Meissner’s corpuscles",
+          "Merkel cells",
+          "Ruffini Endings",
+          "Pacinian Corpuscle"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 25
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following nerve fibers are not nociceptive?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "C-fibers",
+          "A-beta-fibers",
+          "Type 1 A-delta-fibers",
+          "Type 2 A-delta-fibers Short answer:"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 26
+      }
+    },
+    
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which chemical signal is necessary to initiate the process of red blood cell production?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Erythrocyte Potentiation Factor (EPF)",
+          "Erythropoietin",
+          "High blood calcium levels",
+          "Thyroxine"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 13
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "How many vertebrae in the human spine are cervical, thoracic, and lumbar, ignoring sacral and coccygeal vertebrae?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "5 Cervical, 15 Thoracic, and 7 Lumbar",
+          "7 Cervical, 12 Thoracic, and 5 Lumbar",
+          "9 Cervical, 11 Thoracic, and 8 Lumbar",
+          "7 Cervical, 12 Thoracic, and 13 Lumbar"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 14
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is the name of the opening in the center of each vertebrae that allows the spinal cord to pass through?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Lamina",
+          "Foramen",
+          "Pedicle",
+          "Spinous Process"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 15
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following surface features is best described as a blunt bone ending that is seen only at the joint between the femur and the pelvic girdle?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Trochanter",
+          "Epicondyle",
+          "Process",
+          "Crest"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 17
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which nitrogenous waste product from metabolism is responsible for gout?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Ammonia",
+          "Urea",
+          "Uric Acid",
+          "Creatinine"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 18
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following are possible ways that Parathyroid Hormone  can elevate calcium levels in the blood?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "PTH can stimulate osteoclasts to break down bone tissue",
+          "PTH can act on the kidney to increase retention of Ca2+ ions",
+          "PTH can increase production of Vitamin D",
+          "All of the above"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 19
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which bone is not part of the axial skeleton?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Skull",
+          "Hyoid Bone",
+          "Pelvic Girdle",
+          "All of the above"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 20
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which disease is characterized by an extensive forward curvature of the spine?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Lordosis",
+          "Kyphosis",
+          "Scoliosis",
+          "Osteomalacia"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 21
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which option most accurately explains the difference between tendons and ligaments?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Tendons connect bones to other bones, and ligaments connect muscles to other muscles.",
+          "Tendons attach muscles to joints, and ligaments stabilize those joints.",
+          "Tendons connect muscles to bones, and ligaments connect bones to other bones.",
+          "Tendons and ligaments have the same physiological structure and function, except ligaments are more common in younger people."
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 22
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "The hormone ______ helps to reduce the amount of calcium in the bloodstream, and is produced by _______ in the thyroid gland.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Calcitonin; C-cells",
+          "Calcitriol; C-cells",
+          "Calcitonin; Hassall’s Corpuscles",
+          "Calcitriol; Hassall’s Corpuscles"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 23
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is the main reason that tendons and ligaments have limited healing capabilities compared to other types of connective tissues?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Tendons and ligaments lack extracellular matrices",
+          "Tendons and ligaments have extensive elastin networks in their extracellular matrix, and aren’t able to get sufficient nutrients to the damaged cells",
+          "Cells in tendons and ligaments are packed too close together for damage to be repaired quickly",
+          "Tendons and ligaments have limited blood supply, restricting supply of nutrients for repair cells"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 24
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "In an MRI, which ligament tear would most likely be indicated by a fat-saturated Proton Density?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "LCL",
+          "MCL",
+          "Meniscus tear",
+          "ACL"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 25
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is the main difference between Golfer’s Elbow and Tennis Elbow?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Golfer’s Elbow affects the inner side of the elbow, while Tennis Elbow affects the outer side of the elbow",
+          "Golfer’s Elbow affects the outer side of the elbow, while Tennis Elbow affects the inner side of the Elbow",
+          "Golfer’s Elbow can be rehabbed in 1-2 months, but Tennis Elbow takes much longer at 6-12 months",
+          "None of the above Short Answer:"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 26
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Fractures are breaks in a bone that can be caused by trauma, overuse, or underlying medical conditions.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "What is the difference between an open and a closed fracture? ",
+          "The Salter-Harris classification system helps to categorize certain fractures that are present in children and adolescents based on their location and the pattern of the injury. Which region of the bone is affected in Salter-Harris fractures? (1 point)",
+          "Which type of Salter-Harris fracture is shown below? (1 point)",
+          "During the Reparative phase of bone fracture repair, what structure forms from cartilage that helps temporarily stabilize the fracture site? "
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 2
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "During excitation-contraction coupling in cardiac muscle cells, an action potential first causes calcium ions to enter the cell via ________. The small influx of calcium ions then triggers a larger release of calcium ions from the sarcoplasmic reticulum through ______.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "L-Type Calcium channels; SERCA channels",
+          "L-Type Calcium channels; Ryanodine receptors",
+          "M-Type Calcium channels; Ryanodine receptors",
+          "M-Type Calcium channels; SERCA channels"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 15
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What specific infectious agent causes the disease botulism?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "A protein toxin",
+          "A virus",
+          "A protist",
+          "It is an autoimmune disease"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 16
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is not a type of muscle fiber?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Slow-twitch oxidative",
+          "Slow-twitch glycolytic",
+          "Fast-twitch oxidative",
+          "Fast-twitch glycolytic"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 17
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which membrane protein is directly responsible for the sarcoplasmic hypertrophy that happens after light exercise?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Calcium Channels",
+          "Sodium Channels",
+          "Aquaporins",
+          "Dystrophin Complexes"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 18
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "_______ bind to _______, moving tropomyosin fibers and exposing binding sites along ______ fibers that myosin heads bind to, initiating a power stroke, which causes the muscle to contract.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "ATP; Troponin T; Actin",
+          "ATP; Troponin C; Actin",
+          "Calcium; Troponin T; Actin",
+          "Calcium; Troponin C; Actin"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 19
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which types of muscle have striations?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Cardiac",
+          "Skeletal",
+          "Smooth",
+          "Cardiac and Smooth e. Cardiac and Skeletal f. Cardiac, Skeletal, and Smooth"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 20
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which human muscle is the longest?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Latissimus Dorsi",
+          "Semitendinosus",
+          "Sartorius",
+          "Infraspinatus"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 21
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following accurately describes the function of the molecule agrin?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "It mainly controls development of the neuromuscular junction during embryo development",
+          "It acts as a neurotransmitter, and along with calmodulin, helps to initiate muscle contraction",
+          "It is one of the protein complexes that helps move the action potential along the axon",
+          "It helps catalyze one the steps in the phosphocreatine cycle"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 22
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following are support proteins found in the sarcomeres of skeletal muscle fibers?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Myomesin",
+          "C Protein",
+          "Desmin",
+          "All of the above"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 23
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following criteria can be used to help identify fibromyalgia?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Positive ANA test",
+          "Widespread bodily pain lasting for extended periods of time",
+          "Presence of Rheumatoid Factor",
+          "High Erythrocyte Sedimentation Rates"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 24
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following neurotransmitters is present at neuromuscular junctions and plays an important role in skeletal muscle contraction?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Acetylcholine",
+          "Norepinephrine",
+          "Epinephrine",
+          "Calmodulin Short Answer:"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 23,
+        "number": 26
+      }
+    }
+  ]
+}

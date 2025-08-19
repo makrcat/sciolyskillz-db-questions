@@ -1,0 +1,214 @@
+{
+  "competition": "Mason Satellite Invitational",
+  "division": "C",
+  "year": 2024,
+  "event": "anatomy",
+  "questions": [
+    {
+      "id": 1,
+      "questionInfo": {
+        "question": "What is shown in this image?",
+        "correctAnswerIndex": 0,
+        "options": [
+          "Osteosarcoma",
+          "Conventional osteosarcoma"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "questionInfo": {
+        "question": "List 2 symptoms of this disease.",
+        "correctAnswerIndex": null,
+        "options": [
+          "Bone pain",
+          "Swelling"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "questionInfo": {
+        "question": "Circle all of the following drugs that are used to treat this disease:",
+        "correctAnswerIndex": null,
+        "options": [
+          "Methotrexate",
+          "Tafinlar",
+          "Ifosfamide",
+          "Retevmo",
+          "Gemcitabine",
+          "Cyclophosphamide",
+          "Doxorubicin (Adriamycin)"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "questionInfo": {
+        "question": "Which match is incorrect?",
+        "correctAnswerIndex": 3,
+        "options": [
+          "Retinol - Vitamin A",
+          "Tocopherol - Vitamin E",
+          "Ascorbic Acid - Vitamin C",
+          "Niacinamide - Vitamin B5"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "questionInfo": {
+        "question": "How thick is the stratum corneum?",
+        "correctAnswerIndex": 0,
+        "options": [
+          "10-30 layers",
+          "20-50 layers",
+          "2-10 layers",
+          "30-50 layers"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "questionInfo": {
+        "question": "What is the acid mantle?",
+        "correctAnswerIndex": 2,
+        "options": [
+          "A layer of alpha hydroxy acids secreted by dust mites on the skin",
+          "A layer of beta hydroxy acids secreted by dust mites on the skin",
+          "A mixture of sebum and amino acids that protects the skin from pathogens",
+          "A mixture of cells that protect the skin from pathogens"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "questionInfo": {
+        "question": "From what amino acid is melanin synthesized?",
+        "correctAnswerIndex": 2,
+        "options": [
+          "Tryptophan",
+          "Proline",
+          "Tyrosine",
+          "Phenylalanine"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "questionInfo": {
+        "question": "What DNA defect does UV-B cause?",
+        "correctAnswerIndex": 0,
+        "options": [
+          "Thymine dimers",
+          "Cytosine dimers",
+          "Dideoxynucleotide",
+          "Uracil dimers"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "questionInfo": {
+        "question": "Match the stages of fetal hair development (Lanugo, Vellus, Terminal) with their descriptions.",
+        "correctAnswerIndex": null,
+        "options": [
+          "Lanugo - fine, downy, unpigmented, last 3 months of fetal development",
+          "Vellus - fine, unpigmented, at birth, not on scalp or eyes, composes all of childhood hair",
+          "Terminal - longer, coarser, pigmented on scalp; replaces axillary and pubic hair in puberty"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "questionInfo": {
+        "question": "What is the distribution of vellus hair in adults?",
+        "correctAnswerIndex": 3,
+        "options": [
+          "10% on women",
+          "10% on men",
+          "90% on men",
+          "90% on women"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "questionInfo": {
+        "question": "Which hormone causes alopecia (balding) in males over 40?",
+        "correctAnswerIndex": 3,
+        "options": [
+          "Follicle stimulating hormone",
+          "Triiodothyronine",
+          "Thyroxine",
+          "DHT"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "questionInfo": {
+        "question": "How long does the catagen stage of hair tend to last?",
+        "correctAnswerIndex": 1,
+        "options": [
+          "6-8 years",
+          "2-3 weeks",
+          "1-3 months",
+          "There isn’t a catagen stage"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "questionInfo": {
+        "question": "What component of human sebum is unique to humans?",
+        "correctAnswerIndex": 2,
+        "options": [
+          "Wax ester",
+          "Squalene",
+          "Sapienic acid",
+          "Triglycerides"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "questionInfo": {
+        "question": "Match the components of keratohyalin granules.",
+        "correctAnswerIndex": null,
+        "options": [
+          "Keratin - protects from mechanical stress and governs cell activity",
+          "Profilaggrin - splits into 10-12 versions of the final protein. Coded by FLG gene",
+          "Trichohyalin - functions in keratin intermediate filament cross-linking; codes for TCHH gene",
+          "Loricrin - 70% of cornified envelope; works alongside involucrin, elafin, keratin, filaggrin"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "questionInfo": {
+        "question": "What does the TCHH gene determine?",
+        "correctAnswerIndex": 3,
+        "options": [
+          "Hair color",
+          "Testosterone release in puberty",
+          "Aromatase expression to convert excess testosterone to estrogen",
+          "Hair curliness"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "questionInfo": {
+        "question": "What do dermatophagoides (dust mites) feed on?",
+        "correctAnswerIndex": 0,
+        "options": [
+          "Dander",
+          "Cancer",
+          "Oil",
+          "Dihydrogen monoxide"
+        ]
+      }
+    }
+  ]
+}

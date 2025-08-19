@@ -1,0 +1,529 @@
+{
+  "competition": "Rickards Invitational",
+  "division": "C",
+  "year": 2025,
+  "event": "anatomy",
+  "questions": [
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following skin cells alert the immune system to pathogens?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Fibroblasts",
+          "Melanocytes",
+          "Keratinocytes",
+          "Dendritic cells e. Tactile cells"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 21,
+        "number": 1
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Melanocytes are found in the highest concentration in which layer of the skin?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Hypodermis",
+          "Papillary dermis",
+          "Stratum basale",
+          "Stratum spinosum e. Stratum corneum"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 21,
+        "number": 2
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "In which of the following does varicella zoster virus remain latent before reactivating and causing shingles?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Cerebellum",
+          "Epimysium",
+          "Dermal papillae",
+          "dorsal ganglion cells"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 21,
+        "number": 3
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What feature is pointed out in the following image?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Hair bulb",
+          "Meissner corpuscle",
+          "Epidermal ridge",
+          "Free nerve ending",
+          "Blood vessel"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 21,
+        "number": 4
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is the primary pigment of red hair?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Eumelanin",
+          "Carotene",
+          "Red hair has no pigment",
+          "Pheomelanin e. Souls of the damned"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 21,
+        "number": 6
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "[2 pts] Which of the following HPV proteins are correctly paired with the human gene they inactivate? Select all that apply.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Early 6 : p53",
+          "Early 2 : PUMA",
+          "Early 7 : pRb",
+          "Late 1 : EGFR e. Late 2 : Beta-catenin"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 21,
+        "number": 7
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which of the following is an incorrect statement about spongy bone?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Are fixed in structure as they develop entirely independent of any external stimuli",
+          "Filled with bone marrow that primarily turns into yellow bone marrow by adulthood",
+          "They are the primary sites of bone resorption, seen in conditions such as osteoporosis",
+          "They are vascularized and filled with honeycomb-like trabeculae"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 21,
+        "number": 1
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Which region of the metaphysis is farthest from the marrow cavity?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Zone of reserve cartilage",
+          "Zone of cell proliferation",
+          "Zone of cell hypertrophy",
+          "Zone of calcification e. Zone of bone deposition"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 21,
+        "number": 2
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Jarcus Loshino has a mutation that causes his osteoblasts to produce misshapen OPG protein, which of the following would you primarily expect him to present in a blood test?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "High C reactive protein",
+          "Hypernatremia",
+          "Hypokalemia",
+          "Hypercalcemia e. Big scary monsters"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 21,
+        "number": 3
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Ricky has gotten so worked up from this argument, he’s started to load up 225 lbs for his next incline bench press set. This guy is tweaking  😱😱😱 !!! While helping him unrack the weight, Ishan hears a soft popping sound from Ricky as he reels in pain, his left shoulder sagging down on the bench. As they walk to the local hospital, they notice that the area around his left shoulder is swelling, and Ricky has trouble moving his arm. At the hospital they take a scan of Ricky’s shoulder and see this… What type of scan is this?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "CT Scan",
+          "X-ray",
+          "MRI",
+          "CAT Scan"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 21,
+        "number": 4
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "What is wrong with Ricky’s shoulder?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "He strained it",
+          "He sprained it",
+          "He dislocated it",
+          "He fractured it E. It’s part of Ricky ewwwwwwwwwwww"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 21,
+        "number": 5
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "After hearing about Ricky’s tragic injury, Connor Jin, from Syosset, New York, came SPRINTING to the hospital, frantic about his beloved Rickatoni. He had made it there in record time, but on his way up the stairs he… got up completely fine! He then walked into the hospital and was tackled by Myles Garrett, defensive end for the Cleveland Browns and 2023 Associated Press Defensive Player of the Year. During this tackle, Connor had his knee twisted into an awkward position and heard a pop on his way down. Conveniently already having him in the hospital, doctors performed a sagittal MRI scan finding the following… What happened to his knee?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Femur fracture",
+          "TCL strain",
+          "Tibia fracture",
+          "ACL Tear E. Man it fell off. RIP  🕊️"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 21,
+        "number": 8
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "[2 pts] Which of the following are cells found in Layer A?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Melanocytes",
+          "Merkel cells",
+          "Langerhans cells",
+          "Stem cells"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 21,
+        "number": 2
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "[2 pts] Refer to Figure B. Check off all the types of cell junctions you would expect to find in the epidermis",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Tight junctions",
+          "Gap junctions",
+          "Adherens junctions",
+          "Desmosomes E. Epidermal cells don’t need cell junctions they generate as a blob"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 21,
+        "number": 8
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "[TB, 2 pts] Each of the following would be connective proteins found in the epithelia  except",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "β  -catenin",
+          "α -actinin",
+          "N-cadherin",
+          "Plakoglobin"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 21,
+        "number": 10
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "[2 pts] Which of the following would you expect as a side effect of his condition?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Sciatica",
+          "Nerve compression",
+          "Foraminal stenosis",
+          "Spinal stenosis"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 21,
+        "number": 4
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "Let’s say, for the sake of argument, I break Sebastian’s spine at just the right place, somewhere in the zone of metaphysis in a vertebra. A fracture in which region would have the most consequence on  further stunting his growth?",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Zone of reserve cartilage",
+          "Zone of cell proliferation",
+          "Zone of cell hypertrophy",
+          "Zone of calcification E. Zone of bone deposition"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 21,
+        "number": 15
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "[2 pts] We know that testosterones and other androgens are able to be converted to many estrogens  via aromatization in metabolic pathways. We also know that estrogen production helps prevent bone density loss. Therefore, we can conclude that estrogen most directly—",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Inhibits osteoblast apoptosis, increasing their life span, reinforcing bones",
+          "Helps stimulate osteoblast production, promoting bone-building",
+          "Inhibits osteocyte apoptosis, allowing for prolonged bone remodeling",
+          "Helps stimulate osteoclast apoptosis, decreasing the rates of bone resorption"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 21,
+        "number": 22
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "[2 pts] Sebastian has concerns with the testosterone he is taking and the negative effect he thinks it’ll have on his bone density. Given the previous information, are Sebastian’s concerns grounded in reality? Select the best answer",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Yes, because testosterone inhibits osteoblast formation",
+          "Yes, because exogenous testosterone would decrease estrogen production",
+          "No, because some of the testosterone would be converted into estrogens",
+          "No, because testosterone counteracts any effects of lowered estrogen by stimulating osteoblasts"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 21,
+        "number": 23
+      }
+    },
+    {
+      "id": null,
+      "questionInfo": {
+        "question": "[2 pts] Brenton Lee’s 200 meter sprint PR is 22.71 seconds. Which of the following sources of energy were his muscles using over the course of this run? Select all that apply.",
+        "correctAnswerIndex": null,
+        "potentialAnswers": [
+          "Oxidative phosphorylation",
+          "Glycolysis",
+          "Standing Muscle ATP stores",
+          "Creatine phosphate transfer e. Lipolysis"
+        ],
+        "explanation": null
+      },
+      "searchInfo": {
+        "reference": null,
+        "system": null,
+        "event": "anatomy",
+        "tags": [
+          null
+        ]
+      },
+      "sourceInfo": {
+        "page": 21,
+        "number": 15
+      }
+    }
+  ]
+}
